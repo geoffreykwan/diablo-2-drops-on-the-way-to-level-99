@@ -1,0 +1,42 @@
+[
+  {
+    "class": "Amazon",
+    "attributes": "11",
+    "resistances": "10"
+  },
+  {
+    "class": "Necromancer",
+    "attributes": "15",
+    "resistances": "16"
+  },
+  {
+    "class": "Sorceress",
+    "attributes": "14",
+    "resistances": "17"
+  },
+  {
+    "class": "Barbarian",
+    "attributes": "19",
+    "resistances": "15"
+  },
+  {
+    "class": "Druid",
+    "attributes": "18",
+    "resistances": "10"
+  },
+  {
+    "class": "Assassin",
+    "attributes": "20",
+    "resistances": "11"
+  },
+  {
+    "class": "Assassin",
+    "attributes": "16",
+    "resistances": "19"
+  },
+  {
+    "class": "Necromancer",
+    "attributes": "19",
+    "resistances": "13"
+  }
+]

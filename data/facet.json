@@ -1,0 +1,200 @@
+[
+  {
+    "enemyResistance": "5",
+    "skillDamage": "4",
+    "element": "Fire",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "4",
+    "element": "Cold",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "4",
+    "element": "Lightning",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "4",
+    "element": "Lightning",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "5",
+    "element": "Poison",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "4",
+    "element": "Lightning",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "5",
+    "element": "Poison",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "4",
+    "element": "Fire",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "5",
+    "element": "Fire",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "5",
+    "element": "Fire",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "5",
+    "element": "Cold",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "4",
+    "element": "Cold",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "4",
+    "element": "Cold",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "3",
+    "element": "Fire",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "4",
+    "element": "Lightning",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "5",
+    "element": "Poison",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "4",
+    "element": "Lightning",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "3",
+    "element": "Poison",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "5",
+    "element": "Lightning",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "3",
+    "element": "Fire",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "4",
+    "element": "Fire",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "4",
+    "element": "Poison",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "3",
+    "element": "Fire",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "4",
+    "element": "Lightning",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "3",
+    "element": "Poison",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "4",
+    "skillDamage": "3",
+    "element": "Lightning",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "3",
+    "element": "Cold",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "3",
+    "element": "Poison",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "4",
+    "element": "Fire",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "3",
+    "element": "Lightning",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "3",
+    "skillDamage": "4",
+    "element": "Cold",
+    "when": "Die"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "5",
+    "element": "Lightning",
+    "when": "Level"
+  },
+  {
+    "enemyResistance": "5",
+    "skillDamage": "3",
+    "element": "Lightning",
+    "when": "Level"
+  }
+]

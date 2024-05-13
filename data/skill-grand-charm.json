@@ -1,0 +1,121 @@
+[
+  {
+    "class": "Amazon",
+    "skillTabs": [
+      {
+        "name": "Bow & Crossbow Skills",
+        "count": 5
+      },
+      {
+        "name": "Javelin & Spear Skills",
+        "count": 3
+      },
+      {
+        "name": "Passive & Magic Skills",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "class": "Assassin",
+    "skillTabs": [
+      {
+        "name": "Martial Arts",
+        "count": 2
+      },
+      {
+        "name": "Shadow Disciplines",
+        "count": 6
+      },
+      {
+        "name": "Traps",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "class": "Barbarian",
+    "skillTabs": [
+      {
+        "name": "Masteries",
+        "count": 3
+      },
+      {
+        "name": "Combat Skills",
+        "count": 3
+      },
+      {
+        "name": "Warcries",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "class": "Druid",
+    "skillTabs": [
+      {
+        "name": "Elemental Skills",
+        "count": 6
+      },
+      {
+        "name": "Shape Shifting Skills",
+        "count": 4
+      },
+      {
+        "name": "Summoning Skills",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "class": "Necromancer",
+    "skillTabs": [
+      {
+        "name": "Curses",
+        "count": 3
+      },
+      {
+        "name": "Poison & Bone Skills",
+        "count": 5
+      },
+      {
+        "name": "Summoning Skills",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "class": "Paladin",
+    "skillTabs": [
+      {
+        "name": "Combat Skills",
+        "count": 2
+      },
+      {
+        "name": "Defensive Auras",
+        "count": 5
+      },
+      {
+        "name": "Offensive Auras",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "class": "Sorceress",
+    "skillTabs": [
+      {
+        "name": "Cold Skills",
+        "count": 8
+      },
+      {
+        "name": "Fire Skills",
+        "count": 4
+      },
+      {
+        "name": "Lightning Skills",
+        "count": 7
+      }
+    ]
+  }
+]
