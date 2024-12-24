@@ -12,6 +12,18 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <div>
+    <router-link to="/drops">Drops</router-link>
+    <router-link to="/hellfire-torches">Hellfire Torches</router-link>
+    <router-link to="/annihiluses">Annihiluses</router-link>
+    <router-link to="/rainbow-facets">Rainbow Facets</router-link>
+    <router-link to="/plus-skill-grand-charms">+Skill Grand Charms</router-link>
+    <router-link to="/character">Character</router-link>
+    <router-link to="/about">About</router-link>
+  </div>
+  <div>
+    <router-view />
+  </div>
 </template>
 
 <style scoped>
@@ -21,9 +33,11 @@ import HelloWorld from './components/HelloWorld.vue'
   will-change: filter;
   transition: filter 300ms;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
 }
