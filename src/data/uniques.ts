@@ -378,7 +378,7 @@ export default [
     ],
     image: 'images/jewel05.gif',
     type: 'Jewel',
-    name: 'Rainbow Facet'
+    name: 'Rainbow Facet (Fire/Level)'
   },
   {
     category: 'Jewels',
@@ -392,7 +392,7 @@ export default [
     ],
     image: 'images/jewel02.gif',
     type: 'Jewel',
-    name: 'Rainbow Facet'
+    name: 'Rainbow Facet (Cold/Level)'
   },
   {
     category: 'Jewels',
@@ -406,7 +406,7 @@ export default [
     ],
     image: 'images/jewel06.gif',
     type: 'Jewel',
-    name: 'Rainbow Facet'
+    name: 'Rainbow Facet (Lightning/Level)'
   },
   {
     category: 'Jewels',
@@ -420,7 +420,7 @@ export default [
     ],
     image: 'images/jewel04.gif',
     type: 'Jewel',
-    name: 'Rainbow Facet'
+    name: 'Rainbow Facet (Poison/Level)'
   },
   {
     category: 'Jewels',
@@ -434,7 +434,7 @@ export default [
     ],
     image: 'images/jewel05.gif',
     type: 'Jewel',
-    name: 'Rainbow Facet'
+    name: 'Rainbow Facet (Fire/Die)'
   },
   {
     category: 'Jewels',
@@ -448,7 +448,7 @@ export default [
     ],
     image: 'images/jewel02.gif',
     type: 'Jewel',
-    name: 'Rainbow Facet'
+    name: 'Rainbow Facet (Cold/Die)'
   },
   {
     category: 'Jewels',
@@ -462,7 +462,7 @@ export default [
     ],
     image: 'images/jewel06.gif',
     type: 'Jewel',
-    name: 'Rainbow Facet'
+    name: 'Rainbow Facet (Lightning/Die)'
   },
   {
     category: 'Jewels',
@@ -476,7 +476,7 @@ export default [
     ],
     image: 'images/jewel04.gif',
     type: 'Jewel',
-    name: 'Rainbow Facet'
+    name: 'Rainbow Facet (Poison/Die)'
   },
   {
     category: 'Circlets',
@@ -1099,7 +1099,7 @@ export default [
     ],
     image: 'images/aerinshield.gif',
     type: 'Gilded Shield',
-    name: 'Herald Of Zakarum'
+    name: 'Herald of Zakarum'
   },
   {
     category: 'Paladin Shields',
@@ -3491,7 +3491,7 @@ export default [
     ],
     image: 'images/nosferatuscoil.gif',
     type: 'Vampirefang Belt',
-    name: "Nosferatu's Coil*"
+    name: "Nosferatu's Coil"
   },
   {
     category: 'Elite Belts',
@@ -5305,7 +5305,7 @@ export default [
     ],
     image: 'images/gavelofpain.gif',
     type: 'Martel de Fer',
-    name: 'The Gavel Of Pain'
+    name: 'The Gavel of Pain'
   },
   {
     category: 'Elite Maces',
@@ -6967,7 +6967,7 @@ export default [
     ],
     image: 'images/bladeofalibaba.gif',
     type: 'Tulwar',
-    name: 'Blade Of Ali Baba'
+    name: 'Blade of Ali Baba'
   },
   {
     category: 'Exceptional Swords',
