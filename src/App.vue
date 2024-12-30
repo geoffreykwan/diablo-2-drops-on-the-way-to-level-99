@@ -3,13 +3,13 @@
 
 <template>
   <div>
-    <router-link to="/drops">Drops</router-link>
-    <router-link to="/hellfire-torches">Hellfire Torches</router-link>
-    <router-link to="/annihiluses">Annihiluses</router-link>
-    <router-link to="/rainbow-facets">Rainbow Facets</router-link>
-    <router-link to="/plus-skill-grand-charms">+Skill Grand Charms</router-link>
-    <router-link to="/character">Character</router-link>
-    <router-link to="/about">About</router-link>
+    <router-link to="/drops"><button>Drops</button></router-link>
+    <router-link to="/hellfire-torches"><button>Hellfire Torches</button></router-link>
+    <router-link to="/annihiluses"><button>Annihiluses</button></router-link>
+    <router-link to="/rainbow-facets"><button>Rainbow Facets</button></router-link>
+    <router-link to="/plus-skill-grand-charms"><button>+Skill Grand Charms</button></router-link>
+    <router-link to="/character"><button>Character</button></router-link>
+    <router-link to="/about"><button>About</button></router-link>
   </div>
   <div>
     <router-view />
