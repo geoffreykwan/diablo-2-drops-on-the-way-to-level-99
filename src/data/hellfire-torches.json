@@ -5,14 +5,14 @@
     "resistances": "10"
   },
   {
-    "class": "Necromancer",
-    "attributes": "15",
-    "resistances": "16"
+    "class": "Assassin",
+    "attributes": "20",
+    "resistances": "11"
   },
   {
-    "class": "Sorceress",
-    "attributes": "14",
-    "resistances": "17"
+    "class": "Assassin",
+    "attributes": "16",
+    "resistances": "19"
   },
   {
     "class": "Barbarian",
@@ -25,18 +25,18 @@
     "resistances": "10"
   },
   {
-    "class": "Assassin",
-    "attributes": "20",
-    "resistances": "11"
-  },
-  {
-    "class": "Assassin",
-    "attributes": "16",
-    "resistances": "19"
-  },
-  {
     "class": "Necromancer",
     "attributes": "19",
     "resistances": "13"
+  },
+  {
+    "class": "Necromancer",
+    "attributes": "15",
+    "resistances": "16"
+  },
+  {
+    "class": "Sorceress",
+    "attributes": "14",
+    "resistances": "17"
   }
 ]
