@@ -27,9 +27,9 @@
 
 <script>
 import drops from '../data/drops.json'
-import uniques from '../data/uniques.ts'
-import runes from '../data/runes.ts'
-import setBonuses from '../data/set-bonuses.ts'
+import uniques from '../data/uniques.json'
+import runes from '../data/runes.json'
+import setBonuses from '../data/set-bonuses.json'
 const items = [...uniques, ...runes]
 const filteredItems = items
 export default {
@@ -48,11 +48,7 @@ export default {
     }
   },
   mounted() {
-    // console.log('mounted')
-    // this.filterDrops()
-    // this.sortNumerically()
     this.sortAlphabetically()
-    // this.sortNumericallyReverse()
   },
   methods: {
     filterDrops() {
