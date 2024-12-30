@@ -24,5 +24,23 @@ export default {
       annihiluses: annihiluses,
     }
   },
+  mounted() {
+    this.sort()
+  },
+  methods: {
+    sort() {
+      this.annihiluses.sort((a, b) => {
+        if (a.attributes === b.attributes) {
+          if (a.resistances === b.resistances) {
+            return b.experience - a.experience
+          } else {
+            return b.resistances - a.resistances
+          }
+        } else {
+          return b.attributes - a.attributes
+        }
+      })
+    },
+  },
 }
 </script>
