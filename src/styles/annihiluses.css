@@ -1,0 +1,13 @@
+.annihilus-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+}
+
+.annihilus-rows > div:nth-child(odd) {
+    background-color: #20100a;
+}
+
+.annihilus-rows > div:nth-child(even) {
+    background-color: black;
+}
