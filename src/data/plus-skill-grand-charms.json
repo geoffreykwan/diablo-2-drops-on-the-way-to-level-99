@@ -3,15 +3,15 @@
     "class": "Amazon",
     "skillTabs": [
       {
-        "name": "Bow & Crossbow Skills",
-        "count": 5
-      },
-      {
         "name": "Javelin & Spear Skills",
         "count": 3
       },
       {
         "name": "Passive & Magic Skills",
+        "count": 5
+      },
+      {
+        "name": "Bow & Crossbow Skills",
         "count": 5
       }
     ]
@@ -37,16 +37,16 @@
     "class": "Barbarian",
     "skillTabs": [
       {
+        "name": "Warcries",
+        "count": 6
+      },
+      {
         "name": "Masteries",
         "count": 3
       },
       {
         "name": "Combat Skills",
         "count": 3
-      },
-      {
-        "name": "Warcries",
-        "count": 6
       }
     ]
   },
@@ -71,7 +71,7 @@
     "class": "Necromancer",
     "skillTabs": [
       {
-        "name": "Curses",
+        "name": "Summoning Skills",
         "count": 3
       },
       {
@@ -79,7 +79,7 @@
         "count": 5
       },
       {
-        "name": "Summoning Skills",
+        "name": "Curses",
         "count": 3
       }
     ]
@@ -88,16 +88,16 @@
     "class": "Paladin",
     "skillTabs": [
       {
-        "name": "Combat Skills",
-        "count": 2
-      },
-      {
         "name": "Defensive Auras",
         "count": 5
       },
       {
         "name": "Offensive Auras",
         "count": 3
+      },
+      {
+        "name": "Combat Skills",
+        "count": 2
       }
     ]
   },
@@ -109,12 +109,12 @@
         "count": 8
       },
       {
-        "name": "Fire Skills",
-        "count": 4
-      },
-      {
         "name": "Lightning Skills",
         "count": 7
+      },
+      {
+        "name": "Fire Skills",
+        "count": 4
       }
     ]
   }
