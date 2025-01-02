@@ -21,7 +21,8 @@ const routes = [
     component: PlusSkillGrandCharms
   },
   { path: '/character', name: 'Character', component: Character },
-  { path: '/about', name: 'About', component: About }
+  { path: '/about', name: 'About', component: About },
+  { path: '/:pathMatch(.*)*', redirect: '/drops' }
 ];
 
 const router = createRouter({
