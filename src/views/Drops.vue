@@ -3,8 +3,9 @@
   <input v-model="searchText" v-on:input="filterDrops"
     placeholder="Search, use the | character (vertical bar) to search for multiple things at once" />
   <button @click="searchText = ''; filterDrops()">Clear</button>
-  <button @click="sortAlphabetically">Sort A > Z</button>
-  <button @click="sortAlphabeticallyReverse">Sort Z > A</button>
+  <br />
+  Sort By
+  <button @click="sortAlphabetically">Name</button>
   <button @click="sortNumerically">Count Increasing</button>
   <button @click="sortNumericallyReverse">Count Decreasing</button>
   <div class="grid-container">
@@ -66,11 +67,6 @@ export default {
     sortAlphabetically() {
       this.filteredItems.sort((a, b) => a.name.localeCompare(b.name))
       this.nameSortDirection = 'asc'
-      this.countSortDirection = ''
-    },
-    sortAlphabeticallyReverse() {
-      this.filteredItems.sort((a, b) => b.name.localeCompare(a.name))
-      this.nameSortDirection = 'desc'
       this.countSortDirection = ''
     },
     sortNumerically() {
