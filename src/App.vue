@@ -6,6 +6,7 @@
     <router-link to="/drops"><button>Drops</button></router-link>
     <router-link to="/hellfire-torches"><button>Hellfire Torches</button></router-link>
     <router-link to="/annihiluses"><button>Annihiluses</button></router-link>
+    <router-link to="/gheeds-fortunes"><button>Gheed's Fortunes</button></router-link>
     <router-link to="/rainbow-facets"><button>Rainbow Facets</button></router-link>
     <router-link to="/plus-skill-grand-charms"><button>+Skill Grand Charms</button></router-link>
     <router-link to="/character"><button>Character</button></router-link>

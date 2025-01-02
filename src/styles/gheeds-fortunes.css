@@ -1,0 +1,13 @@
+.gheeds-fortune-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+}
+
+.gheeds-fortune-rows > div:nth-child(odd) {
+    background-color: #20100a;
+}
+
+.gheeds-fortune-rows > div:nth-child(even) {
+    background-color: black;
+}

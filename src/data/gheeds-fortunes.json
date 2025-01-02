@@ -1,0 +1,77 @@
+[
+  {
+    "extraGold": 122,
+    "magicFind": 25,
+    "vendorPrices": 11
+  },
+  {
+    "extraGold": 130,
+    "magicFind": 29,
+    "vendorPrices": 11
+  },
+  {
+    "extraGold": 135,
+    "magicFind": 33,
+    "vendorPrices": 15
+  },
+  {
+    "extraGold": 103,
+    "magicFind": 35,
+    "vendorPrices":15 
+  },
+  {
+    "extraGold": 150,
+    "magicFind": 22,
+    "vendorPrices": 15
+  },
+  {
+    "extraGold": 147,
+    "magicFind": 24,
+    "vendorPrices": 10
+  },
+  {
+    "extraGold": 81,
+    "magicFind": 22,
+    "vendorPrices": 11
+  },
+  {
+    "extraGold": 154,
+    "magicFind": 25,
+    "vendorPrices": 14
+  },
+  {
+    "extraGold": 134,
+    "magicFind": 20,
+    "vendorPrices": 11
+  },
+  {
+    "extraGold": 96,
+    "magicFind": 32,
+    "vendorPrices": 11
+  },
+  {
+    "extraGold": 110,
+    "magicFind": 35,
+    "vendorPrices": 10
+  },
+  {
+    "extraGold": 104,
+    "magicFind": 40,
+    "vendorPrices": 14
+  },
+  {
+    "extraGold": 131,
+    "magicFind": 33,
+    "vendorPrices": 13
+  },
+  {
+    "extraGold": 142,
+    "magicFind": 38,
+    "vendorPrices": 11
+  },
+  {
+    "extraGold": 114,
+    "magicFind": 40,
+    "vendorPrices": 15
+  }
+]
