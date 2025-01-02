@@ -1,5 +1,9 @@
 <template>
   <h1>Annihiluses</h1>
+  Sort By
+  <button @click="sortByAttributes">+ All Attributes</button>
+  <button @click="sortByResistances">+ All Resistances</button>
+  <button @click="sortByExperience">+ Experience Gain</button>
   <div class="annihilus-row">
     <div>+ All Attributes</div>
     <div>+ All Resistances</div>
@@ -41,6 +45,45 @@ export default {
         }
       })
     },
-  },
+    sortByAttributes() {
+      this.annihiluses.sort((a, b) => {
+        if (a.attributes === b.attributes) {
+          if (a.resistances === b.resistances) {
+            return b.experience - a.experience
+          } else {
+            return b.resistances - a.resistances
+          }
+        } else {
+          return b.attributes - a.attributes
+        }
+      })
+    },
+    sortByResistances() {
+      this.annihiluses.sort((a, b) => {
+        if (a.resistances === b.resistances) {
+          if (a.attributes === b.attributes) {
+            return b.experience - a.experience
+          } else {
+            return b.attributes - a.attributes
+          }
+        } else {
+          return b.resistances - a.resistances
+        }
+      })
+    },
+    sortByExperience() {
+      this.annihiluses.sort((a, b) => {
+        if (a.experience === b.experience) {
+          if (a.attributes === b.attributes) {
+            return b.resistances - a.resistances
+          } else {
+            return b.attributes - a.attributes
+          }
+        } else {
+          return b.experience - a.experience
+        }
+      })
+    },
+  }
 }
 </script>
