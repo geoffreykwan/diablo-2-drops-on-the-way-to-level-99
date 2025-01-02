@@ -1,5 +1,9 @@
 <template>
   <h1>Rainbow Facets</h1>
+  Sort By
+  <button @click="sortByElement">Element</button>
+  <button @click="sortBySkillDamage">+% Skill Damage</button>
+  <button @click="sortByEnemyResistance">+% Enemy Resistance</button>
   <div class="rainbow-facet-row">
     <div>Element</div>
     <div>+% Skill Damage</div>
@@ -27,10 +31,10 @@ export default {
     }
   },
   mounted() {
-    this.sort()
+    this.sortByElement()
   },
   methods: {
-    sort() {
+    sortByElement() {
       this.rainbowFacets.sort((a, b) => {
         if (a.element === b.element) {
           if (a.skillDamage === b.skillDamage) {
@@ -43,6 +47,32 @@ export default {
         }
       })
     },
-  },
+    sortBySkillDamage() {
+      this.rainbowFacets.sort((a, b) => {
+        if (a.skillDamage === b.skillDamage) {
+          if (a.enemyResistance === b.enemyResistance) {
+            return a.element.localeCompare(b.element)
+          } else {
+            return b.enemyResistance - a.enemyResistance
+          }
+        } else {
+          return b.skillDamage - a.skillDamage
+        }
+      })
+    },
+    sortByEnemyResistance() {
+      this.rainbowFacets.sort((a, b) => {
+        if (a.enemyResistance === b.enemyResistance) {
+          if (a.skillDamage === b.skillDamage) {
+            return a.element.localeCompare(b.element)
+          } else {
+            return b.skillDamage - a.skillDamage
+          }
+        } else {
+          return b.enemyResistance - a.enemyResistance
+        }
+      })
+    },
+  }
 }
 </script>
