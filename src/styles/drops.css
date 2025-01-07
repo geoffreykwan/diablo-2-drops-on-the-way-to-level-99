@@ -1,0 +1,33 @@
+.grid-container-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 10px;
+}
+
+.grid-container-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+}
+
+.items > div:nth-child(odd) {
+    background-color: #20100a;
+}
+
+.items > div:nth-child(even) {
+    background-color: black;
+}
+
+.stat-line {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}

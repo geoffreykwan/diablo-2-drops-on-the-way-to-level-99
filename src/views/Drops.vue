@@ -4,29 +4,36 @@
     placeholder="Search, use the | character (vertical bar) to search for multiple things at once" />
   <button @click="searchText = ''; filterDrops()">Clear</button>
   <br />
+  <button @click="toggleStats">Toggle Stats</button>
   Sort By
   <button @click="sortAlphabetically">Name</button>
   <button @click="sortNumerically">Count Increasing</button>
   <button @click="sortNumericallyReverse">Count Decreasing</button>
-  <div class="grid-container">
+  <div :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
     <div class="align-left" @click="sortByName">Name
       <span v-if="nameSortDirection === 'asc'">&uarr;</span>
       <span v-if="nameSortDirection === 'desc'">&darr;</span>
     </div>
+    <div v-if="showStats">Stats</div>
     <div class="align-right" @click="sortByCount">Count
       <span v-if="countSortDirection === 'asc'">&uarr;</span>
       <span v-if="countSortDirection === 'desc'">&darr;</span>
     </div>
   </div>
   <div class="items">
-    <div v-for="item in filteredItems" :key="item.name" class="grid-container">
+    <div v-for="item in filteredItems" :key="item.name"
+      :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
       <div class="align-left">{{ item.name }}</div>
+      <div v-if="showStats">
+        <li v-for="stat in item.stats" v-html="stat" class="stat-line align-left"></li>
+      </div>
       <div class="align-right">{{ drops[item.name] ?? 0 }}</div>
     </div>
   </div>
 </template>
 
 <script>
+import '../styles/drops.css'
 import drops from '../data/drops.json'
 import uniques from '../data/uniques.json'
 import runes from '../data/runes.json'
@@ -45,6 +52,7 @@ export default {
       runes: runes,
       searchText: '',
       setBonuses: setBonuses,
+      showStats: false,
       uniques: uniques,
     }
   },
@@ -52,6 +60,9 @@ export default {
     this.sortAlphabetically()
   },
   methods: {
+    toggleStats() {
+      this.showStats = !this.showStats
+    },
     filterDrops() {
       const searchTexts = this.searchText.split('|');
       this.filteredItems = this.items.filter((item) => {
