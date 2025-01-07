@@ -33,6 +33,11 @@
       </div>
       <div v-if="showStats">
         <li v-for="stat in item.stats" v-html="stat" class="stat-line align-left"></li>
+        <div v-if="item.category == 'Runes'">
+          <li class="stat-line align-left">Weapon: {{ item.weaponStats }}</li>
+          <br />
+          <li class="stat-line align-left">Armor/Helms/Shields: {{ item.armorStats }}</li>
+        </div>
       </div>
       <div :class="{ 'align-right': !showStats, 'align-center': showStats }">
         {{ drops[item.name] ?? 0 }}
