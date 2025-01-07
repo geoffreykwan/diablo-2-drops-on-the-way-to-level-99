@@ -10,28 +10,33 @@
   <button @click="sortNumerically">Count Increasing</button>
   <button @click="sortNumericallyReverse">Count Decreasing</button>
   <div :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
-    <div class="align-left" @click="sortByName">Name
-      <span v-if="nameSortDirection === 'asc'">&uarr;</span>
-      <span v-if="nameSortDirection === 'desc'">&darr;</span>
+    <div :class="{ 'align-left': !showStats, 'align-center': showStats }" @click="sortByName">Name
+      <!-- <span v-if="nameSortDirection === 'asc'">&uarr;</span>
+      <span v-if="nameSortDirection === 'desc'">&darr;</span> -->
     </div>
-    <div v-if="showStats">Stats</div>
-    <div class="align-right" @click="sortByCount">Count
-      <span v-if="countSortDirection === 'asc'">&uarr;</span>
-      <span v-if="countSortDirection === 'desc'">&darr;</span>
+    <div v-if="showStats" class="align-left">Stats</div>
+    <div :class="{ 'align-right': !showStats, 'align-center': showStats }" @click="sortByCount">
+      Count
+      <!-- <span v-if="countSortDirection === 'asc'">&uarr;</span>
+      <span v-if="countSortDirection === 'desc'">&darr;</span> -->
     </div>
   </div>
-  <div class="items">
+  <div :class="{ 'items': !showStats, 'items-with-stats': showStats }">
     <div v-for="item in filteredItems" :key="item.name"
       :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
-      <div class="align-left">
-        <img v-if="showStats" :src="'../src/assets/' + item.image" />
-        <li class="stat-line">{{ item.name }}</li>
-        <li v-if="showStats" class="stat-line">{{ item.type }}</li>
+      <div :class="{ 'align-left': !showStats, 'align-center': showStats }">
+        <div>
+          <li class="stat-line"><img v-if="showStats" :src="'../src/assets/' + item.image" /></li>
+          <li class="stat-line">{{ item.name }}</li>
+          <li v-if="showStats" class="stat-line">{{ item.type }}</li>
+        </div>
       </div>
       <div v-if="showStats">
         <li v-for="stat in item.stats" v-html="stat" class="stat-line align-left"></li>
       </div>
-      <div class="align-right">{{ drops[item.name] ?? 0 }}</div>
+      <div :class="{ 'align-right': !showStats, 'align-center': showStats }">
+        {{ drops[item.name] ?? 0 }}
+      </div>
     </div>
   </div>
 </template>
