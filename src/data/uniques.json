@@ -481,7 +481,7 @@
   {
     "category": "Circlets",
     "stats": [
-      "Defense: <font color=4850B8>90-170</font> (varies)(Base Defense: 40-50)",
+      "Defense: <font color=4850B8>90-170</font> (varies) (Base Defense: 40-50)",
       "Required Level: 77",
       "Durability: 25",
       "<font color=4850B8>+50-120 Defense</font> (varies)",
@@ -498,7 +498,7 @@
   {
     "category": "Circlets",
     "stats": [
-      "Defense: <font color=4850B8>150-260</font> (varies)(Base Defense: 50-60)",
+      "Defense: <font color=4850B8>150-260</font> (varies) (Base Defense: 50-60)",
       "Required Level: 76",
       "Durability: 20",
       "<font color=4850B8>+100-200 Defense</font> (varies)",
@@ -752,7 +752,7 @@
   {
     "category": "Necromancer Shrunken Heads",
     "stats": [
-      "Defense: <font color=4850B8>177-213</font> (varies)(Base Defense: 58-70)",
+      "Defense: <font color=4850B8>177-213</font> (varies) (Base Defense: 58-70)",
       "Defense: 58-70",
       "Required Level: 42",
       "Required Strength: 58",
@@ -777,7 +777,7 @@
   {
     "category": "Necromancer Shrunken Heads",
     "stats": [
-      "Defense: <font color=4850B8>357-417</font> (varies)(Base Defense: 103-148)",
+      "Defense: <font color=4850B8>357-417</font> (varies) (Base Defense: 103-148)",
       "Required Level: 65",
       "Required Strength: 106",
       "Durability: 20",
@@ -799,7 +799,7 @@
   {
     "category": "Necromancer Shrunken Heads",
     "stats": [
-      "Defense: <font color=4850B8>323-367</font> (varies)(Base Defense: 100-146)",
+      "Defense: <font color=4850B8>323-367</font> (varies) (Base Defense: 100-146)",
       "Required Level: 72",
       "Required Strength: 95",
       "Durability: 20",
@@ -819,7 +819,7 @@
   {
     "category": "Barbarian Helms",
     "stats": [
-      "Defense: <font color=4850B8>302-363</font> (varies)(Base Defense: 121)",
+      "Defense: <font color=4850B8>302-363</font> (varies) (Base Defense: 121)",
       "Required Level: 42",
       "Required Strength: 118",
       "Durability: 55",
@@ -842,7 +842,7 @@
   {
     "category": "Barbarian Helms",
     "stats": [
-      "Defense: <font color=4850B8>332-377</font> (varies)(Base Defense: 105-150)",
+      "Defense: <font color=4850B8>332-377</font> (varies) (Base Defense: 105-150)",
       "Required Level: 79",
       "Required Strength: 129",
       "Durability: 35",
@@ -865,7 +865,7 @@
   {
     "category": "Barbarian Helms",
     "stats": [
-      "Defense: <font color=4850B8>345-408</font> (varies)(Base Defense: 111-156)",
+      "Defense: <font color=4850B8>345-408</font> (varies) (Base Defense: 111-156)",
       "Required Level: 61",
       "Required Strength: 151",
       "Durability: 45",
@@ -887,7 +887,7 @@
   {
     "category": "Barbarian Helms",
     "stats": [
-      "Defense: <font color=4850B8>384-432</font> (varies)(Base Defense: 114-159)",
+      "Defense: <font color=4850B8>384-432</font> (varies) (Base Defense: 114-159)",
       "Required Level: 77",
       "Required Strength: 174",
       "Durability: 50",
@@ -971,7 +971,7 @@
   {
     "category": "Druid Pelts",
     "stats": [
-      "Defense: <font color=4850B8>247-297</font> (varies)(Base Defense: 73-98)",
+      "Defense: <font color=4850B8>247-297</font> (varies) (Base Defense: 73-98)",
       "Required Level: 42",
       "Required Strength: 65",
       "Durability: 20",
@@ -994,7 +994,7 @@
   {
     "category": "Druid Pelts",
     "stats": [
-      "Defense: <font color=4850B8>335-350</font> (varies)(Base Defense: 101-145)",
+      "Defense: <font color=4850B8>335-350</font> (varies) (Base Defense: 101-145)",
       "Required Level: 63",
       "Required Strength: 86",
       "Durability: 20",
@@ -1015,7 +1015,7 @@
   {
     "category": "Druid Pelts",
     "stats": [
-      "Defense: <font color=4850B8>343-390</font> (varies)(Base Defense: 103-155)",
+      "Defense: <font color=4850B8>343-390</font> (varies) (Base Defense: 103-155)",
       "Required Level: 74",
       "Required Strength: 113",
       "Durability: 20",
@@ -1035,7 +1035,7 @@
   {
     "category": "Druid Pelts",
     "stats": [
-      "Defense: <font color=4850B8>413-443</font> (varies)(Base Defense: 107-152)",
+      "Defense: <font color=4850B8>413-443</font> (varies) (Base Defense: 107-152)",
       "Required Level: 67",
       "Required Strength: 104",
       "Durability: 20",
@@ -1056,7 +1056,7 @@
   {
     "category": "Paladin Shields",
     "stats": [
-      "Defense: <font color=4850B8>461-511</font> (varies)(Base Defense: 138-164)",
+      "Defense: <font color=4850B8>461-511</font> (varies) (Base Defense: 138-164)",
       "Required Level: 77",
       "Required Strength: 109",
       "Chance To Block: <font color=4850B8>78%</font>",
@@ -1079,7 +1079,7 @@
   {
     "category": "Paladin Shields",
     "stats": [
-      "Defense: <font color=4850B8>422-507</font> (varies)(Base Defense: 144-168)",
+      "Defense: <font color=4850B8>422-507</font> (varies) (Base Defense: 144-168)",
       "Required Level: 42",
       "Required Strength: 89",
       "Durability: 50",
@@ -1104,7 +1104,7 @@
   {
     "category": "Paladin Shields",
     "stats": [
-      "Defense: <font color=4850B8>523-582</font> (varies)(Base Defense: 169-193)",
+      "Defense: <font color=4850B8>523-582</font> (varies) (Base Defense: 169-193)",
       "Required Level: 80",
       "Required Strength: 142",
       "Durability: 65",
@@ -1127,7 +1127,7 @@
   {
     "category": "Normal Helms",
     "stats": [
-      "Defense: <font color=4850B8>17-19</font> (varies)(Base Defense: 3-5)",
+      "Defense: <font color=4850B8>17-19</font> (varies) (Base Defense: 3-5)",
       "Required Level: 3",
       "Durability: 12",
       "<font color=4850B8>+30% Enhanced Damage</font>",
@@ -1160,7 +1160,7 @@
   {
     "category": "Normal Helms",
     "stats": [
-      "Defense: <font color=4850B8>25-28</font> (varies)(Base Defense: 15-18)",
+      "Defense: <font color=4850B8>25-28</font> (varies) (Base Defense: 15-18)",
       "Required Level: 14",
       "Required Strength: 26",
       "Durability: 24",
@@ -1178,7 +1178,7 @@
   {
     "category": "Normal Helms",
     "stats": [
-      "Defense: <font color=4850B8>45-60</font> (varies)(Base Defense: 23-26)",
+      "Defense: <font color=4850B8>45-60</font> (varies) (Base Defense: 23-26)",
       "Required Level: 17",
       "Required Strength: 41",
       "Durability: 30",
@@ -1216,7 +1216,7 @@
   {
     "category": "Normal Helms",
     "stats": [
-      "Defense: <font color=4850B8>34-52</font> (varies)(Base Defense: 9-27)",
+      "Defense: <font color=4850B8>34-52</font> (varies) (Base Defense: 9-27)",
       "Required Level: 20",
       "Required Strength: 23",
       "Durability: 20",
@@ -1234,7 +1234,7 @@
   {
     "category": "Normal Helms",
     "stats": [
-      "Defense: <font color=4850B8>99-113</font> (varies)(Base Defense: 25-45)",
+      "Defense: <font color=4850B8>99-113</font> (varies) (Base Defense: 25-45)",
       "Required Level: 29",
       "Required Strength: 55",
       "Durability: 50",
@@ -1292,7 +1292,7 @@
   {
     "category": "Exceptional Helms",
     "stats": [
-      "Defense: <font color=4850B8>163-201</font> (varies)(Base Defense: 52-62)",
+      "Defense: <font color=4850B8>163-201</font> (varies) (Base Defense: 52-62)",
       "Required Level: 31",
       "Required Strength: 43",
       "Durability: 18",
@@ -1312,7 +1312,7 @@
   {
     "category": "Exceptional Helms",
     "stats": [
-      "Defense: <font color=4850B8>219-248</font> (varies)(Base Defense 63-72)",
+      "Defense: <font color=4850B8>219-248</font> (varies) (Base Defense 63-72)",
       "Required Level: 35",
       "Required Strength: 59",
       "Durability: 24",
@@ -1331,7 +1331,7 @@
   {
     "category": "Exceptional Helms",
     "stats": [
-      "Defense: <font color=4850B8>(77-273) - (86-282)</font> (varies)(Base Defense: 75-84)",
+      "Defense: <font color=4850B8>(77-273) - (86-282)</font> (varies) (Base Defense: 75-84)",
       "Required Level: 38",
       "Required Strength: 82",
       "Durability: 30",
@@ -1351,7 +1351,7 @@
   {
     "category": "Exceptional Helms",
     "stats": [
-      "Defense: <font color=4850B8>247-297</font> (varies)(Base Defense: 85-98)",
+      "Defense: <font color=4850B8>247-297</font> (varies) (Base Defense: 85-98)",
       "Required Level: 44",
       "Required Strength: 115",
       "Durability: 40",
@@ -1369,7 +1369,7 @@
   {
     "category": "Exceptional Helms",
     "stats": [
-      "Defense: <font color=4850B8>243-278</font> (varies)(Base Defense: 54-86)",
+      "Defense: <font color=4850B8>243-278</font> (varies) (Base Defense: 54-86)",
       "Required Level: 41",
       "Required Strength: 55",
       "Durability: 20",
@@ -1388,7 +1388,7 @@
   {
     "category": "Exceptional Helms",
     "stats": [
-      "Defense: <font color=4850B8>296-342</font> (varies)(Base Defense: 78-113)",
+      "Defense: <font color=4850B8>296-342</font> (varies) (Base Defense: 78-113)",
       "Required Level: 49",
       "Required Strength: 103",
       "Durability: 50",
@@ -1447,7 +1447,7 @@
   {
     "category": "Elite Helms",
     "stats": [
-      "Defense: <font color=4850B8>300-345</font> (varies)(Base Defense: 105-149)",
+      "Defense: <font color=4850B8>300-345</font> (varies) (Base Defense: 105-149)",
       "Required Level: 62",
       "Required Strength: 109",
       "Durability: 24",
@@ -1483,7 +1483,7 @@
   {
     "category": "Elite Helms",
     "stats": [
-      "Defense: <font color=4850B8>304-352</font> (varies)(Base Defense: 114-159)",
+      "Defense: <font color=4850B8>304-352</font> (varies) (Base Defense: 114-159)",
       "Required Level: 67",
       "Required Strength: <font color=4850B8>96</font>",
       "Durability: 40",
@@ -1503,7 +1503,7 @@
   {
     "category": "Elite Helms",
     "stats": [
-      "Defense: <font color=4850B8>310-387</font> (varies)(Base Defense: 101-154)",
+      "Defense: <font color=4850B8>310-387</font> (varies) (Base Defense: 101-154)",
       "Required Level: 83",
       "Required Strength: 102",
       "Durability: 20",
@@ -1527,7 +1527,7 @@
   {
     "category": "Elite Helms",
     "stats": [
-      "Defense: <font color=4850B8>349-399</font> (varies)(Base Defense: 111-165)",
+      "Defense: <font color=4850B8>349-399</font> (varies) (Base Defense: 111-165)",
       "Required Level: 82",
       "Required Strength: 174",
       "<font color=4850B8>+50% Enhanced Defense</font>",
@@ -1547,7 +1547,7 @@
   {
     "category": "Elite Helms",
     "stats": [
-      "Defense: <font color=4850B8>350-477</font> (varies)(Base Defense: 100-157)",
+      "Defense: <font color=4850B8>350-477</font> (varies) (Base Defense: 100-157)",
       "Required Level: 65",
       "Required Strength: 106",
       "Durability: 40",
@@ -1565,7 +1565,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>28-31</font> (varies)(Base Defense: 8-11)",
+      "Defense: <font color=4850B8>28-31</font> (varies) (Base Defense: 8-11)",
       "Required Level: 7",
       "Required Strength: 12",
       "Durability: 20",
@@ -1584,7 +1584,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>39-42</font> (varies)(Base Defense: 14-17)",
+      "Defense: <font color=4850B8>39-42</font> (varies) (Base Defense: 14-17)",
       "Required Level: 12",
       "Required Strength: 15",
       "Durability: 24",
@@ -1602,7 +1602,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>51-54</font> (varies)(Base Defense: 21-24)",
+      "Defense: <font color=4850B8>51-54</font> (varies) (Base Defense: 21-24)",
       "Required Level: 14",
       "Required Strength: 20",
       "Durability: 28",
@@ -1623,7 +1623,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>57-60</font> (varies)(Base Defense: 32-35)",
+      "Defense: <font color=4850B8>57-60</font> (varies) (Base Defense: 32-35)",
       "Required Level: 16",
       "Required Strength: 27",
       "Durability: 32",
@@ -1642,7 +1642,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>83-98</font> (varies)(Base Defense: 45-48)",
+      "Defense: <font color=4850B8>83-98</font> (varies) (Base Defense: 45-48)",
       "Required Level: 14",
       "Required Strength: 36",
       "Durability: 26",
@@ -1664,7 +1664,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>109-122</font> (varies)(Base Defense: 57-60)",
+      "Defense: <font color=4850B8>109-122</font> (varies) (Base Defense: 57-60)",
       "Required Level: 15",
       "Required Strength: 44",
       "Durability: 36",
@@ -1682,7 +1682,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>110-138</font> (varies)(Base Defense: 65-68)",
+      "Defense: <font color=4850B8>110-138</font> (varies) (Base Defense: 65-68)",
       "Required Level: 20",
       "Required Strength: 30",
       "Durability: 50",
@@ -1700,7 +1700,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>133-140</font> (varies)(Base Defense: 72-75)",
+      "Defense: <font color=4850B8>133-140</font> (varies) (Base Defense: 72-75)",
       "Required Level: 17",
       "Required Strength: 48",
       "Durability: 45",
@@ -1717,7 +1717,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>163-172</font> (varies)(Base Defense: 90-95)",
+      "Defense: <font color=4850B8>163-172</font> (varies) (Base Defense: 90-95)",
       "Required Level: 22",
       "Required Strength: 51",
       "Durability: 30",
@@ -1754,7 +1754,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>212-243</font> (varies)(Base Defense: 101-105)",
+      "Defense: <font color=4850B8>212-243</font> (varies) (Base Defense: 101-105)",
       "Required Level: 28",
       "Required Strength: <font color='#4850b8'>50</font>",
       "Durability: 48",
@@ -1772,7 +1772,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>234-257</font> (varies)(Base Defense: 108-116)",
+      "Defense: <font color=4850B8>234-257</font> (varies) (Base Defense: 108-116)",
       "Required Level: 26",
       "Required Strength: 65",
       "Durability: 60",
@@ -1789,7 +1789,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>328-335</font> (varies)(Base Defense: 128-135)",
+      "Defense: <font color=4850B8>328-335</font> (varies) (Base Defense: 128-135)",
       "Required Level: 29",
       "Required Strength: 70",
       "Durability: 55",
@@ -1806,7 +1806,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>356-405</font> (varies)(Base Defense: 150-161)",
+      "Defense: <font color=4850B8>356-405</font> (varies) (Base Defense: 150-161)",
       "Required Level: 28",
       "Required Strength: 80",
       "Durability: 70",
@@ -1824,7 +1824,7 @@
   {
     "category": "Normal Armor",
     "stats": [
-      "Defense: <font color=4850B8>468-514</font> (varies)(Base Defense: 218-233)",
+      "Defense: <font color=4850B8>468-514</font> (varies) (Base Defense: 218-233)",
       "Required Level: 28",
       "Required Strength: 100",
       "Durability: 60",
@@ -1877,7 +1877,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>342-397</font> (varies)(Base Defense: 122-136)",
+      "Defense: <font color=4850B8>342-397</font> (varies) (Base Defense: 122-136)",
       "Required Level: 31",
       "Required Strength: 50",
       "Durability: <font color=4850B8>58</font>",
@@ -1895,7 +1895,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>(234-528) - (311-605)</font> (varies)(Base Defense: 138-153)",
+      "Defense: <font color=4850B8>(234-528) - (311-605)</font> (varies) (Base Defense: 138-153)",
       "Required Level: 33",
       "Required Strength: 61",
       "Durability: <font color=4850B8>157</font>",
@@ -1913,7 +1913,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>477-534</font> (varies)(Base Defense: 176-190)",
+      "Defense: <font color=4850B8>477-534</font> (varies) (Base Defense: 176-190)",
       "Required Level: 37",
       "Required Strength: 86",
       "Durability: 36",
@@ -1931,7 +1931,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>380-449</font> (varies)(Base Defense: 158-172)",
+      "Defense: <font color=4850B8>380-449</font> (varies) (Base Defense: 158-172)",
       "Required Level: 35",
       "Required Strength: 74",
       "Durability: 26",
@@ -1951,7 +1951,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense:  <font color=4850B8>(528-650) - (610-732)</font> (varies)(Base Defense: 188-202)",
+      "Defense:  <font color=4850B8>(528-650) - (610-732)</font> (varies) (Base Defense: 188-202)",
       "Required Level: 41",
       "Required Strength: 65",
       "Durability: <font color=4850B8>150</font>",
@@ -1973,7 +1973,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>599-684</font> (varies)(Base Defense: 198-213)",
+      "Defense: <font color=4850B8>599-684</font> (varies) (Base Defense: 198-213)",
       "Required Level: 38",
       "Required Strength: 92",
       "Durability: 45",
@@ -1990,7 +1990,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>634-732</font> (varies)(Base Defense: 225-243)",
+      "Defense: <font color=4850B8>634-732</font> (varies) (Base Defense: 225-243)",
       "Required Level: 42",
       "Required Strength: 97",
       "Durability: <font color=4850B8>90</font>",
@@ -2008,7 +2008,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>628-681</font> (varies)(Base Defense: 225-261)",
+      "Defense: <font color=4850B8>628-681</font> (varies) (Base Defense: 225-261)",
       "Required Level: 51",
       "Required Strength: 55",
       "Durability: 60",
@@ -2028,7 +2028,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>713-888</font> (varies)(Base Defense: 242-258)",
+      "Defense: <font color=4850B8>713-888</font> (varies) (Base Defense: 242-258)",
       "Required Level: 48",
       "Required Strength: 103",
       "Durability: <font color=4850B8>63</font>",
@@ -2047,7 +2047,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>770-825</font> (varies)(Base Defense: 252-274)",
+      "Defense: <font color=4850B8>770-825</font> (varies) (Base Defense: 252-274)",
       "Required Level: 45",
       "Required Strength: 118",
       "Durability: 60",
@@ -2070,7 +2070,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>(670-866) - (792-988)</font> (varies)(Base Defense: 282-303)",
+      "Defense: <font color=4850B8>(670-866) - (792-988)</font> (varies) (Base Defense: 282-303)",
       "Required Level: 51",
       "Required Strength: 125",
       "Durability: <font color=4850B8>105</font>",
@@ -2090,7 +2090,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>823-1029</font> (varies)(Base Defense: 315-342)",
+      "Defense: <font color=4850B8>823-1029</font> (varies) (Base Defense: 315-342)",
       "Required Level: 53",
       "Required Strength: 140",
       "Durability: 70",
@@ -2109,7 +2109,7 @@
   {
     "category": "Exceptional Armor",
     "stats": [
-      "Defense: <font color=4850B8>1127-1262</font> (varies)(Base Defense: 417-450)",
+      "Defense: <font color=4850B8>1127-1262</font> (varies) (Base Defense: 417-450)",
       "Required Level: 55",
       "Required Strength: 170",
       "Durability: 60",
@@ -2129,7 +2129,7 @@
   {
     "category": "Elite Armor",
     "stats": [
-      "Defense: <font color=4850B8>371-487</font> (varies)(Base Defense: 361-467)",
+      "Defense: <font color=4850B8>371-487</font> (varies) (Base Defense: 361-467)",
       "Required Level: 75",
       "Required Strength: 77",
       "Durability: 20",
@@ -2149,7 +2149,7 @@
   {
     "category": "Elite Armor",
     "stats": [
-      "Defense: <font color=4850B8>1255-1496</font> (varies)(Base Defense: 375-481)",
+      "Defense: <font color=4850B8>1255-1496</font> (varies) (Base Defense: 375-481)",
       "Required Level: 85",
       "Required Strength: 111",
       "Durability: <font color=4850B8>135</font>",
@@ -2170,7 +2170,7 @@
   {
     "category": "Elite Armor",
     "stats": [
-      "Defense: <font color=4850B8>1295-1450</font> (varies)(Base Defense: 410-517)",
+      "Defense: <font color=4850B8>1295-1450</font> (varies) (Base Defense: 410-517)",
       "Required Level: 85",
       "Required Strength: 165",
       "Durability: 30",
@@ -2188,7 +2188,7 @@
   {
     "category": "Elite Armor",
     "stats": [
-      "Defense: <font color=4850B8>1514-1722</font> (varies)(Base Defense: 417-523)",
+      "Defense: <font color=4850B8>1514-1722</font> (varies) (Base Defense: 417-523)",
       "Required Level: 65",
       "Required Strength: 174",
       "<font color=4850B8>+170-200% Enhanced Defense</font> (varies)",
@@ -2206,7 +2206,7 @@
   {
     "category": "Elite Armor",
     "stats": [
-      "Defense: <font color=4850B8>1618-1785</font> (varies)(Base Defense: 446-557)",
+      "Defense: <font color=4850B8>1618-1785</font> (varies) (Base Defense: 446-557)",
       "Required Level: 66",
       "Required Strength: 230",
       "Durability: 70",
@@ -2226,7 +2226,7 @@
   {
     "category": "Elite Armor",
     "stats": [
-      "Defense: <font color=4850B8>1622-1923</font> (varies)(Base Defense: 487-600)",
+      "Defense: <font color=4850B8>1622-1923</font> (varies) (Base Defense: 487-600)",
       "Required Level: 74",
       "Required Strength: 232",
       "Durability: 60",
@@ -2246,7 +2246,7 @@
   {
     "category": "Elite Armor",
     "stats": [
-      "Defense: <font color=4850B8>1322-1502</font> (varies)(Base Defense: 487-600)",
+      "Defense: <font color=4850B8>1322-1502</font> (varies) (Base Defense: 487-600)",
       "Required Level: 84",
       "Required Strength: <font color=4850B8>None</font>",
       "<font color=4850B8>+120-150% Enhanced Defense</font> (varies)",
@@ -2290,7 +2290,7 @@
   {
     "category": "Normal Shields",
     "stats": [
-      "Defense: <font color=4850B8>45-46</font> (varies)(Base Defense: 8-10)",
+      "Defense: <font color=4850B8>45-46</font> (varies) (Base Defense: 8-10)",
       "Required Level: 9",
       "Required Strength: 22",
       "Durability: <font color=4850B8>26-31</font> (varies)",
@@ -2313,7 +2313,7 @@
   {
     "category": "Normal Shields",
     "stats": [
-      "Defense: <font color=4850B8>52-54</font> (varies)(Base Defense: 12-14)",
+      "Defense: <font color=4850B8>52-54</font> (varies) (Base Defense: 12-14)",
       "Required Level: 13",
       "Required Strength: 34",
       "Durability: <font color=4850B8>34-39</font> (varies)",
@@ -2335,7 +2335,7 @@
   {
     "category": "Normal Shields",
     "stats": [
-      "Defense: <font color=4850B8>50-58</font> (varies)(Base Defense: 16-18)",
+      "Defense: <font color=4850B8>50-58</font> (varies) (Base Defense: 16-18)",
       "Required Level: 17",
       "Required Strength: 47",
       "Durability: <font color=4850B8>45-50</font> (varies)",
@@ -2358,7 +2358,7 @@
   {
     "category": "Normal Shields",
     "stats": [
-      "Defense: <font color=4850B8>43-51</font> (varies)(Base Defense: 15-25)",
+      "Defense: <font color=4850B8>43-51</font> (varies) (Base Defense: 15-25)",
       "Required Level: 15",
       "Required Strength: 30",
       "Durability: 40",
@@ -2378,7 +2378,7 @@
   {
     "category": "Normal Shields",
     "stats": [
-      "Defense: <font color=4850B8>76-87</font> (varies)(Base Defense: 22-25)",
+      "Defense: <font color=4850B8>76-87</font> (varies) (Base Defense: 22-25)",
       "Required Level: 19",
       "Required Strength: 75",
       "Durability: <font color=4850B8>140-160</font> (varies)",
@@ -2399,7 +2399,7 @@
   {
     "category": "Normal Shields",
     "stats": [
-      "Defense: <font color=4850B8>50-53</font> (varies)(Base Defense: 10-30)",
+      "Defense: <font color=4850B8>50-53</font> (varies) (Base Defense: 10-30)",
       "Required Level: 20",
       "Required Strength: 25",
       "Durability: 40",
@@ -2441,7 +2441,7 @@
   {
     "category": "Exceptional Shields",
     "stats": [
-      "Defense: <font color=4850B8>100-125</font> (varies)(Base Defense: 41-49)",
+      "Defense: <font color=4850B8>100-125</font> (varies) (Base Defense: 41-49)",
       "Required Level: 28",
       "Required Strength: 38",
       "Chance to Block: Pal: <font color=4850B8>70%</font>, Ama/Asn/Bar: <font color=4850B8>65%</font>, Dru/Nec/Sor: <font color=4850B8>60%</font>",
@@ -2461,7 +2461,7 @@
   {
     "category": "Exceptional Shields",
     "stats": [
-      "Defense: <font color=4850B8>156-179</font> (varies)(Base Defense: 47-55)",
+      "Defense: <font color=4850B8>156-179</font> (varies) (Base Defense: 47-55)",
       "Required Level: 31",
       "Required Strength: 53",
       "Chance to Block: Pal: <font color=4850B8>67%</font>, Ama/Asn/Bar: <font color=4850B8>62%</font>, Dru/Nec/Sor: <font color=4850B8>57%</font>",
@@ -2481,7 +2481,7 @@
   {
     "category": "Exceptional Shields",
     "stats": [
-      "Defense: <font color=4850B8>161-198</font> (varies)(Base Defense: 53-61)",
+      "Defense: <font color=4850B8>161-198</font> (varies) (Base Defense: 53-61)",
       "Required Level: 35",
       "Required Strength: 71",
       "Chance to Block: Pal: <font color=4850B8>64%</font>, Ama/Asn/Bar: <font color=4850B8>59%</font>, Dru/Nec/Sor: <font color=4850B8>54%</font>",
@@ -2505,7 +2505,7 @@
   {
     "category": "Exceptional Shields",
     "stats": [
-      "Defense: <font color=4850B8>163-204</font> (varies)(Base Defense: 59-67)",
+      "Defense: <font color=4850B8>163-204</font> (varies) (Base Defense: 59-67)",
       "Required Level: 38",
       "Required Strength: 91",
       "Chance to Block: Pal: <font color=4850B8>48%</font>, Ama/Asn/Bar: <font color=4850B8>43%</font>, Dru/Nec/Sor: <font color=4850B8>38%</font>",
@@ -2528,7 +2528,7 @@
   {
     "category": "Exceptional Shields",
     "stats": [
-      "Defense: <font color=4850B8>134-173</font> (varies)(Base Defense: 58-78)",
+      "Defense: <font color=4850B8>134-173</font> (varies) (Base Defense: 58-78)",
       "Required Level: 35",
       "Required Strength: 65",
       "Chance to Block: Pal: <font color=4850B8>47%</font>, Ama/Asn/Bar: <font color=4850B8>42%</font>, Dru/Nec/Sor: <font color=4850B8>37%</font>",
@@ -2549,7 +2549,7 @@
   {
     "category": "Exceptional Shields",
     "stats": [
-      "Defense: <font color=4850B8>221-268</font> (varies)(Base Defense: 68-78)",
+      "Defense: <font color=4850B8>221-268</font> (varies) (Base Defense: 68-78)",
       "Required Level: 44",
       "Required Strength: 133",
       "Chance to Block: Pal: <font color=4850B8>84%</font>, Ama/Asn/Bar: <font color=4850B8>79%</font>, Dru/Nec/Sor: <font color=4850B8>74%</font>",
@@ -2570,7 +2570,7 @@
   {
     "category": "Exceptional Shields",
     "stats": [
-      "Defense: <font color=4850B8>271-347</font> (varies)(Base Defense: 50-150)",
+      "Defense: <font color=4850B8>271-347</font> (varies) (Base Defense: 50-150)",
       "Required Level: 41",
       "Required Strength: 58",
       "Chance to Block: Pal: <font color=4850B8>50%</font>, Ama/Asn/Bar: <font color=4850B8>45%</font>, Dru/Nec/Sor: <font color=4850B8>40%</font>",
@@ -2592,7 +2592,7 @@
   {
     "category": "Exceptional Shields",
     "stats": [
-      "Defense: <font color=4850B8>244-282</font> (varies)(Base Defense: 80-93)",
+      "Defense: <font color=4850B8>244-282</font> (varies) (Base Defense: 80-93)",
       "Required Level: 50",
       "Required Strength: 110",
       "Chance to Block: Pal: <font color=4850B8>66%</font>, Ama/Asn/Bar: <font color=4850B8>61%</font>, Dru/Nec/Sor: <font color=4850B8>56%</font>",
@@ -2614,7 +2614,7 @@
   {
     "category": "Elite Shields",
     "stats": [
-      "Defense: <font color=4850B8>322-372</font> (varies)(Base Defense: 108-123)",
+      "Defense: <font color=4850B8>322-372</font> (varies) (Base Defense: 108-123)",
       "Required Level: 61",
       "Required Strength: 100",
       "Chance to Block: Pal: <font color=4850B8>50%</font>, Ama/Asn/Bar: <font color=4850B8>45%</font>, Dru/Nec/Sor: <font color=4850B8>40%</font>",
@@ -2636,7 +2636,7 @@
   {
     "category": "Elite Shields",
     "stats": [
-      "Defense: <font color=4850B8>(136-504) - (151-519)</font> (varies)(Base Defense: 133-148)",
+      "Defense: <font color=4850B8>(136-504) - (151-519)</font> (varies) (Base Defense: 133-148)",
       "Required Level: 73",
       "Required Strength: 156",
       "Chance to Block: Pal: <font color=4850B8>77%</font>, Ama/Asn/Bar: <font color=4850B8>72%</font>, Dru/Nec/Sor: <font color=4850B8>67%</font>",
@@ -2659,7 +2659,7 @@
   {
     "category": "Elite Shields",
     "stats": [
-      "Defense: <font color=4850B8>360-410</font> (varies)(Base Defense: 147-163)",
+      "Defense: <font color=4850B8>360-410</font> (varies) (Base Defense: 147-163)",
       "Required Level: 70",
       "Required Strength: 118",
       "Chance to Block: Pal: <font color=4850B8>50%</font>, Ama/Asn/Bar: <font color=4850B8>45%</font>, Dru/Nec/Sor: <font color=4850B8>40%</font>",
@@ -2679,7 +2679,7 @@
   {
     "category": "Elite Shields",
     "stats": [
-      "Defense: <font color=4850B8>405-453</font> (varies)(Base Defense: 145-161)",
+      "Defense: <font color=4850B8>405-453</font> (varies) (Base Defense: 145-161)",
       "Required Level: 76",
       "Required Strength: 219",
       "Chance to Block: Pal: <font color=4850B8>54%</font>, Ama/Asn/Bar: <font color=4850B8>49%</font>, Dru/Nec/Sor: <font color=4850B8>44%</font>",
@@ -2700,7 +2700,7 @@
   {
     "category": "Elite Shields",
     "stats": [
-      "Defense: <font color=4850B8>478-593</font> (varies)(Base Defense: 158-173)",
+      "Defense: <font color=4850B8>478-593</font> (varies) (Base Defense: 158-173)",
       "Required Level: 75",
       "Required Strength: 106",
       "Chance to Block: Pal: <font color=4850B8>50%</font>, Ama/Asn/Bar: <font color=4850B8>45%</font>, Dru/Nec/Sor: <font color=4850B8>40%</font>",
@@ -2721,7 +2721,7 @@
   {
     "category": "Elite Shields",
     "stats": [
-      "Defense: <font color=4850B8>393-478</font> (varies)(Base Defense: 153-170)",
+      "Defense: <font color=4850B8>393-478</font> (varies) (Base Defense: 153-170)",
       "Required Level: 68",
       "Required Strength: 185",
       "Chance to Block: Pal: <font color=4850B8>74-84%</font>, Ama/Asn/Bar: <font color=4850B8>69-79%</font>, Dru/Nec/Sor: <font color=4850B8>64-74%</font>",
@@ -2759,7 +2759,7 @@
   {
     "category": "Normal Gloves",
     "stats": [
-      "Defense: <font color=4850B8>17-18</font> (varies)(Base Defense: 5-6)",
+      "Defense: <font color=4850B8>17-18</font> (varies) (Base Defense: 5-6)",
       "Required Level: 9",
       "Durability: 14",
       "<font color=4850B8>+10-20% Enhanced Defense</font> (varies)",
@@ -2777,7 +2777,7 @@
   {
     "category": "Normal Gloves",
     "stats": [
-      "Defense: <font color=4850B8>27-28</font> (varies)(Base Defense: 8-9)",
+      "Defense: <font color=4850B8>27-28</font> (varies) (Base Defense: 8-9)",
       "Required Level: 15",
       "Required Strength: 25",
       "Durability: 16",
@@ -2796,7 +2796,7 @@
   {
     "category": "Normal Gloves",
     "stats": [
-      "Defense: <font color=4850B8>24-25</font> (varies)(Base Defense: 9-11)",
+      "Defense: <font color=4850B8>24-25</font> (varies) (Base Defense: 9-11)",
       "Required Level: 23",
       "Required Strength: 45",
       "Durability: 18",
@@ -2815,7 +2815,7 @@
   {
     "category": "Normal Gloves",
     "stats": [
-      "Defense: <font color=4850B8>47-49</font> (varies)(Base Defense: 12-15)",
+      "Defense: <font color=4850B8>47-49</font> (varies) (Base Defense: 12-15)",
       "Required Level: 29",
       "Required Strength: 60",
       "Durability: 24",
@@ -2833,7 +2833,7 @@
   {
     "category": "Exceptional Gloves",
     "stats": [
-      "Defense: <font color=4850B8>97-118</font> (varies)(Base Defense: 28-35)",
+      "Defense: <font color=4850B8>97-118</font> (varies) (Base Defense: 28-35)",
       "Required Level: 29",
       "Required Strength: 20",
       "Durability: 12",
@@ -2871,7 +2871,7 @@
   {
     "category": "Exceptional Gloves",
     "stats": [
-      "Defense: <font color=4850B8>112-130</font> (varies)(Base Defense: 37-44)",
+      "Defense: <font color=4850B8>112-130</font> (varies) (Base Defense: 37-44)",
       "Required Level: 36",
       "Required Strength: 58",
       "Durability: 16",
@@ -2889,7 +2889,7 @@
   {
     "category": "Exceptional Gloves",
     "stats": [
-      "Defense: <font color=4850B8>120-144</font> (varies)(Base Defense: 39-47)",
+      "Defense: <font color=4850B8>120-144</font> (varies) (Base Defense: 39-47)",
       "Required Level: 42",
       "Required Strength: 88",
       "Durability: <font color=4850B8>38</font>",
@@ -2908,7 +2908,7 @@
   {
     "category": "Exceptional Gloves",
     "stats": [
-      "Defense: <font color=4850B8>135-162</font> (varies)(Base Defense: 43-53)",
+      "Defense: <font color=4850B8>135-162</font> (varies) (Base Defense: 43-53)",
       "Required Level: 47",
       "Required Strength: 110",
       "Durability: <font color=4850B8>39</font>",
@@ -2926,7 +2926,7 @@
   {
     "category": "Elite Gloves",
     "stats": [
-      "Defense: <font color=4850B8>125-145</font> (varies)(Base Defense: 56-65)",
+      "Defense: <font color=4850B8>125-145</font> (varies) (Base Defense: 56-65)",
       "Required Level: 76",
       "Required Strength: 50",
       "Durability: 14",
@@ -2945,7 +2945,7 @@
   {
     "category": "Elite Gloves",
     "stats": [
-      "Defense: <font color=4850B8>129-149</font> (varies)(Base Defense: 59-67)",
+      "Defense: <font color=4850B8>129-149</font> (varies) (Base Defense: 59-67)",
       "Required Level: 74",
       "Required Strength: 106",
       "Durability: 16",
@@ -2963,7 +2963,7 @@
   {
     "category": "Elite Gloves",
     "stats": [
-      "Defense: <font color=4850B8>232-281</font> (varies)(Base Defense: 62-71)",
+      "Defense: <font color=4850B8>232-281</font> (varies) (Base Defense: 62-71)",
       "Required Level: 70",
       "Required Strength: 185",
       "Durability: 24",
@@ -2999,7 +2999,7 @@
   {
     "category": "Normal Boots",
     "stats": [
-      "Defense: <font color=4850B8>20-21</font> (varies)(Base Defense: 5-6)",
+      "Defense: <font color=4850B8>20-21</font> (varies) (Base Defense: 5-6)",
       "Required Level: 9",
       "Required Strength: 18",
       "Durability: 14",
@@ -3019,7 +3019,7 @@
   {
     "category": "Normal Boots",
     "stats": [
-      "Defense: <font color=4850B8>25-26</font> (varies)(Base Defense: 8-9)",
+      "Defense: <font color=4850B8>25-26</font> (varies) (Base Defense: 8-9)",
       "Required Level: 15",
       "Required Strength: 30",
       "Durability: 16",
@@ -3039,7 +3039,7 @@
   {
     "category": "Normal Boots",
     "stats": [
-      "Defense: <font color=4850B8>33-34</font> (varies)(Base Defense: 9-11)",
+      "Defense: <font color=4850B8>33-34</font> (varies) (Base Defense: 9-11)",
       "Required Level: 22",
       "Required Strength: 50",
       "Durability: 18",
@@ -3059,7 +3059,7 @@
   {
     "category": "Normal Boots",
     "stats": [
-      "Defense: <font color=4850B8>60-63</font> (varies)(Base Defense: 12-15)",
+      "Defense: <font color=4850B8>60-63</font> (varies) (Base Defense: 12-15)",
       "Required Level: 29",
       "Required Strength: 70",
       "Durability: 24",
@@ -3080,7 +3080,7 @@
   {
     "category": "Exceptional Boots",
     "stats": [
-      "Defense: <font color=4850B8>94-105</font> (varies)(Base Defense: 28-35)",
+      "Defense: <font color=4850B8>94-105</font> (varies) (Base Defense: 28-35)",
       "Required Level: 29",
       "Required Strength: 20",
       "Durability: 12",
@@ -3103,7 +3103,7 @@
   {
     "category": "Exceptional Boots",
     "stats": [
-      "Defense: <font color=4850B8>112-124</font> (varies)(Base Defense: 33-39)",
+      "Defense: <font color=4850B8>112-124</font> (varies) (Base Defense: 33-39)",
       "Required Level: 32",
       "Required Strength: 47",
       "Durability: 14",
@@ -3125,7 +3125,7 @@
   {
     "category": "Exceptional Boots",
     "stats": [
-      "Defense: <font color=4850B8>112-130</font> (varies)(Base Defense: 37-44)",
+      "Defense: <font color=4850B8>112-130</font> (varies) (Base Defense: 37-44)",
       "Required Level: 36",
       "Required Strength: 65",
       "Durability: 16",
@@ -3144,7 +3144,7 @@
   {
     "category": "Exceptional Boots",
     "stats": [
-      "Defense: <font color=4850B8>120-139</font> (varies)(Base Defense: 39-47)",
+      "Defense: <font color=4850B8>120-139</font> (varies) (Base Defense: 39-47)",
       "Required Level: 42",
       "Required Strength: 95",
       "Durability: <font color=4850B8>48</font>",
@@ -3166,7 +3166,7 @@
   {
     "category": "Exceptional Boots",
     "stats": [
-      "Defense: <font color=4850B8>140-162</font> (varies)(Base Defense: 43-53)",
+      "Defense: <font color=4850B8>140-162</font> (varies) (Base Defense: 43-53)",
       "Required Level: <font color=4850B8>47</font>",
       "Required Strength: <font color=4850B8>94</font>",
       "Durability: <font color=4850B8>34</font>",
@@ -3187,7 +3187,7 @@
   {
     "category": "Elite Boots",
     "stats": [
-      "Defense: <font color=4850B8>158-178</font> (varies)(Base Defense 56-65)",
+      "Defense: <font color=4850B8>158-178</font> (varies) (Base Defense 56-65)",
       "Required Level: 64",
       "Required Strength: 91",
       "Durability: 14",
@@ -3210,7 +3210,7 @@
   {
     "category": "Elite Boots",
     "stats": [
-      "Defense: <font color=4850B8>183-204</font> (varies)(Base Defense: 59-67)",
+      "Defense: <font color=4850B8>183-204</font> (varies) (Base Defense: 59-67)",
       "Required Level: 66",
       "Required Strength: 118",
       "Durability: 16",
@@ -3234,7 +3234,7 @@
   {
     "category": "Elite Boots",
     "stats": [
-      "Defense: <font color=4850B8>122-144</font> (varies)(Base Defense 62-71)",
+      "Defense: <font color=4850B8>122-144</font> (varies) (Base Defense 62-71)",
       "Required Level: 71",
       "Required Strength: <font color=4850B8>167</font>",
       "Durability: 24",
@@ -3272,7 +3272,7 @@
   {
     "category": "Normal Belts",
     "stats": [
-      "Defense: <font color=4850B8>14-15</font> (varies)(Base Defense: 3) ",
+      "Defense: <font color=4850B8>14-15</font> (varies) (Base Defense: 3) ",
       "Required Level: 12",
       "Durability: 14",
       "8 Boxes",
@@ -3291,7 +3291,7 @@
   {
     "category": "Normal Belts",
     "stats": [
-      "Defense: <font color=4850B8>22-24</font> (varies)(Base Defense: 5)",
+      "Defense: <font color=4850B8>22-24</font> (varies) (Base Defense: 5)",
       "Required Level: 20",
       "Required Strength: 25",
       "Durability: 16",
@@ -3311,7 +3311,7 @@
   {
     "category": "Normal Belts",
     "stats": [
-      "Defense: <font color=4850B8>34-36</font> (varies)(Base Defense: 6)",
+      "Defense: <font color=4850B8>34-36</font> (varies) (Base Defense: 6)",
       "Required Level: 27",
       "Required Strength: 45",
       "Durability: 18",
@@ -3331,7 +3331,7 @@
   {
     "category": "Normal Belts",
     "stats": [
-      "Defense: <font color=4850B8>51-54</font> (varies)(Base Defense: 8-11)",
+      "Defense: <font color=4850B8>51-54</font> (varies) (Base Defense: 8-11)",
       "Required Level: 29",
       "Required Strength: 60",
       "Durability: 24",
@@ -3352,7 +3352,7 @@
   {
     "category": "Exceptional Belts",
     "stats": [
-      "Defense: <font color=4850B8>102-113</font> (varies)(Base Defense: 29-34)",
+      "Defense: <font color=4850B8>102-113</font> (varies) (Base Defense: 29-34)",
       "Required Level: 29",
       "Required Strength: 20",
       "Durability: <font color=4850B8>22</font>",
@@ -3371,7 +3371,7 @@
   {
     "category": "Exceptional Belts",
     "stats": [
-      "Defense: <font color=4850B8>96-107</font> (varies)(Base Defense: 31-36)",
+      "Defense: <font color=4850B8>96-107</font> (varies) (Base Defense: 31-36)",
       "Required Level: 32",
       "Required Strength: 20",
       "Durability: 14",
@@ -3391,7 +3391,7 @@
   {
     "category": "Exceptional Belts",
     "stats": [
-      "Defense:  <font color=4850B8>90-102</font> (varies)(Base Defense: 35-40)",
+      "Defense:  <font color=4850B8>90-102</font> (varies) (Base Defense: 35-40)",
       "Required Level: 36",
       "Required Strength: 58",
       "Durability: 16",
@@ -3411,7 +3411,7 @@
   {
     "category": "Exceptional Belts",
     "stats": [
-      "Defense: <font color=4850B8>98-116</font> (varies)(Base Defense: 37-42)",
+      "Defense: <font color=4850B8>98-116</font> (varies) (Base Defense: 37-42)",
       "Required Level: 42",
       "Required Strength: 88",
       "Durability: 18",
@@ -3433,7 +3433,7 @@
   {
     "category": "Exceptional Belts",
     "stats": [
-      "Defense: <font color=4850B8>137-159</font> (varies)(Base Defense: 41-52)",
+      "Defense: <font color=4850B8>137-159</font> (varies) (Base Defense: 41-52)",
       "Required Level: 47",
       "Required Strength: 110",
       "Durability: 24",
@@ -3456,7 +3456,7 @@
   {
     "category": "Elite Belts",
     "stats": [
-      "Defense: <font color='#4850b8'>119-138</font> (varies)(Base Defense: 55-62)",
+      "Defense: <font color='#4850b8'>119-138</font> (varies) (Base Defense: 55-62)",
       "Required Level: 80",
       "Required Strength: 50",
       "Durability: 12",
@@ -3496,7 +3496,7 @@
   {
     "category": "Elite Belts",
     "stats": [
-      "Defense: <font color='#4850b8'>125-158</font> (varies)(Defense: 58-65)",
+      "Defense: <font color='#4850b8'>125-158</font> (varies) (Defense: 58-65)",
       "Required Level: 63",
       "Required Strength: 106",
       "Durability: 16",
@@ -7766,7 +7766,7 @@
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: 8-11 (varies)",
-      "Defense: <font color='#00C400'>(11-305) - (14-308)</font> (varies)(Base Defense: 8-11)",
+      "Defense: <font color='#00C400'>(11-305) - (14-308)</font> (varies) (Base Defense: 8-11)",
       "Required Level: 15",
       "Required Strength: 15",
       "Durability: 18",
@@ -7785,7 +7785,7 @@
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: 90-107 (varies)",
-      "Defense: <font color='#00C400'>190-207</font> (varies)(Base Defense: 90-107)",
+      "Defense: <font color='#00C400'>190-207</font> (varies) (Base Defense: 90-107)",
       "Required Level: 15",
       "Required Strength: 41",
       "Durability: 60",
@@ -7837,8 +7837,8 @@
   {
     "classSpecificSet": "Amazon Set",
     "stats": [
-      "Defense: <font color='#4850b8'>45 - 51</font> (varies)(Base Defense 8-11)",
-      "Defense: <font color='#00C400'>(48-342) - (54-348)</font> (varies)(Base Defense 8-11)",
+      "Defense: <font color='#4850b8'>45 - 51</font> (varies) (Base Defense 8-11)",
+      "Defense: <font color='#00C400'>(48-342) - (54-348)</font> (varies) (Base Defense 8-11)",
       "Required Level: 2",
       "Required Strength: 12",
       "Durability: 20",
@@ -7910,7 +7910,7 @@
   {
     "classSpecificSet": "Barbarian Set",
     "stats": [
-      "Defense: <font color='#4850b8'>30-33</font> (varies)(Base Defense: 15-18)",
+      "Defense: <font color='#4850b8'>30-33</font> (varies) (Base Defense: 15-18)",
       "Required Level: 3",
       "Required Strength: 26",
       "Durability: 24",
@@ -7928,7 +7928,7 @@
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Defense: 90-95 (varies)",
-      "Defense: <font color='#00C400'>(93-387) - (98-392)</font> (varies)(Base Defense: 90-95)",
+      "Defense: <font color='#00C400'>(93-387) - (98-392)</font> (varies) (Base Defense: 90-95)",
       "Required Level: 3",
       "Required Strength: 51",
       "Durability: 30",
@@ -7965,7 +7965,7 @@
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: 9-27 (varies)",
-      "Defense: <font color='#00C400'>(11-207) - (29-225)</font> (varies)(Base Defense: 9-27)",
+      "Defense: <font color='#00C400'>(11-207) - (29-225)</font> (varies) (Base Defense: 9-27)",
       "Required Level: 11",
       "Required Strength: 23",
       "Durability: 20",
@@ -7982,7 +7982,7 @@
   {
     "classSpecificSet": "Sorceress Set",
     "stats": [
-      "Defense: <font color='#4850b8'>87-90</font> (varies)(Base Defense: 72-75)",
+      "Defense: <font color='#4850b8'>87-90</font> (varies) (Base Defense: 72-75)",
       "Required Level: 11",
       "Required Strength: <font color='#4850b8'>24</font>",
       "Durability: 45",
@@ -8082,7 +8082,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>27-29</font> (varies)(Base Defense: 12-14)",
+      "Defense: <font color='#4850b8'>27-29</font> (varies) (Base Defense: 12-14)",
       "Required Level: 9",
       "Required Strength: 34",
       "Durability: 24",
@@ -8090,8 +8090,8 @@
       "Paladin Smite Damage: 2 to 4",
       "<font color='#4850b8'>+15 Defense</font>",
       "<font color='#4850b8'>+15% Increased Block</font>",
-      "<font color='#00C400'>+21-22 Mana</font> (Civerb's Icon)(varies)",
-      "<font color='#00C400'>Poison Resist +25-26%</font> (Civerb's Cudgel)(varies)"
+      "<font color='#00C400'>+21-22 Mana</font> (Civerb's Icon) (varies)",
+      "<font color='#00C400'>Poison Resist +25-26%</font> (Civerb's Cudgel) (varies)"
     ],
     "name": "Civerb's Ward",
     "setName": "Civerb's Vestments",
@@ -8139,7 +8139,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>25-27</font> (varies)(Base Defense: 8-10)",
+      "Defense: <font color='#4850b8'>25-27</font> (varies) (Base Defense: 8-10)",
       "Required Level: 4",
       "Required Strength: 22",
       "Durability: 16",
@@ -8211,7 +8211,7 @@
     "classSpecificSet": "",
     "stats": [
       "Defense: 4-6 (varies)",
-      "Defense: <font color='#00C400'>(6-251) - (8-253)</font> (varies)(Base Defense: 4-6)",
+      "Defense: <font color='#00C400'>(6-251) - (8-253)</font> (varies) (Base Defense: 4-6)",
       "Required Level: 3",
       "Required Strength: 12",
       "Durability: 12",
@@ -8268,7 +8268,7 @@
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "Defense: 3-5 (varies)",
-      "Defense: <font color='#00C400'>(5-201) - (7-203)</font> (varies)(Base Defense: 3-5)",
+      "Defense: <font color='#00C400'>(5-201) - (7-203)</font> (varies) (Base Defense: 3-5)",
       "Required Level: 5",
       "Durability: 12",
       "<font color='#4850b8'>20% Damage Taken Goes to Mana</font>",
@@ -8322,7 +8322,7 @@
     "classSpecificSet": "",
     "stats": [
       "Defense: 25-45 (varies)",
-      "Defense: <font color='#00C400'>(27-223) - (47-243)</font> (varies)(Base Defense: 25-45)",
+      "Defense: <font color='#00C400'>(27-223) - (47-243)</font> (varies) (Base Defense: 25-45)",
       "Required Level: 15",
       "Required Strength: 55",
       "Durability: 50",
@@ -8423,8 +8423,8 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>105-108</font> (varies)(Base Defense: 65-68)",
-      "Defense: <font color='#00C400'>(107-303) - (110-306)</font> (varies)(Base Defense: 65-68)",
+      "Defense: <font color='#4850b8'>105-108</font> (varies) (Base Defense: 65-68)",
+      "Defense: <font color='#00C400'>(107-303) - (110-306)</font> (varies) (Base Defense: 65-68)",
       "Required Level: 8",
       "Required Strength: 30",
       "Durability: 50",
@@ -8535,7 +8535,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>55-60</font> (varies)(Base Defense: 30-35)",
+      "Defense: <font color='#4850b8'>55-60</font> (varies) (Base Defense: 30-35)",
       "Required Level: 6",
       "Required Strength: 63",
       "Durability: 40",
@@ -8607,7 +8607,7 @@
     "classSpecificSet": "",
     "stats": [
       "Defense: 8-11 (varies)",
-      "Defense: <font color='#00C400'>(10-206) - (13-209)</font> (varies)(Base Defense: 8-11)",
+      "Defense: <font color='#00C400'>(10-206) - (13-209)</font> (varies) (Base Defense: 8-11)",
       "Required Level: 6",
       "Required Strength: 60",
       "Durability: 24",
@@ -8846,7 +8846,7 @@
   {
     "classSpecificSet": "Druid Set",
     "stats": [
-      "Defense: <font color='#4850b8'>746-857</font> (varies)(Base Defense: 446-557)",
+      "Defense: <font color='#4850b8'>746-857</font> (varies) (Base Defense: 446-557)",
       "Required Level: 76",
       "Required Strength: <font color='#4850b8'>115</font>",
       "Durability: 70",
@@ -8939,7 +8939,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense : <font color='#4850b8'>120-128</font> (varies)(Base Defense: 45-53)",
+      "Defense : <font color='#4850b8'>120-128</font> (varies) (Base Defense: 45-53)",
       "Required Level: 25",
       "Required Strength: 20",
       "Durability: 12",
@@ -8975,7 +8975,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>30-41</font> (varies)(Base Defense: 5-6)",
+      "Defense: <font color='#4850b8'>30-41</font> (varies) (Base Defense: 5-6)",
       "Required Level: 13",
       "Required Strength: 18",
       "Durability: 14",
@@ -9010,7 +9010,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>79-87</font> (varies)(Base Defense: 54-62)",
+      "Defense: <font color='#4850b8'>79-87</font> (varies) (Base Defense: 54-62)",
       "Required Level: 63",
       "Required Strength: 50",
       "Durability: 12",
@@ -9029,7 +9029,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>666-882</font> (varies)(Base Defense: 361-467)",
+      "Defense: <font color='#4850b8'>666-882</font> (varies) (Base Defense: 361-467)",
       "Required Level: 49",
       "Required Strength: 77",
       "Durability: 20",
@@ -9047,7 +9047,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>53-60</font> (varies)(Base Defense: 28-35)",
+      "Defense: <font color='#4850b8'>53-60</font> (varies) (Base Defense: 28-35)",
       "Required Level: 29",
       "Required Strength: 20",
       "Durability: 12",
@@ -9066,7 +9066,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>108-115</font> (varies)(Base Defense: 58-65)",
+      "Defense: <font color='#4850b8'>108-115</font> (varies) (Base Defense: 58-65)",
       "Required Level: 65",
       "Required Strength: 106",
       "Durability: 16",
@@ -9151,7 +9151,7 @@
   {
     "classSpecificSet": "Paladin Set",
     "stats": [
-      "Defense: <font color='#4850b8'>290-333</font> (varies)(Base Defense: 182-225)",
+      "Defense: <font color='#4850b8'>290-333</font> (varies) (Base Defense: 182-225)",
       "Required Level: 68",
       "Required Strength: 148",
       "Durability: 90",
@@ -9173,7 +9173,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>688-702</font> (varies)(Base Defense: 188-202)",
+      "Defense: <font color='#4850b8'>688-702</font> (varies) (Base Defense: 188-202)",
       "Required Level: 44",
       "Required Strength: <font color='#4850b8'>52</font>",
       "Durability: 50",
@@ -9213,7 +9213,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>203-220</font> (varies)(Base Defense: 153-170)",
+      "Defense: <font color='#4850b8'>203-220</font> (varies) (Base Defense: 153-170)",
       "Required Level: 81",
       "Required Strength: 185",
       "Chance to Block: Pal: 79% Ama/Asn/Bar: 74% Dru/Nec/Sor: 69%",
@@ -9235,7 +9235,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>164-209</font> (varies)(Base Defense: 114-159)",
+      "Defense: <font color='#4850b8'>164-209</font> (varies) (Base Defense: 114-159)",
       "Required Level: 69",
       "Required Strength: <font color='#4850b8'>116</font>",
       "Durability: 40",
@@ -9255,7 +9255,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>228</font> (varies)(Base Defense: 78-113)",
+      "Defense: <font color='#4850b8'>228</font> (varies) (Base Defense: 78-113)",
       "Required Level: 45",
       "Required Strength: 103",
       "Durability: 50",
@@ -9311,7 +9311,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>6-153</font> (varies)(Base Defense: 5)",
+      "Defense: <font color='#4850b8'>6-153</font> (varies) (Base Defense: 5)",
       "Required Level: 35",
       "Required Strength: 25",
       "Durability: 16",
@@ -9427,8 +9427,8 @@
   {
     "classSpecificSet": "Barbarian Set",
     "stats": [
-      "Defense: <font color='#4850b8'>108-118</font> (varies)(Base Defense: 43-53)",
-      "Defense: <font color='#00c400'>228-238</font> (varies)(Base Defense: 43-53)",
+      "Defense: <font color='#4850b8'>108-118</font> (varies) (Base Defense: 43-53)",
+      "Defense: <font color='#00c400'>228-238</font> (varies) (Base Defense: 43-53)",
       "Required Level: 30",
       "Required Strength: 110",
       "Durability: 24",
@@ -9475,7 +9475,7 @@
   {
     "classSpecificSet": "Amazon Set",
     "stats": [
-      "Defense: <font color='#4850b8'>200-210</font>(varies) (Base Defense: 50-60)",
+      "Defense: <font color='#4850b8'>200-210</font> (varies) (Base Defense: 50-60)",
       "Required Level: 64",
       "Durability: 20",
       "<font color='#4850b8'>+150 Defense</font>",
@@ -9518,7 +9518,7 @@
   {
     "classSpecificSet": "Amazon Set",
     "stats": [
-      "Defense: <font color='#4850b8'>(771-1163) - (877-1269)</font> (varies)(Base Defense: 417-523)",
+      "Defense: <font color='#4850b8'>(771-1163) - (877-1269)</font> (varies) (Base Defense: 417-523)",
       "Required Level: 70",
       "Required Strength: <font color='#4850b8'>122</font>",
       "Durability: 48",
@@ -9539,7 +9539,7 @@
   {
     "classSpecificSet": "Amazon Set",
     "stats": [
-      "Defense: <font color='#4850b8'>84-97</font> (varies)(Base Defense: 39-47)",
+      "Defense: <font color='#4850b8'>84-97</font> (varies) (Base Defense: 39-47)",
       "Required Level: 32",
       "Required Strength: 88",
       "Durability: 18",
@@ -9561,7 +9561,7 @@
   {
     "classSpecificSet": "Amazon Set",
     "stats": [
-      "Defense: <font color='#4850b8'>81-86</font> (varies)(Base Defense: 31-36)",
+      "Defense: <font color='#4850b8'>81-86</font> (varies) (Base Defense: 31-36)",
       "Required Level: 45",
       "Required Strength: 20",
       "Durability: 14",
@@ -9624,7 +9624,7 @@
   {
     "classSpecificSet": "Assassin Set",
     "stats": [
-      "Defense: <font color='#4850b8'>540-721</font> (varies)(Base Defense: 390-496)",
+      "Defense: <font color='#4850b8'>540-721</font> (varies) (Base Defense: 390-496)",
       "Required Level: 73",
       "Required Strength: 149",
       "Durability: 36",
@@ -9644,7 +9644,7 @@
   {
     "classSpecificSet": "Assassin Set",
     "stats": [
-      "Defense: <font color='#4850b8'>112-169</font> (varies)(Base Defense: 37-44)",
+      "Defense: <font color='#4850b8'>112-169</font> (varies) (Base Defense: 37-44)",
       "Required Level: 25",
       "Required Strength: 65",
       "Durability: <font color='#4850b8'>66</font>",
@@ -9682,7 +9682,7 @@
   {
     "classSpecificSet": "Sorceress Set",
     "stats": [
-      "Defense: <font color='#4850b8'>721-830</font> (varies)(Base Defense: 421-530)",
+      "Defense: <font color='#4850b8'>721-830</font> (varies) (Base Defense: 421-530)",
       "Required Level: 71",
       "Required Strength: <font color='#4850b8'>79</font>",
       "Durability: 60",
@@ -9840,7 +9840,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>25-31</font> (varies)(Base Defense: 5-6)",
+      "Defense: <font color='#4850b8'>25-31</font> (varies) (Base Defense: 5-6)",
       "Required Level: 28",
       "Durability: 14",
       "<font color='#4850b8'>Adds 9-11 Poison Damage Over 3 Seconds</font>",
@@ -9916,7 +9916,7 @@
   {
     "classSpecificSet": "",
     "stats": [
-      "Defense: <font color='#4850b8'>810-917</font> (varies)(Base Defense: 410-517)",
+      "Defense: <font color='#4850b8'>810-917</font> (varies) (Base Defense: 410-517)",
       "Required Level: 67",
       "Required Strength: 165",
       "Durability: 30",
@@ -9961,7 +9961,7 @@
   {
     "classSpecificSet": "Sorceress Set",
     "stats": [
-      "Defense: <font color='#4850b8'>99-131</font> (varies)(Base Defense: 54-86)",
+      "Defense: <font color='#4850b8'>99-131</font> (varies) (Base Defense: 54-86)",
       "Required Level: 66",
       "Required Strength: 55",
       "Durability: 20",
@@ -9981,7 +9981,7 @@
   {
     "classSpecificSet": "Sorceress Set",
     "stats": [
-      "Defense: <font color='#4850b8'>833-941</font> (varies)(Base Defense: 433-541)",
+      "Defense: <font color='#4850b8'>833-941</font> (varies) (Base Defense: 433-541)",
       "Required Level: 71",
       "Required Strength: <font color='#4850b8'>84</font>",
       "Durability: 55",
@@ -10043,7 +10043,7 @@
   {
     "classSpecificSet": "Necromancer Set",
     "stats": [
-      "Defense: <font color='#4850b8'>180-257</font> (varies)(Base Defense: 100-157)",
+      "Defense: <font color='#4850b8'>180-257</font> (varies) (Base Defense: 100-157)",
       "Required Level: 65",
       "Required Strength: 106",
       "Durability: 40",
@@ -10084,7 +10084,7 @@
   {
     "classSpecificSet": "Necromancer Set",
     "stats": [
-      "Defense: <font color='#4850b8'>175-189</font> (varies)(Base Defense: 50-64)",
+      "Defense: <font color='#4850b8'>175-189</font> (varies) (Base Defense: 50-64)",
       "Required Level: 54",
       "Required Strength: 50",
       "Durability: 20",
@@ -10109,7 +10109,7 @@
   {
     "classSpecificSet": "Necromancer Set",
     "stats": [
-      "Defense: <font color='#4850b8'>134-166</font> (varies)(Base Defense: 59-66)",
+      "Defense: <font color='#4850b8'>134-166</font> (varies) (Base Defense: 59-66)",
       "Required Level: 62",
       "Required Strength: <font color='#4850b8'>91</font>",
       "Durability: 18",
@@ -10132,7 +10132,7 @@
   {
     "classSpecificSet": "Necromancer Set",
     "stats": [
-      "Defense: <font color='#4850b8'>67-74</font> (varies)(Base Defense: 37-44)",
+      "Defense: <font color='#4850b8'>67-74</font> (varies) (Base Defense: 37-44)",
       "Required Level: 45",
       "Required Strength: 58",
       "Durability: 16",
