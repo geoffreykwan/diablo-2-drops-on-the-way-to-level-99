@@ -9,7 +9,7 @@
       "<font color=4850B8>15-30% Better Chance of Getting Magic Items</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ring1.gif",
+    "image": "ring1.gif",
     "type": "Ring",
     "name": "Nagelring"
   },
@@ -23,7 +23,7 @@
       "<font color=4850B8>+20 To Life</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ring2.gif",
+    "image": "ring2.gif",
     "type": "Ring",
     "name": "Manald Heal"
   },
@@ -37,7 +37,7 @@
       "<font color=4850B8>+20 To Mana</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/ring3.gif",
+    "image": "ring3.gif",
     "type": "Ring",
     "name": "Stone of Jordan"
   },
@@ -53,7 +53,7 @@
       "<font color=4850B8>100% Extra Gold From Monsters</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ring2.gif",
+    "image": "ring2.gif",
     "type": "Ring",
     "name": "Dwarf Star"
   },
@@ -69,7 +69,7 @@
       "<font color=4850B8>Cold Absorb 20%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ring3.gif",
+    "image": "ring3.gif",
     "type": "Ring",
     "name": "Raven Frost"
   },
@@ -83,7 +83,7 @@
       "<font color=4850B8>+50 Maximum Stamina</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ring1.gif",
+    "image": "ring1.gif",
     "type": "Ring",
     "name": "Bul-Kathos' Wedding Band"
   },
@@ -100,7 +100,7 @@
       "<font color=4850B8>Level 21 Poison Creeper (15 Charges)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/ring3.gif",
+    "image": "ring3.gif",
     "type": "Ring",
     "name": "Carrion Wind"
   },
@@ -116,7 +116,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/ring2.gif",
+    "image": "ring2.gif",
     "type": "Ring",
     "name": "Nature's Peace"
   },
@@ -132,7 +132,7 @@
       "<font color=4850B8>Level 2 Oak Sage (15 charges)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/ring1.gif",
+    "image": "ring1.gif",
     "type": "Ring",
     "name": "Wisp Projector"
   },
@@ -147,7 +147,7 @@
       "<font color=4850B8>+3 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet",
     "name": "Nokozan Relic"
   },
@@ -163,7 +163,7 @@
       "<font color=4850B8>+10-40 Defense vs. Missile</font> (varies)*",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet",
     "name": "The Eye of Etlich"
   },
@@ -178,7 +178,7 @@
       "<font color=4850B8>+10 To All Attributes</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/amu3.gif",
+    "image": "amu3.gif",
     "type": "Amulet",
     "name": "The Mahim-Oak Curio"
   },
@@ -191,7 +191,7 @@
       "<font color=4850B8>+12 To All Attributes</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/amu1.gif",
+    "image": "amu1.gif",
     "type": "Amulet",
     "name": "Saracen's Chance"
   },
@@ -206,7 +206,7 @@
       "<font color=4850B8>+25 To Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet",
     "name": "The Cat's Eye"
   },
@@ -222,7 +222,7 @@
       "<font color=4850B8>-2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/amu3.gif",
+    "image": "amu3.gif",
     "type": "Amulet",
     "name": "Crescent Moon"
   },
@@ -238,7 +238,7 @@
       "<font color=4850B8>Attacker Takes Damage of 5</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet",
     "name": "Atma's Scarab"
   },
@@ -254,7 +254,7 @@
       "<font color=4850B8>+4 To Light Radius</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/amu3.gif",
+    "image": "amu3.gif",
     "type": "Amulet",
     "name": "The Rising Sun"
   },
@@ -270,7 +270,7 @@
       "<font color=4850B8>Attacker Takes Lightning Damage Of 15</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/amu3.gif",
+    "image": "amu3.gif",
     "type": "Amulet",
     "name": "Highlord's Wrath"
   },
@@ -283,7 +283,7 @@
       "<font color=4850B8>+5 To All Attributes</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/amu1.gif",
+    "image": "amu1.gif",
     "type": "Amulet",
     "name": "Mara's Kaleidoscope"
   },
@@ -301,7 +301,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet",
     "name": "Seraph's Hymn"
   },
@@ -317,7 +317,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet",
     "name": "Metalgrid"
   },
@@ -332,7 +332,7 @@
       "",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/bluecharm.gif",
+    "image": "bluecharm.gif",
     "type": "Small Charm",
     "name": "Annihilus"
   },
@@ -346,7 +346,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/largecharm01.gif",
+    "image": "largecharm01.gif",
     "type": "Grand Charm",
     "name": "Gheed's Fortune"
   },
@@ -362,7 +362,7 @@
       "<font color=4850B8>Level 30 Hydra (10 charges)</font>",
       "(Only Spawns In Patch 1.13 or later)"
     ],
-    "image": "images/hellfiretorch.jpg",
+    "image": "hellfiretorch.jpg",
     "type": "Large Charm",
     "name": "Hellfire Torch"
   },
@@ -376,7 +376,7 @@
       "<font color=4850B8>-(3-5)% To Enemy Fire Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jewel05.gif",
+    "image": "jewel05.gif",
     "type": "Jewel",
     "name": "Rainbow Facet (Fire/Level)"
   },
@@ -390,7 +390,7 @@
       "<font color=4850B8>-(3-5)% To Enemy Cold Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jewel02.gif",
+    "image": "jewel02.gif",
     "type": "Jewel",
     "name": "Rainbow Facet (Cold/Level)"
   },
@@ -404,7 +404,7 @@
       "<font color=4850B8>-(3-5)% To Enemy Lightning Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jewel06.gif",
+    "image": "jewel06.gif",
     "type": "Jewel",
     "name": "Rainbow Facet (Lightning/Level)"
   },
@@ -418,7 +418,7 @@
       "<font color=4850B8>-(3-5)% To Enemy Poison Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jewel04.gif",
+    "image": "jewel04.gif",
     "type": "Jewel",
     "name": "Rainbow Facet (Poison/Level)"
   },
@@ -432,7 +432,7 @@
       "<font color=4850B8>-(3-5)% To Enemy Fire Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jewel05.gif",
+    "image": "jewel05.gif",
     "type": "Jewel",
     "name": "Rainbow Facet (Fire/Die)"
   },
@@ -446,7 +446,7 @@
       "<font color=4850B8>-(3-5)% To Enemy Cold Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jewel02.gif",
+    "image": "jewel02.gif",
     "type": "Jewel",
     "name": "Rainbow Facet (Cold/Die)"
   },
@@ -460,7 +460,7 @@
       "<font color=4850B8>-(3-5)% To Enemy Lightning Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jewel06.gif",
+    "image": "jewel06.gif",
     "type": "Jewel",
     "name": "Rainbow Facet (Lightning/Die)"
   },
@@ -474,7 +474,7 @@
       "<font color=4850B8>-(3-5)% To Enemy Poison Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jewel04.gif",
+    "image": "jewel04.gif",
     "type": "Jewel",
     "name": "Rainbow Facet (Poison/Die)"
   },
@@ -491,7 +491,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/tiara.gif",
+    "image": "tiara.gif",
     "type": "Tiara",
     "name": "Kira's Guardian"
   },
@@ -509,7 +509,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/diadem.gif",
+    "image": "diadem.gif",
     "type": "Diadem",
     "name": "Griffon's Eye"
   },
@@ -531,7 +531,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/stoneraven.gif",
+    "image": "stoneraven.gif",
     "type": "Matriarchal Spear",
     "name": "Stoneraven"
   },
@@ -556,7 +556,7 @@
       "<font color=4850B8>+2 To Javelin and Spear Skills (Amazon Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/maidenpike.gif",
+    "image": "maidenpike.gif",
     "type": "Ceremonial Pike",
     "name": "Lycander's Flank"
   },
@@ -580,7 +580,7 @@
       "<font color=4850B8>+2 To Bow And Crossbow Skills (Amazon Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/reflexbow.gif",
+    "image": "reflexbow.gif",
     "type": "Ceremonial Bow",
     "name": "Lycander's Aim"
   },
@@ -607,7 +607,7 @@
       "<font color=4850B8>+2 To Javelin and Spear Skills (Amazon Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/maidenjavelin.gif",
+    "image": "maidenjavelin.gif",
     "type": "Ceremonial Javelin",
     "name": "Titan's Revenge"
   },
@@ -632,7 +632,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/thunderstroke.gif",
+    "image": "thunderstroke.gif",
     "type": "Matriarchal Javelin",
     "name": "Thunderstroke"
   },
@@ -652,7 +652,7 @@
       "<font color=4850B8>+2-4 To Bow And Crossbow Skills (Amazon Only)</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/bloodravenscharge.gif",
+    "image": "bloodravenscharge.gif",
     "type": "Matriarchal Bow",
     "name": "Blood Raven's Charge"
   },
@@ -675,7 +675,7 @@
       "<B>(Ladder Only)</b>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/shadowkiller.gif",
+    "image": "shadowkiller.gif",
     "type": "Battle Cestus",
     "name": "Shadow Killer"
   },
@@ -700,7 +700,7 @@
       "<font color=4850B8>+1 To Martial Arts Skills (Assassin Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/claws.gif",
+    "image": "claws.gif",
     "type": "Greater Talons",
     "name": "Bartuc's Cut-Throat"
   },
@@ -722,7 +722,7 @@
       "<font color=4850B8>All Resistances +40-50</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/jadetalon.gif",
+    "image": "jadetalon.gif",
     "type": "Wrist Sword",
     "name": "Jade Talon"
   },
@@ -745,7 +745,7 @@
       "<font color=4850B8>Fire Resist +40-70%</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/claws.gif",
+    "image": "claws.gif",
     "type": "Feral Claws",
     "name": "Firelizard's Talons"
   },
@@ -770,7 +770,7 @@
       "<font color=4850B8>+2 To Curses Skills (Necromancer Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/demonhead.gif",
+    "image": "demonhead.gif",
     "type": "Hierophant Trophy",
     "name": "Homunculus"
   },
@@ -792,7 +792,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/demonhead.gif",
+    "image": "demonhead.gif",
     "type": "Bloodlord Skull",
     "name": "Darkforce Spawn"
   },
@@ -812,7 +812,7 @@
       "<font color=4850B8>15% Chance To Cast Level 3 Terror When Struck</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/gargoylehead.gif",
+    "image": "gargoylehead.gif",
     "type": "Succubus Skull",
     "name": "Boneflame"
   },
@@ -835,7 +835,7 @@
       "<font color=4850B8>+2 To Combat Skills (Barbarian Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/avengerguard.gif",
+    "image": "avengerguard.gif",
     "type": "Slayer Guard",
     "name": "Arreat's Face"
   },
@@ -858,7 +858,7 @@
       "<font color=4850B8>Level 15 Summon Dire Wolf (18 Charges)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/fangedhelm.gif",
+    "image": "fangedhelm.gif",
     "type": "Fury Visor",
     "name": "Wolfhowl"
   },
@@ -880,7 +880,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/hornedhelm.gif",
+    "image": "hornedhelm.gif",
     "type": "Destroyer Helm",
     "name": "Demonhorn's Edge"
   },
@@ -902,7 +902,7 @@
       "<font color=4850B8>+1-2 To Battle Orders (Barbarian Only)</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/assualthelm.gif",
+    "image": "assualthelm.gif",
     "type": "Conqueror Crown",
     "name": "Halaberd's Reign"
   },
@@ -925,7 +925,7 @@
       "<font color=4850B8>50% Better Chance Of Getting Magic Items</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/dragonstone.gif",
+    "image": "dragonstone.gif",
     "type": "Swirling Crystal",
     "name": "The Oculus"
   },
@@ -944,7 +944,7 @@
       "<font color=4850B8>+20-30 To Energy</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/sacredglobe.gif",
+    "image": "sacredglobe.gif",
     "type": "Eldritch Orb",
     "name": "Eschuta's Temper"
   },
@@ -964,7 +964,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/dragonstone.gif",
+    "image": "dragonstone.gif",
     "type": "Dimensional Shard",
     "name": "Death's Fathom"
   },
@@ -987,7 +987,7 @@
       "<font color=4850B8>+2 To Shape Shifting Skills (Druid Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/spiritmask.gif",
+    "image": "spiritmask.gif",
     "type": "Totemic Mask",
     "name": "Jalal's Mane"
   },
@@ -1008,7 +1008,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/cerebusbite.gif",
+    "image": "cerebusbite.gif",
     "type": "Blood Spirit",
     "name": "Cerebus' Bite"
   },
@@ -1028,7 +1028,7 @@
       "<font color=4850B8>All Resistances +15-25</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/hawkhelm.gif",
+    "image": "hawkhelm.gif",
     "type": "Sky Spirit",
     "name": "Ravenlore"
   },
@@ -1049,7 +1049,7 @@
       "<font color=4850B8>Cold Absorb 15-25%</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/antlers.gif",
+    "image": "antlers.gif",
     "type": "Earth Spirit",
     "name": "Spirit Keeper"
   },
@@ -1072,7 +1072,7 @@
       "<font color=4850B8>Magic Damage Reduced By 5-9</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/rondache.gif",
+    "image": "rondache.gif",
     "type": "Sacred Rondache",
     "name": "Alma Negra"
   },
@@ -1097,7 +1097,7 @@
       "<font color=4850B8>+2 To Combat Skills (Paladin Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/aerinshield.gif",
+    "image": "aerinshield.gif",
     "type": "Gilded Shield",
     "name": "Herald of Zakarum"
   },
@@ -1120,7 +1120,7 @@
       "<font color=4850B8>Fire Absorb 10-20%</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/aerinshield.gif",
+    "image": "aerinshield.gif",
     "type": "Zakarum Shield",
     "name": "Dragonscale"
   },
@@ -1137,7 +1137,7 @@
       "<font color=4850B8>+15 To Life</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/warbonet.gif",
+    "image": "warbonet.gif",
     "type": "Cap",
     "name": "Biggin's Bonnet"
   },
@@ -1153,7 +1153,7 @@
       "<font color=4850B8>75% Extra Gold From Monsters</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/tarnhelm.gif",
+    "image": "tarnhelm.gif",
     "type": "Skull Cap",
     "name": "Tarnhelm"
   },
@@ -1171,7 +1171,7 @@
       "<font color=4850B8>+100 Defense vs. Missile</font>*",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/coifofglory.gif",
+    "image": "coifofglory.gif",
     "type": "Helm",
     "name": "Coif of Glory"
   },
@@ -1190,7 +1190,7 @@
       "<font color=4850B8>-2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/duskdeep.gif",
+    "image": "duskdeep.gif",
     "type": "Full Helm",
     "name": "Duskdeep"
   },
@@ -1209,7 +1209,7 @@
       "<font color=4850B8>Hit Causes Monster To Flee 25%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/howltusk.gif",
+    "image": "howltusk.gif",
     "type": "Great Helm",
     "name": "Howltusk"
   },
@@ -1227,7 +1227,7 @@
       "<font color=4850B8>+20 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/mask.gif",
+    "image": "mask.gif",
     "type": "Mask",
     "name": "The Face of Horror"
   },
@@ -1248,7 +1248,7 @@
       "<font color=4850B8>+3 To Skeleton Mastery (Necromancer Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/undeadcrown.gif",
+    "image": "undeadcrown.gif",
     "type": "Crown",
     "name": "Undead Crown"
   },
@@ -1266,7 +1266,7 @@
       "<font color=4850B8>+10 To Mana</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/wormskull.gif",
+    "image": "wormskull.gif",
     "type": "Bone Helm",
     "name": "Wormskull"
   },
@@ -1285,7 +1285,7 @@
       "<font color=4850B8>+20 To Vitality</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/cap.gif",
+    "image": "cap.gif",
     "type": "War Hat",
     "name": "Peasant Crown"
   },
@@ -1305,7 +1305,7 @@
       "<font color=4850B8>+15 To Vitality</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/rockstopper.gif",
+    "image": "rockstopper.gif",
     "type": "Sallet",
     "name": "Rockstopper"
   },
@@ -1324,7 +1324,7 @@
       "<font color=4850B8>30-50% Better Chance of Getting Magic Items</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/coifofglory.gif",
+    "image": "coifofglory.gif",
     "type": "Casque",
     "name": "Stealskull"
   },
@@ -1344,7 +1344,7 @@
       "<font color=4850B8>-4 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/darksighthelm.gif",
+    "image": "darksighthelm.gif",
     "type": "Basinet",
     "name": "Darksight Helm"
   },
@@ -1362,7 +1362,7 @@
       "<font color=4850B8>+2-4 To Mana After Each Kill</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/howltusk.gif",
+    "image": "howltusk.gif",
     "type": "Winged Helm",
     "name": "Valkyrie Wing"
   },
@@ -1381,7 +1381,7 @@
       "<font color=4850B8>Lightning Resist +15%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/mask.gif",
+    "image": "mask.gif",
     "type": "Death Mask",
     "name": "Blackhorn's Face"
   },
@@ -1401,7 +1401,7 @@
       "<font color=4850B8>80-100% Extra Gold From Monsters</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/crownofthieves.gif",
+    "image": "crownofthieves.gif",
     "type": "Grand Crown",
     "name": "Crown of Thieves"
   },
@@ -1421,7 +1421,7 @@
       "<font color=4850B8>Magic Damage Reduced By 10-15</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/vampiregaze.gif",
+    "image": "vampiregaze.gif",
     "type": "Grim Helm",
     "name": "Vampire Gaze"
   },
@@ -1440,7 +1440,7 @@
       "<font color=4850B8>+2 To All Attributes</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/harlequincrest.gif",
+    "image": "harlequincrest.gif",
     "type": "Shako",
     "name": "Harlequin Crest"
   },
@@ -1457,7 +1457,7 @@
       "<font color=4850B8>+5-11 Fire Absorb</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/steelshade.gif",
+    "image": "steelshade.gif",
     "type": "Armet",
     "name": "Steel Shade"
   },
@@ -1476,7 +1476,7 @@
       "<font color=4850B8>-4 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/veilofsteel.gif",
+    "image": "veilofsteel.gif",
     "type": "Spired Helm",
     "name": "Veil of Steel"
   },
@@ -1496,7 +1496,7 @@
       "<font color=4850B8>Requirements -50%</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/nightwingsveil.gif",
+    "image": "nightwingsveil.gif",
     "type": "Spired Helm",
     "name": "Nightwing's Veil"
   },
@@ -1520,7 +1520,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/mask.gif",
+    "image": "mask.gif",
     "type": "Demonhead",
     "name": "Andariel's Visage"
   },
@@ -1540,7 +1540,7 @@
       "<font color=4850B8>Indestructible</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/crownofages.gif",
+    "image": "crownofages.gif",
     "type": "Corona",
     "name": "Crown of Ages"
   },
@@ -1558,7 +1558,7 @@
       "<font color=4850B8>Socketed (1-2)</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/giantskull.gif",
+    "image": "giantskull.gif",
     "type": "Bone Visage",
     "name": "Giant Skull"
   },
@@ -1577,7 +1577,7 @@
       "<font color=4850B8>+10 To Dexterity</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/greyform.gif",
+    "image": "greyform.gif",
     "type": "Quilted Armor",
     "name": "Greyform"
   },
@@ -1595,7 +1595,7 @@
       "<font color=4850B8>Adds 3-6 Fire Damage</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/blinkbatsform.gif",
+    "image": "blinkbatsform.gif",
     "type": "Leather Armor",
     "name": "Blinkbat's Form"
   },
@@ -1616,7 +1616,7 @@
       "<font color=4850B8>Damage Reduced By 2</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thecenturion.gif",
+    "image": "thecenturion.gif",
     "type": "Hard Leather Armor",
     "name": "The Centurion"
   },
@@ -1635,7 +1635,7 @@
       "<font color=4850B8>+10 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/twitchthroe.gif",
+    "image": "twitchthroe.gif",
     "type": "Studded Leather",
     "name": "Twitchthroe"
   },
@@ -1657,7 +1657,7 @@
       "<font color=4850B8>+3 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/darkglow.gif",
+    "image": "darkglow.gif",
     "type": "Ring Mail",
     "name": "Darkglow"
   },
@@ -1675,7 +1675,7 @@
       "<font color=4850B8>Cannot Be Frozen</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/hawkmail.gif",
+    "image": "hawkmail.gif",
     "type": "Scale Mail",
     "name": "Hawkmail"
   },
@@ -1693,7 +1693,7 @@
       "<font color=4850B8>Poison Length Reduced By 50%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/venomsward.gif",
+    "image": "venomsward.gif",
     "type": "Breast Plate",
     "name": "Venom Ward"
   },
@@ -1710,7 +1710,7 @@
       "<font color=4850B8>Adds 1-20 Lightning Damage</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/sparklingmail.gif",
+    "image": "sparklingmail.gif",
     "type": "Chain Mail",
     "name": "Sparking Mail"
   },
@@ -1728,7 +1728,7 @@
       "<font color=4850B8>+4 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/iceblink.gif",
+    "image": "iceblink.gif",
     "type": "Splint Mail",
     "name": "Iceblink"
   },
@@ -1747,7 +1747,7 @@
       "<font color=4850B8>+100 To Attack Rating Against Undead</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/heavenlygarb.gif",
+    "image": "heavenlygarb.gif",
     "type": "Light Plate",
     "name": "Heavenly Garb"
   },
@@ -1765,7 +1765,7 @@
       "<font color=4850B8>Damage Reduced By 5</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/rockfleece.gif",
+    "image": "rockfleece.gif",
     "type": "Field Plate",
     "name": "Rockfleece"
   },
@@ -1782,7 +1782,7 @@
       "<font color=4850B8>+35 To Attack Rating</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/boneflesh.gif",
+    "image": "boneflesh.gif",
     "type": "Plate Mail",
     "name": "Boneflesh"
   },
@@ -1799,7 +1799,7 @@
       "<font color=4850B8>+45 To Attack Rating</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/rattlecage.gif",
+    "image": "rattlecage.gif",
     "type": "Gothic Plate",
     "name": "Rattlecage"
   },
@@ -1817,7 +1817,7 @@
       "<font color=4850B8>100% Extra Gold From Monsters</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/goldskin.gif",
+    "image": "goldskin.gif",
     "type": "Full Plate Mail",
     "name": "Goldskin"
   },
@@ -1834,7 +1834,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/victorssilk.gif",
+    "image": "victorssilk.gif",
     "type": "Ancient Armor",
     "name": "Silks of the Victor"
   },
@@ -1852,7 +1852,7 @@
       "<font color=4850B8>Magic Damage Reduced By 7-11</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/quilted.gif",
+    "image": "quilted.gif",
     "type": "Ghost Armor",
     "name": "The Spirit Shroud"
   },
@@ -1870,7 +1870,7 @@
       "<font color=4850B8>All Resistances +20-35</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/vipermagicskin.gif",
+    "image": "vipermagicskin.gif",
     "type": "Serpentskin Armor",
     "name": "Skin of the Vipermagi"
   },
@@ -1888,7 +1888,7 @@
       "<font color=4850B8>Attacker Takes Damage of 15</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/flayedoneskin.gif",
+    "image": "flayedoneskin.gif",
     "type": "Demonhide Armor",
     "name": "Skin of the Flayed One"
   },
@@ -1906,7 +1906,7 @@
       "<font color=4850B8>+25 To Life</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ironpelt.gif",
+    "image": "ironpelt.gif",
     "type": "Trellised Armor",
     "name": "Iron Pelt"
   },
@@ -1924,7 +1924,7 @@
       "<font color=4850B8>+15 Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/scalemail.gif",
+    "image": "scalemail.gif",
     "type": "Tigulated Mail",
     "name": "Crow Caw"
   },
@@ -1944,7 +1944,7 @@
       "<font color=4850B8>+4 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ringmail.gif",
+    "image": "ringmail.gif",
     "type": "Linked Mail",
     "name": "Spirit Forge"
   },
@@ -1966,7 +1966,7 @@
       "<font color=4850B8>+15 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/durielsshell.gif",
+    "image": "durielsshell.gif",
     "type": "Cuirass",
     "name": "Duriel's Shell"
   },
@@ -1983,7 +1983,7 @@
       "<font color=4850B8>+60 To Life</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/chainmail.gif",
+    "image": "chainmail.gif",
     "type": "Mesh Armor",
     "name": "Shaftstop"
   },
@@ -2001,7 +2001,7 @@
       "<font color=4850B8>Magic Damage Reduced By 10</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/splintmail.gif",
+    "image": "splintmail.gif",
     "type": "Russet Armor",
     "name": "Skullder's Ire"
   },
@@ -2021,7 +2021,7 @@
       "<font color=4850B8>+15 To Energy</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lightplate.gif",
+    "image": "lightplate.gif",
     "type": "Mage Plate",
     "name": "Que-Hegan's Wisdom"
   },
@@ -2040,7 +2040,7 @@
       "<font color=4850B8>Attacker Takes Damage of 20-40</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/toothrow.gif",
+    "image": "toothrow.gif",
     "type": "Sharktooth Armor",
     "name": "Toothrow"
   },
@@ -2063,7 +2063,7 @@
       "<font color=4850B8>15% To Maximum Fire Resist</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/guardianangel.gif",
+    "image": "guardianangel.gif",
     "type": "Templar Coat",
     "name": "Guardian Angel"
   },
@@ -2083,7 +2083,7 @@
       "<font color=4850B8>+20% Better Chance Of Getting Magic Items</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/gothicplate.gif",
+    "image": "gothicplate.gif",
     "type": "Embossed Plate",
     "name": "Atma's Wail"
   },
@@ -2102,7 +2102,7 @@
       "<font color=4850B8>-2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/fullplate.gif",
+    "image": "fullplate.gif",
     "type": "Chaos Armor",
     "name": "Black Hades"
   },
@@ -2122,7 +2122,7 @@
       "<font color=4850B8>+8 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/corpsemourn.gif",
+    "image": "corpsemourn.gif",
     "type": "Ornate Plate",
     "name": "Corpsemourn"
   },
@@ -2142,7 +2142,7 @@
       "<font color=4850B8>Regenerate Mana 10-15%</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/ormusrobes.gif",
+    "image": "ormusrobes.gif",
     "type": "Dusk Shroud",
     "name": "Ormus' Robes"
   },
@@ -2163,7 +2163,7 @@
       "<font color=4850B8>Magic Damage Reduced By 15-20</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/gladiatorsbane.gif",
+    "image": "gladiatorsbane.gif",
     "type": "Wire Fleece",
     "name": "The Gladiator's Bane"
   },
@@ -2181,7 +2181,7 @@
       "<font color=4850B8>Damage Reduced By 10-15</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/balrogskin.gif",
+    "image": "balrogskin.gif",
     "type": "Balrog Skin",
     "name": "Arkaine's Valor"
   },
@@ -2199,7 +2199,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/leviathan.gif",
+    "image": "leviathan.gif",
     "type": "Kraken Shell",
     "name": "Leviathan"
   },
@@ -2219,7 +2219,7 @@
       "<font color=4850B8>8% Chance To Cast Level 6 Iron Maiden When Struck</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/steelcarapace.gif",
+    "image": "steelcarapace.gif",
     "type": "Shadow Plate",
     "name": "Steel Carapace"
   },
@@ -2239,7 +2239,7 @@
       "<font color=4850B8>+1-2 To Offensive Auras (Paladin Only)</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/templarsmight.gif",
+    "image": "templarsmight.gif",
     "type": "Sacred Armor",
     "name": "Templar's Might"
   },
@@ -2261,7 +2261,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/milabregasrobe.gif",
+    "image": "milabregasrobe.gif",
     "type": "Sacred Armor",
     "name": "Tyrael's Might"
   },
@@ -2283,7 +2283,7 @@
       "<font color=4850B8>+2 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/peltalunata.gif",
+    "image": "peltalunata.gif",
     "type": "Buckler",
     "name": "Pelta Lunata"
   },
@@ -2306,7 +2306,7 @@
       "<font color=4850B8>+10-15 Durability</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/umbraldisk.gif",
+    "image": "umbraldisk.gif",
     "type": "Small Shield",
     "name": "Umbral Disk"
   },
@@ -2328,7 +2328,7 @@
       "<font color=4850B8>Magic Damage Reduced By 1</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/stormguild.gif",
+    "image": "stormguild.gif",
     "type": "Large Shield",
     "name": "Stormguild"
   },
@@ -2351,7 +2351,7 @@
       "<font color=4850B8>Damage Reduced By 3</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/steelclash.gif",
+    "image": "steelclash.gif",
     "type": "Kite Shield",
     "name": "Steelclash"
   },
@@ -2371,7 +2371,7 @@
       "<font color=4850B8>Attacker Takes Damage of 10</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/swordbackhold.gif",
+    "image": "swordbackhold.gif",
     "type": "Spiked Shield",
     "name": "Swordback Hold"
   },
@@ -2392,7 +2392,7 @@
       "<font color=4850B8>Magic Damage Reduced By 5</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bverritkeep.gif",
+    "image": "bverritkeep.gif",
     "type": "Tower Shield",
     "name": "Bverrit Keep"
   },
@@ -2413,7 +2413,7 @@
       "<font color=4850B8>Poison Resist +20%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/walloftheeyeless.gif",
+    "image": "walloftheeyeless.gif",
     "type": "Bone Shield",
     "name": "Wall of the Eyeless"
   },
@@ -2434,7 +2434,7 @@
       "<font color=4850B8>+10 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/theward.gif",
+    "image": "theward.gif",
     "type": "Gothic Shield",
     "name": "The Ward"
   },
@@ -2454,7 +2454,7 @@
       "<font color=4850B8>Attacker Takes Lightning Damage of 10</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/peltalunata.gif",
+    "image": "peltalunata.gif",
     "type": "Defender",
     "name": "Visceratuant"
   },
@@ -2474,7 +2474,7 @@
       "<font color=4850B8>Socketed (2)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/blessedcircle.gif",
+    "image": "blessedcircle.gif",
     "type": "Round Shield",
     "name": "Moser's Blessed Circle"
   },
@@ -2498,7 +2498,7 @@
       "<font color=4850B8>Adds 1-60 Lightning Damage</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/stormchaser.gif",
+    "image": "stormchaser.gif",
     "type": "Scutum",
     "name": "Stormchaser"
   },
@@ -2521,7 +2521,7 @@
       "<font color=4850B8>All Resistances +25-35%</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/steelclash.gif",
+    "image": "steelclash.gif",
     "type": "Dragon Shield",
     "name": "Tiamat's Rebuke"
   },
@@ -2542,7 +2542,7 @@
       "<font color=4850B8>Attacker Takes Damage of 47</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lanceguard.gif",
+    "image": "lanceguard.gif",
     "type": "Barbed Shield",
     "name": "Lance Guard"
   },
@@ -2563,7 +2563,7 @@
       "<font color=4850B8>Magic Damage Reduced By 14-18</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bverritkeep.gif",
+    "image": "bverritkeep.gif",
     "type": "Pavise",
     "name": "Gerke's Sanctuary"
   },
@@ -2585,7 +2585,7 @@
       "<font color=4850B8>+1 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lidlesswall.gif",
+    "image": "lidlesswall.gif",
     "type": "Grim Shield",
     "name": "Lidless Wall"
   },
@@ -2607,7 +2607,7 @@
       "<font color=4850B8>+80 Poison Damage Over 4 Seconds</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/theward.gif",
+    "image": "theward.gif",
     "type": "Ancient Shield",
     "name": "Radament's Sphere"
   },
@@ -2629,7 +2629,7 @@
       "<font color=4850B8>Half Freeze Duration</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/umbraldisk.gif",
+    "image": "umbraldisk.gif",
     "type": "Luna",
     "name": "Blackoak Shield"
   },
@@ -2652,7 +2652,7 @@
       "<font color=4850B8>Indestructible</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/steelclash.gif",
+    "image": "steelclash.gif",
     "type": "Monarch",
     "name": "Stormshield"
   },
@@ -2672,7 +2672,7 @@
       "<font color=4850B8>Socketed (1)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/swordbackhold.gif",
+    "image": "swordbackhold.gif",
     "type": "Blade Barrier",
     "name": "Spike Thorn"
   },
@@ -2693,7 +2693,7 @@
       "<font color=4850B8>100% Chance To Cast Level 44 Nova When You Die</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/bverritkeep.gif",
+    "image": "bverritkeep.gif",
     "type": "Aegis",
     "name": "Medusa's Gaze"
   },
@@ -2714,7 +2714,7 @@
       "<font color=4850B8>Socketed (1-3)</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/walloftheeyeless.gif",
+    "image": "walloftheeyeless.gif",
     "type": "Troll Nest",
     "name": "Head Hunter's Glory"
   },
@@ -2734,7 +2734,7 @@
       "<font color=4850B8>5% Chance To Cast Level 8 Fade When Struck</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/theward.gif",
+    "image": "theward.gif",
     "type": "Ward",
     "name": "Spirit Ward"
   },
@@ -2752,7 +2752,7 @@
       "<font color=4850B8>+20 To Mana</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thehandofbroc.gif",
+    "image": "thehandofbroc.gif",
     "type": "Leather Gloves",
     "name": "The Hand of Broc"
   },
@@ -2770,7 +2770,7 @@
       "<font color=4850B8>+5 To Min Damage</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bloodfist.gif",
+    "image": "bloodfist.gif",
     "type": "Heavy Gloves",
     "name": "Bloodfist"
   },
@@ -2789,7 +2789,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/chanceguards.gif",
+    "image": "chanceguards.gif",
     "type": "Chain Gloves",
     "name": "Chance Guards"
   },
@@ -2808,7 +2808,7 @@
       "<font color=4850B8>Adds 1-6 Fire Damage</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/magefist.gif",
+    "image": "magefist.gif",
     "type": "Light Gauntlets",
     "name": "Magefist"
   },
@@ -2826,7 +2826,7 @@
       "<font color=4850B8>Adds 1-6 Cold Damage, Cold Duration: 2 Seconds</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/frostburn.gif",
+    "image": "frostburn.gif",
     "type": "Gauntlets",
     "name": "Frostburn"
   },
@@ -2846,7 +2846,7 @@
       "<font color=4850B8>Poison Resist +30%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/leathergloves.gif",
+    "image": "leathergloves.gif",
     "type": "Demonhide Gloves",
     "name": "Venom Grip"
   },
@@ -2864,7 +2864,7 @@
       "<font color=4850B8>+10 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/heavygloves.gif",
+    "image": "heavygloves.gif",
     "type": "Sharkskin Gloves",
     "name": "Gravepalm"
   },
@@ -2882,7 +2882,7 @@
       "<font color=4850B8>+20 To Life</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/chaingloves.gif",
+    "image": "chaingloves.gif",
     "type": "Heavy Bracers",
     "name": "Ghoulhide"
   },
@@ -2901,7 +2901,7 @@
       "<font color=4850B8>Fire Resist +24%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lightgauntlets.gif",
+    "image": "lightgauntlets.gif",
     "type": "Battle Gauntlets",
     "name": "Lava Gout"
   },
@@ -2919,7 +2919,7 @@
       "<font color=4850B8>Adds 15-72 Fire Damage</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/gauntlets.gif",
+    "image": "gauntlets.gif",
     "type": "War Gauntlets",
     "name": "Hellmouth"
   },
@@ -2938,7 +2938,7 @@
       "<font color=4850B8>5% Chance To Cast Level 10 Life Tap On Striking</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/draculsgrasp.gif",
+    "image": "draculsgrasp.gif",
     "type": "Vampirebone Gloves",
     "name": "Dracul's Grasp"
   },
@@ -2956,7 +2956,7 @@
       "<font color=4850B8>8% Chance To Cast Level 3 Weaken On Striking</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/souldrainer.gif",
+    "image": "souldrainer.gif",
     "type": "Vambraces",
     "name": "Soul Drainer"
   },
@@ -2973,7 +2973,7 @@
       "<font color=4850B8>+15-20 To Strength</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/steelrend.gif",
+    "image": "steelrend.gif",
     "type": "Ogre Gauntlets",
     "name": "Steelrend"
   },
@@ -2992,7 +2992,7 @@
       "<font color=4850B8>+15 To Life</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/hotspur.gif",
+    "image": "hotspur.gif",
     "type": "Boots",
     "name": "Hotspur"
   },
@@ -3012,7 +3012,7 @@
       "<font color=4850B8>+2 To Leap (Barbarian Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/gorefoot.gif",
+    "image": "gorefoot.gif",
     "type": "Heavy Boots",
     "name": "Gorefoot"
   },
@@ -3032,7 +3032,7 @@
       "<font color=4850B8>+10 To Life</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/treadsofcthon.gif",
+    "image": "treadsofcthon.gif",
     "type": "Chain Boots",
     "name": "Treads of Cthon"
   },
@@ -3052,7 +3052,7 @@
       "<font color=4850B8>+15 Defense</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/goblintoe.gif",
+    "image": "goblintoe.gif",
     "type": "Light Plated Boots",
     "name": "Goblin Toe"
   },
@@ -3073,7 +3073,7 @@
       "<font color=4850B8>+2 To Vigor (Paladin Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/tearhaunch.gif",
+    "image": "tearhaunch.gif",
     "type": "Greaves",
     "name": "Tearhaunch"
   },
@@ -3096,7 +3096,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/leatherboots.gif",
+    "image": "leatherboots.gif",
     "type": "Demonhide Boots",
     "name": "Infernostride"
   },
@@ -3118,7 +3118,7 @@
       "<font color=4850B8>+45-65 To Life</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/heavyboots.gif",
+    "image": "heavyboots.gif",
     "type": "Sharkskin Boots",
     "name": "Waterwalk"
   },
@@ -3137,7 +3137,7 @@
       "<font color=4850B8>+200 Defense VS. Missile</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/chainboots.gif",
+    "image": "chainboots.gif",
     "type": "Mesh Boots",
     "name": "Silkweave"
   },
@@ -3159,7 +3159,7 @@
       "<font color=4850B8>30-50% Better Chance of Getting Magic Items</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/goblintoe.gif",
+    "image": "goblintoe.gif",
     "type": "Battle Boots",
     "name": "War Traveler"
   },
@@ -3180,7 +3180,7 @@
       "<font color=4850B8>+20 Maximum Stamina</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/plateboots.gif",
+    "image": "plateboots.gif",
     "type": "War Boots",
     "name": "Gore Rider"
   },
@@ -3203,7 +3203,7 @@
       "<font color=4850B8>Repairs 1 Durability In 20 Seconds</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/heavyboots.gif",
+    "image": "heavyboots.gif",
     "type": "Scarabshell Boots",
     "name": "Sandstorm Trek"
   },
@@ -3227,7 +3227,7 @@
       "<font color=4850B8>Level 12 Life Tap (10 Charges)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/chainboots.gif",
+    "image": "chainboots.gif",
     "type": "Boneweave Boots",
     "name": "Marrowwalk"
   },
@@ -3248,7 +3248,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/shadowdancer.gif",
+    "image": "shadowdancer.gif",
     "type": "Myrmidon Greaves",
     "name": "Shadow Dancer"
   },
@@ -3265,7 +3265,7 @@
       "<font color=4850B8>+1 To Light Radius</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/lenymscord.gif",
+    "image": "lenymscord.gif",
     "type": "Sash",
     "name": "Lenymo"
   },
@@ -3284,7 +3284,7 @@
       "<font color=4850B8>+12 Poison Damage Over 3 Seconds</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/snakecord.gif",
+    "image": "snakecord.gif",
     "type": "Light Belt",
     "name": "Snakecord"
   },
@@ -3304,7 +3304,7 @@
       "<font color=4850B8>+20 To Mana</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/nightsmoke.gif",
+    "image": "nightsmoke.gif",
     "type": "Belt",
     "name": "Nightsmoke"
   },
@@ -3324,7 +3324,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/goldwrap.gif",
+    "image": "goldwrap.gif",
     "type": "Heavy Belt",
     "name": "Goldwrap"
   },
@@ -3345,7 +3345,7 @@
       "<font color=4850B8>Attacker Takes Damage of 8</font>*",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bladebuckle.gif",
+    "image": "bladebuckle.gif",
     "type": "Plated Belt",
     "name": "Bladebuckle"
   },
@@ -3364,7 +3364,7 @@
       "<font color=4850B8>Magic Damage Reduced 10-15</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/sash.gif",
+    "image": "sash.gif",
     "type": "Demonhide Sash",
     "name": "String of Ears"
   },
@@ -3384,7 +3384,7 @@
       "<font color=4850B8>Attacker Takes Damage of (1 Per Character Level) 1-99 (Based On Character Level)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lightbelt.gif",
+    "image": "lightbelt.gif",
     "type": "Sharkskin Belt",
     "name": "Razortail"
   },
@@ -3404,7 +3404,7 @@
       "<font color=4850B8>-3 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/belt.gif",
+    "image": "belt.gif",
     "type": "Mesh Belt",
     "name": "Gloom's Trap"
   },
@@ -3426,7 +3426,7 @@
       "<font color=4850B8>+3 To Glacial Spike (Sorceress Only)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/heavybelt.gif",
+    "image": "heavybelt.gif",
     "type": "Battle Belt",
     "name": "Snowclash"
   },
@@ -3449,7 +3449,7 @@
       "<font color=4850B8>+3 To Lightning Strike (Amazon Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/girdle.gif",
+    "image": "girdle.gif",
     "type": "War Belt",
     "name": "Thundergod's Vigor"
   },
@@ -3469,7 +3469,7 @@
       "<font color=4850B8>Level 3 Venom (11 Charges)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/arachnidmesh.gif",
+    "image": "arachnidmesh.gif",
     "type": "Spiderweb Sash",
     "name": "Arachnid Mesh"
   },
@@ -3489,7 +3489,7 @@
       "<font color=4850B8>-3 To Light Radius</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/nosferatuscoil.gif",
+    "image": "nosferatuscoil.gif",
     "type": "Vampirefang Belt",
     "name": "Nosferatu's Coil"
   },
@@ -3509,7 +3509,7 @@
       "<font color=4850B8>Damage Reduced By 10-15%</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/verdungosheartycord.gif",
+    "image": "verdungosheartycord.gif",
     "type": "Mithril Coil",
     "name": "Verdungo's Hearty Cord"
   },
@@ -3526,7 +3526,7 @@
       "<font color=4850B8>+8 To Strength</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/thegnasher.gif",
+    "image": "thegnasher.gif",
     "type": "Hand Axe",
     "name": "The Gnasher"
   },
@@ -3545,7 +3545,7 @@
       "<font color=4850B8>+4 points of Mana after each kill</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/deathspade.gif",
+    "image": "deathspade.gif",
     "type": "Axe",
     "name": "Deathspade"
   },
@@ -3565,7 +3565,7 @@
       "<font color=4850B8>+20 Defense</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/doubleaxe.gif",
+    "image": "doubleaxe.gif",
     "type": "Double Axe",
     "name": "Bladebone"
   },
@@ -3586,7 +3586,7 @@
       "<font color=4850B8>Regenerate Mana 20%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/mindrend.gif",
+    "image": "mindrend.gif",
     "type": "Military Pick",
     "name": "Skull Splitter"
   },
@@ -3605,7 +3605,7 @@
       "<font color=4850B8>Poison resist +50%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/waraxe.gif",
+    "image": "waraxe.gif",
     "type": "War Axe",
     "name": "Rakescar"
   },
@@ -3623,7 +3623,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/largeaxe.gif",
+    "image": "largeaxe.gif",
     "type": "Large Axe",
     "name": "Axe of Fechmar"
   },
@@ -3642,7 +3642,7 @@
       "<font color=4850B8>+25 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/broadaxe.gif",
+    "image": "broadaxe.gif",
     "type": "Broad Axe",
     "name": "Goreshovel"
   },
@@ -3661,7 +3661,7 @@
       "<font color=4850B8>+6 To Mana After Each Kill</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thechieftan.gif",
+    "image": "thechieftan.gif",
     "type": "Battle Axe",
     "name": "The Chieftain"
   },
@@ -3682,7 +3682,7 @@
       "<font color=4850B8>+4 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/brainhew.gif",
+    "image": "brainhew.gif",
     "type": "Great Axe",
     "name": "Brainhew"
   },
@@ -3701,7 +3701,7 @@
       "<font color=4850B8>+20-30 to Strength</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/giantaxe.gif",
+    "image": "giantaxe.gif",
     "type": "Giant Axe",
     "name": "Humongous"
   },
@@ -3725,7 +3725,7 @@
       "<font color=4850B8>Cold Resist +15%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/coldkill.gif",
+    "image": "coldkill.gif",
     "type": "Hatchet",
     "name": "Coldkill"
   },
@@ -3745,7 +3745,7 @@
       "<font color=4850B8>Indestructible</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/butcherspupil.gif",
+    "image": "butcherspupil.gif",
     "type": "Cleaver",
     "name": "Butcher's Pupil"
   },
@@ -3767,7 +3767,7 @@
       "<font color=4850B8>+1 Maul (Druid Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/doubleaxe.gif",
+    "image": "doubleaxe.gif",
     "type": "Twin Axe",
     "name": "Islestrike"
   },
@@ -3788,7 +3788,7 @@
       "<font color=4850B8>Knockback</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/mindrend.gif",
+    "image": "mindrend.gif",
     "type": "Crowbill",
     "name": "Pompeii's Wrath"
   },
@@ -3809,7 +3809,7 @@
       "<font color=4850B8>Attacker Takes Damage of 15</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/waraxe.gif",
+    "image": "waraxe.gif",
     "type": "Naga",
     "name": "Guardian Naga"
   },
@@ -3830,7 +3830,7 @@
       "<font color=4850B8>+75 Defense</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/largeaxe.gif",
+    "image": "largeaxe.gif",
     "type": "Military Axe",
     "name": "Warlord's Trust"
   },
@@ -3855,7 +3855,7 @@
       "<font color=4850B8>Magic Damage Reduced By 12-15</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/broadaxe.gif",
+    "image": "broadaxe.gif",
     "type": "Bearded Axe",
     "name": "Spellsteel"
   },
@@ -3877,7 +3877,7 @@
       "<font color=4850B8>Attacker Takes Lightning Damage Of 15</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/stormrider.gif",
+    "image": "stormrider.gif",
     "type": "Tabar",
     "name": "Stormrider"
   },
@@ -3901,7 +3901,7 @@
       "<font color=4850B8>+8 To Strength</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/brainhew.gif",
+    "image": "brainhew.gif",
     "type": "Gothic Axe",
     "name": "Boneslayer Blade"
   },
@@ -3923,7 +3923,7 @@
       "<font color=4850B8>+15-20 To Strength</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/minotuar.gif",
+    "image": "minotuar.gif",
     "type": "Ancient Axe",
     "name": "The Minotaur"
   },
@@ -3943,7 +3943,7 @@
       "<font color=4850B8>50% Chance of Open Wounds</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/thegnasher.gif",
+    "image": "thegnasher.gif",
     "type": "Tomahawk",
     "name": "Razor's Edge"
   },
@@ -3963,7 +3963,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/doubleaxe.gif",
+    "image": "doubleaxe.gif",
     "type": "Ettin Axe",
     "name": "Rune Master"
   },
@@ -3984,7 +3984,7 @@
       "<font color=4850B8>Level 8 Raven (15 charges)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/mindrend.gif",
+    "image": "mindrend.gif",
     "type": "War Spike",
     "name": "Cranebeak"
   },
@@ -4005,7 +4005,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/waraxe.gif",
+    "image": "waraxe.gif",
     "type": "Berserker Axe",
     "name": "Death Cleaver"
   },
@@ -4027,7 +4027,7 @@
       "<font color=4850B8>Ethereal (Cannot Be Repaired)</font>*",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/etherealedge.gif",
+    "image": "etherealedge.gif",
     "type": "Silver-Edged Axe",
     "name": "Ethereal Edge"
   },
@@ -4049,7 +4049,7 @@
       "<font color=4850B8>10% Chance To Cast Level 16-20 Fireball On Attack</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/thechieftan.gif",
+    "image": "thechieftan.gif",
     "type": "Decapitator",
     "name": "Hellslayer"
   },
@@ -4069,7 +4069,7 @@
       "<font color=4850B8>+15 To All Attributes</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/brainhew.gif",
+    "image": "brainhew.gif",
     "type": "Champion Axe",
     "name": "Messerschmidt's Reaver"
   },
@@ -4090,7 +4090,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/executionersjustice.gif",
+    "image": "executionersjustice.gif",
     "type": "Glorious Axe",
     "name": "Executioner's Justice"
   },
@@ -4109,7 +4109,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/pluckeye.gif",
+    "image": "pluckeye.gif",
     "type": "Short Bow",
     "name": "Pluckeye"
   },
@@ -4127,7 +4127,7 @@
       "<font color=4850B8>+50 To Attack Rating</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/witherstring.gif",
+    "image": "witherstring.gif",
     "type": "Hunter's Bow",
     "name": "Witherstring"
   },
@@ -4146,7 +4146,7 @@
       "<font color=4850B8>+3 To Strength</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/rimeraven.gif",
+    "image": "rimeraven.gif",
     "type": "Long Bow",
     "name": "Raven Claw"
   },
@@ -4166,7 +4166,7 @@
       "<font color=4850B8>All Resistances +10</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/piercerib.gif",
+    "image": "piercerib.gif",
     "type": "Composite Bow",
     "name": "Rogue's Bow"
   },
@@ -4186,7 +4186,7 @@
       "<font color=4850B8>+8 to Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/pullspite.gif",
+    "image": "pullspite.gif",
     "type": "Short Battle Bow",
     "name": "Stormstrike"
   },
@@ -4208,7 +4208,7 @@
       "<font color=4850B8>-(20-35)% To Enemy Cold Resistance</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/wizendraw.gif",
+    "image": "wizendraw.gif",
     "type": "Long Battle Bow",
     "name": "Wizendraw"
   },
@@ -4229,7 +4229,7 @@
       "<font color=4850B8>+12 to Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/hellclap.gif",
+    "image": "hellclap.gif",
     "type": "Short War Bow",
     "name": "Hellclap"
   },
@@ -4248,7 +4248,7 @@
       "<font color=4850B8>+2 To Exploding Arrow (Amazon Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/blastbark.gif",
+    "image": "blastbark.gif",
     "type": "Long War Bow",
     "name": "Blastbark"
   },
@@ -4269,7 +4269,7 @@
       "<font color=4850B8>+10 to Energy</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/shortbow.gif",
+    "image": "shortbow.gif",
     "type": "Edge Bow",
     "name": "Skystrike"
   },
@@ -4289,7 +4289,7 @@
       "<font color=4850B8>+35 To Mana</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/riphook.gif",
+    "image": "riphook.gif",
     "type": "Razor Bow",
     "name": "Riphook"
   },
@@ -4309,7 +4309,7 @@
       "<font color=4850B8>+3 To Bow And Crossbow Skills (Amazon Only)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/kukoshakaku.gif",
+    "image": "kukoshakaku.gif",
     "type": "Cedar Bow",
     "name": "Kuko Shakaku"
   },
@@ -4329,7 +4329,7 @@
       "<font color=4850B8>+3-5 To Strafe (Amazon Only)</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/piercerib.gif",
+    "image": "piercerib.gif",
     "type": "Double Bow",
     "name": "Endlesshail"
   },
@@ -4349,7 +4349,7 @@
       "<font color=4850B8>Sockets (2)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/whichwildstring.gif",
+    "image": "whichwildstring.gif",
     "type": "Short Siege Bow",
     "name": "Witchwild String"
   },
@@ -4369,7 +4369,7 @@
       "<font color=4850B8>Knockback</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/cliffkiller.gif",
+    "image": "cliffkiller.gif",
     "type": "Large Siege Bow",
     "name": "Cliffkiller"
   },
@@ -4392,7 +4392,7 @@
       "<font color=4850B8>+3 Guided Arrow (Amazon Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/hellclap.gif",
+    "image": "hellclap.gif",
     "type": "Rune Bow",
     "name": "Magewrath"
   },
@@ -4413,7 +4413,7 @@
       "<font color=4850B8>+100-150% Bonus To Attack Rating</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/goldstrikearch.gif",
+    "image": "goldstrikearch.gif",
     "type": "Gothic Bow",
     "name": "Goldstrike Arch"
   },
@@ -4433,7 +4433,7 @@
       "<font color=4850B8>Ignores Target's Defense</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/longbattlebow.gif",
+    "image": "longbattlebow.gif",
     "type": "Crusader Bow",
     "name": "Eaglehorn"
   },
@@ -4453,7 +4453,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/widowmaker.gif",
+    "image": "widowmaker.gif",
     "type": "Ward Bow",
     "name": "Widowmaker"
   },
@@ -4475,7 +4475,7 @@
       "<font color=4850B8>Knockback</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/windforce.gif",
+    "image": "windforce.gif",
     "type": "Hydra Bow",
     "name": "Windforce"
   },
@@ -4495,7 +4495,7 @@
       "<font color=4850B8>+10 to Dexterity</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/leadcrow.gif",
+    "image": "leadcrow.gif",
     "type": "Light Crossbow",
     "name": "Leadcrow"
   },
@@ -4515,7 +4515,7 @@
       "<font color=4850B8>+20 to Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ichorsting.gif",
+    "image": "ichorsting.gif",
     "type": "Crossbow",
     "name": "Ichorsting"
   },
@@ -4536,7 +4536,7 @@
       "<font color=4850B8>Fire Resist +15%</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/hellcast.gif",
+    "image": "hellcast.gif",
     "type": "Heavy Crossbow",
     "name": "Hellcast"
   },
@@ -4555,7 +4555,7 @@
       "<font color=4850B8>+15 To Life</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/doomspittle.gif",
+    "image": "doomspittle.gif",
     "type": "Repeating Crossbow",
     "name": "Doomslinger"
   },
@@ -4576,7 +4576,7 @@
       "<font color=4850B8>30-60% Better Chance Of Getting Magic Items</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/langerbriser.gif",
+    "image": "langerbriser.gif",
     "type": "Arbalest",
     "name": "Langer Briser"
   },
@@ -4598,7 +4598,7 @@
       "<font color=4850B8>+2 To Necromancer Skill Levels</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/pusspitter.gif",
+    "image": "pusspitter.gif",
     "type": "Siege Crossbow",
     "name": "Pus Spitter"
   },
@@ -4620,7 +4620,7 @@
       "<font color=4850B8>80% Increased Attack Speed</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/hellcast.gif",
+    "image": "hellcast.gif",
     "type": "Ballista",
     "name": "Buriza-Do Kyanon"
   },
@@ -4641,7 +4641,7 @@
       "<font color=4850B8>+36 To Mana</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/demonmachine.gif",
+    "image": "demonmachine.gif",
     "type": "Chu-Ko-Nu",
     "name": "Demon Machine"
   },
@@ -4663,7 +4663,7 @@
       "<font color=4850B8>Socketed (2)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/hellrack.gif",
+    "image": "hellrack.gif",
     "type": "Colossus Crossbow",
     "name": "Hellrack"
   },
@@ -4682,7 +4682,7 @@
       "<font color=4850B8>Slows Target by 25%</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/gutsiphon.gif",
+    "image": "gutsiphon.gif",
     "type": "Demon Crossbow",
     "name": "Gut Siphon"
   },
@@ -4698,7 +4698,7 @@
       "<font color=4850B8>-5 to Mana</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/dagger.gif",
+    "image": "dagger.gif",
     "type": "Dagger",
     "name": "Gull"
   },
@@ -4718,7 +4718,7 @@
       "<font color=4850B8>+10 To Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thediggler.gif",
+    "image": "thediggler.gif",
     "type": "Dirk",
     "name": "The Diggler"
   },
@@ -4737,7 +4737,7 @@
       "<font color=4850B8>Cannot Be Frozen</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thejadetando.gif",
+    "image": "thejadetando.gif",
     "type": "Kris",
     "name": "The Jade Tan Do"
   },
@@ -4756,7 +4756,7 @@
       "<font color=4850B8>+50 To Mana</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/iricesshard.gif",
+    "image": "iricesshard.gif",
     "type": "Blade",
     "name": "Spectral Shard"
   },
@@ -4778,7 +4778,7 @@
       "<font color=4850B8>+10 To Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/dagger.gif",
+    "image": "dagger.gif",
     "type": "Poignard",
     "name": "Spineripper"
   },
@@ -4800,7 +4800,7 @@
       "<font color=4850B8>+4 To Find Potion (Barbarian Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thediggler.gif",
+    "image": "thediggler.gif",
     "type": "Rondel",
     "name": "Heart Carver"
   },
@@ -4823,7 +4823,7 @@
       "<font color=4850B8>+5 To Poison Dagger (Necromancer Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thejadetando.gif",
+    "image": "thejadetando.gif",
     "type": "Cinquedeas",
     "name": "Blackbog's Sharp"
   },
@@ -4843,7 +4843,7 @@
       "<font color=4850B8>Attacker Takes Lightning Damage of 20</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/stormspike.gif",
+    "image": "stormspike.gif",
     "type": "Stiletto",
     "name": "Stormspike"
   },
@@ -4863,7 +4863,7 @@
       "<font color=4850B8>Indestructible</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/dagger.gif",
+    "image": "dagger.gif",
     "type": "Bone Knife",
     "name": "Wizardspike"
   },
@@ -4885,7 +4885,7 @@
       "<font color=4850B8>Slows Target By 20%</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/fleshripper.gif",
+    "image": "fleshripper.gif",
     "type": "Fanged Knife",
     "name": "Fleshripper"
   },
@@ -4906,7 +4906,7 @@
       "<font color=4850B8>Ethereal (Cannot Be Repaired)*</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/ghostflame.gif",
+    "image": "ghostflame.gif",
     "type": "Legend Spike",
     "name": "Ghostflame"
   },
@@ -4928,7 +4928,7 @@
       "<font color=4850B8>Replenishes Quantity [1 in 3 sec.]</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/demonsarch.gif",
+    "image": "demonsarch.gif",
     "type": "Balrog Spear",
     "name": "Demon's Arch"
   },
@@ -4950,7 +4950,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/wraithflight.gif",
+    "image": "wraithflight.gif",
     "type": "Ghost Glaive",
     "name": "Wraith Flight"
   },
@@ -4971,7 +4971,7 @@
       "<font color=4850B8>Replenishes Quantity [1 in 3 sec.]</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/gargoylesbite.gif",
+    "image": "gargoylesbite.gif",
     "type": "Winged Harpoon",
     "name": "Gargoyle's Bite"
   },
@@ -4990,7 +4990,7 @@
       "<font color='#4850b8'>Fire Resist +20%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/felloak.gif",
+    "image": "felloak.gif",
     "type": "Club",
     "name": "Felloak"
   },
@@ -5008,7 +5008,7 @@
       "<font color='#4850b8'>Magic Damage Reduced By 2</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/stoutnail.gif",
+    "image": "stoutnail.gif",
     "type": "Spiked Club",
     "name": "Stoutnail"
   },
@@ -5029,7 +5029,7 @@
       "<font color='#4850b8'>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/crushflange.gif",
+    "image": "crushflange.gif",
     "type": "Mace",
     "name": "Crushflange"
   },
@@ -5051,7 +5051,7 @@
       "<font color='#4850b8'>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bloodrise.gif",
+    "image": "bloodrise.gif",
     "type": "Morning Star",
     "name": "Bloodrise"
   },
@@ -5073,7 +5073,7 @@
       "<font color='#4850b8'>+25 Defense</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thegeneralstandoliga.gif",
+    "image": "thegeneralstandoliga.gif",
     "type": "Flail",
     "name": "The General's Tan Do Li Ga"
   },
@@ -5092,7 +5092,7 @@
       "<font color='#4850b8'>+10 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ironstone.gif",
+    "image": "ironstone.gif",
     "type": "War Hammer",
     "name": "Ironstone"
   },
@@ -5111,7 +5111,7 @@
       "<font color='#4850b8'>Fire Resist +30%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bonesnap.gif",
+    "image": "bonesnap.gif",
     "type": "Maul",
     "name": "Bonesnap"
   },
@@ -5130,7 +5130,7 @@
       "<font color='#4850b8'>Heal Stamina plus 25%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/steeldriver.gif",
+    "image": "steeldriver.gif",
     "type": "Great Maul",
     "name": "Steeldriver"
   },
@@ -5151,7 +5151,7 @@
       "<font color='#4850b8'>+2 To Druid Skill Levels</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/felloak.gif",
+    "image": "felloak.gif",
     "type": "Cudgel",
     "name": "Dark Clan Crusher"
   },
@@ -5174,7 +5174,7 @@
       "<font color='#4850b8'>Prevent Monster Heal</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/stoutnail.gif",
+    "image": "stoutnail.gif",
     "type": "Barbed Club",
     "name": "Fleshrender"
   },
@@ -5195,7 +5195,7 @@
       "<font color='#4850b8'>Cannot Be Frozen</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/crushflange.gif",
+    "image": "crushflange.gif",
     "type": "Flanged Mace",
     "name": "Sureshrill Frost"
   },
@@ -5217,7 +5217,7 @@
       "<font color='#4850b8'>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bloodrise.gif",
+    "image": "bloodrise.gif",
     "type": "Jagged Star",
     "name": "Moonfall"
   },
@@ -5240,7 +5240,7 @@
       "<font color='#4850b8'>+100 To Mana</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thegeneralstandoliga.gif",
+    "image": "thegeneralstandoliga.gif",
     "type": "Knout",
     "name": "Baezil's Vortex"
   },
@@ -5261,7 +5261,7 @@
       "<font color='#4850b8'>+3 To Elemental Skills (Druid Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/warhammer.gif",
+    "image": "warhammer.gif",
     "type": "Battle Hammer",
     "name": "Earthshaker"
   },
@@ -5282,7 +5282,7 @@
       "<font color='#4850b8'>+3 To Mace Masteries (Barbarian Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/maul.gif",
+    "image": "maul.gif",
     "type": "War Club",
     "name": "Bloodtree Stump"
   },
@@ -5303,7 +5303,7 @@
       "<font color='#4850b8'>Indestructible</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/gavelofpain.gif",
+    "image": "gavelofpain.gif",
     "type": "Martel de Fer",
     "name": "The Gavel of Pain"
   },
@@ -5326,7 +5326,7 @@
       "<font color='#4850b8'>+150-180% Bonus To Attack Rating</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/felloak.gif",
+    "image": "felloak.gif",
     "type": "Truncheon",
     "name": "Nord's Tenderizer"
   },
@@ -5348,7 +5348,7 @@
       "<font color='#4850b8'>Repairs 1 Durability in 20 Seconds</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/stoutnail.gif",
+    "image": "stoutnail.gif",
     "type": "Tyrant Club",
     "name": "Demon Limb"
   },
@@ -5372,7 +5372,7 @@
       "<font color='#4850b8'>+15 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bloodrise.gif",
+    "image": "bloodrise.gif",
     "type": "Devil Star",
     "name": "Baranar's Star"
   },
@@ -5393,7 +5393,7 @@
       "<font color='#4850b8'>Requirements -20%</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/horizonstornado.gif",
+    "image": "horizonstornado.gif",
     "type": "Scourge",
     "name": "Horizon's Tornado"
   },
@@ -5417,7 +5417,7 @@
       "<font color='#4850b8'>Attacker Takes Lightning Damage of 30</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/stormlash.gif",
+    "image": "stormlash.gif",
     "type": "Scourge",
     "name": "Stormlash"
   },
@@ -5438,7 +5438,7 @@
       "<font color='#4850b8'>+20-30 To Strength</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/stonecrusher.gif",
+    "image": "stonecrusher.gif",
     "type": "Legendary Mallet",
     "name": "Stone Crusher"
   },
@@ -5462,7 +5462,7 @@
       "<font color='#4850b8'>Indestructible</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ironstone.gif",
+    "image": "ironstone.gif",
     "type": "Legendary Mallet",
     "name": "Schaefer's Hammer"
   },
@@ -5481,7 +5481,7 @@
       "<font color='#4850b8'>+50% Damage To Undead</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/windhammer.gif",
+    "image": "windhammer.gif",
     "type": "Ogre Maul",
     "name": "Windhammer"
   },
@@ -5503,7 +5503,7 @@
       "<font color='#4850b8'>Level 14 Volcano (30 charges)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/earthshifter.gif",
+    "image": "earthshifter.gif",
     "type": "Thunder Maul",
     "name": "Earth Shifter"
   },
@@ -5526,7 +5526,7 @@
       "<font color='#4850b8'>Indestructible</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/steeldriver.gif",
+    "image": "steeldriver.gif",
     "type": "Thunder Maul",
     "name": "The Cranium Basher"
   },
@@ -5544,7 +5544,7 @@
       "<font color=4850B8>-8 Defense</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/bardiche.gif",
+    "image": "bardiche.gif",
     "type": "Bardiche",
     "name": "Dimoak's Hew"
   },
@@ -5563,7 +5563,7 @@
       "<font color=4850B8>Hit Causes monster to flee 75%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/steelgoad.gif",
+    "image": "steelgoad.gif",
     "type": "Voulge",
     "name": "Steelgoad"
   },
@@ -5584,7 +5584,7 @@
       "<font color=4850B8>All Resistances +20</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/soulharvest.gif",
+    "image": "soulharvest.gif",
     "type": "Scythe",
     "name": "Soul Harvest"
   },
@@ -5603,7 +5603,7 @@
       "<font color=4850B8>+10 To Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/poleaxe.gif",
+    "image": "poleaxe.gif",
     "type": "Poleaxe",
     "name": "The Battlebranch"
   },
@@ -5626,7 +5626,7 @@
       "<font color=4850B8>-3 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/halberd.gif",
+    "image": "halberd.gif",
     "type": "Halberd",
     "name": "Woestave"
   },
@@ -5646,7 +5646,7 @@
       "<font color=4850B8>Prevent Monster Heal</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/warscythe.gif",
+    "image": "warscythe.gif",
     "type": "War Scythe",
     "name": "The Grim Reaper"
   },
@@ -5666,7 +5666,7 @@
       "<font color=4850B8>+3 To Masteries (Barbarian Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/meatscraper.gif",
+    "image": "meatscraper.gif",
     "type": "Lochaber Axe",
     "name": "The Meat Scraper"
   },
@@ -5686,7 +5686,7 @@
       "<font color=4850B8>8% Life Stolen Per Hit</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/voulge.gif",
+    "image": "voulge.gif",
     "type": "Bill",
     "name": "Blackleach Blade"
   },
@@ -5707,7 +5707,7 @@
       "<font color=4850B8>+15 To Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/athenaswrath.gif",
+    "image": "athenaswrath.gif",
     "type": "Battle Scythe",
     "name": "Athena's Wrath"
   },
@@ -5729,7 +5729,7 @@
       "<font color=4850B8>30% Faster Hit Recovery</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/poleaxe.gif",
+    "image": "poleaxe.gif",
     "type": "Partizan",
     "name": "Pierre Tombale Couant"
   },
@@ -5750,7 +5750,7 @@
       "<font color=4850B8>Replenish Life +20</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/halberd.gif",
+    "image": "halberd.gif",
     "type": "Bec-De-Corbin",
     "name": "Husoldal Evo"
   },
@@ -5774,7 +5774,7 @@
       "<font color=4850B8>Attacker Takes Damage of 8</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/warscythe.gif",
+    "image": "warscythe.gif",
     "type": "Grim Scythe",
     "name": "Grim's Burning Dead"
   },
@@ -5795,7 +5795,7 @@
       "<font color=4850B8>Socketed (2)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/bonehew.gif",
+    "image": "bonehew.gif",
     "type": "Ogre Axe",
     "name": "Bonehew"
   },
@@ -5818,7 +5818,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/scythe.gif",
+    "image": "scythe.gif",
     "type": "Thresher",
     "name": "The Reaper's Toll"
   },
@@ -5844,7 +5844,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/poleaxe.gif",
+    "image": "poleaxe.gif",
     "type": "Cryptic Axe",
     "name": "Tomb Reaver"
   },
@@ -5867,7 +5867,7 @@
       "<font color=4850B8>Indestructible</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/warscythe.gif",
+    "image": "warscythe.gif",
     "type": "Giant Thresher",
     "name": "Stormspire"
   },
@@ -5888,7 +5888,7 @@
       "<font color=4850B8>+15 To Mana</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/scepter.gif",
+    "image": "scepter.gif",
     "type": "Scepter",
     "name": "Knell Striker"
   },
@@ -5910,7 +5910,7 @@
       "<font color=4850B8>+1-3 To Vengeance (Paladin Only)</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/grandscepter.gif",
+    "image": "grandscepter.gif",
     "type": "Grand Scepter",
     "name": "Rusthandle"
   },
@@ -5932,7 +5932,7 @@
       "<font color=4850B8>+3-5 To Resist Lightning (Paladin Only)</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/warscepter.gif",
+    "image": "warscepter.gif",
     "type": "War Scepter",
     "name": "Stormeye"
   },
@@ -5956,7 +5956,7 @@
       "<font color=4850B8>+2 To Holy Freeze (Paladin Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/scepter.gif",
+    "image": "scepter.gif",
     "type": "Rune Scepter",
     "name": "Zakarum's Hand"
   },
@@ -5978,7 +5978,7 @@
       "<font color=4850B8>+150-200 To Attack Rating</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/grandscepter.gif",
+    "image": "grandscepter.gif",
     "type": "Holy Water Sprinkler",
     "name": "The Fetid Sprinkler"
   },
@@ -6003,7 +6003,7 @@
       "<font color=4850B8>+4 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/warscepter.gif",
+    "image": "warscepter.gif",
     "type": "Divine Scepter",
     "name": "Hand of Blessed Light"
   },
@@ -6029,7 +6029,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/scepter.gif",
+    "image": "scepter.gif",
     "type": "Mighty Scepter",
     "name": "Heaven's Light"
   },
@@ -6055,7 +6055,7 @@
       "<font color=4850B8>Requirements -60%</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/scepter.gif",
+    "image": "scepter.gif",
     "type": "Mighty Scepter",
     "name": "The Redeemer"
   },
@@ -6080,7 +6080,7 @@
       "<font color=4850B8>150-200% Bonus To Attack Rating</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/warscepter.gif",
+    "image": "warscepter.gif",
     "type": "Caduceus",
     "name": "Astreon's Iron Ward"
   },
@@ -6099,7 +6099,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thedragonchang.gif",
+    "image": "thedragonchang.gif",
     "type": "Spear",
     "name": "The Dragon Chang"
   },
@@ -6120,7 +6120,7 @@
       "<font color=4850B8>+15 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/razortine.gif",
+    "image": "razortine.gif",
     "type": "Trident",
     "name": "Razortine"
   },
@@ -6140,7 +6140,7 @@
       "<font color=4850B8>+10 to Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bloodthief.gif",
+    "image": "bloodthief.gif",
     "type": "Brandistock",
     "name": "Bloodthief"
   },
@@ -6159,7 +6159,7 @@
       "<font color=4850B8>Attacker takes damage of 8</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lanceofyaggai.gif",
+    "image": "lanceofyaggai.gif",
     "type": "Spetum",
     "name": "Lance of Yaggai"
   },
@@ -6181,7 +6181,7 @@
       "<font color=4850B8>+3 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thetannrgorerod.gif",
+    "image": "thetannrgorerod.gif",
     "type": "Pike",
     "name": "The Tannr Gorerod"
   },
@@ -6204,7 +6204,7 @@
       "<font color=4850B8>+3 To Power Strike (Amazon Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/impaler.gif",
+    "image": "impaler.gif",
     "type": "War Spear",
     "name": "The Impaler"
   },
@@ -6225,7 +6225,7 @@
       "<font color=4850B8>+10 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/razortine.gif",
+    "image": "razortine.gif",
     "type": "Fuscina",
     "name": "Kelpie Snare"
   },
@@ -6246,7 +6246,7 @@
       "<font color=4850B8>20% Slower Stamina Drain</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/soulfeastine.gif",
+    "image": "soulfeastine.gif",
     "type": "War Fork",
     "name": "Soulfeast Tine"
   },
@@ -6265,7 +6265,7 @@
       "<font color=4850B8>Socketed (3)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lanceofyaggai.gif",
+    "image": "lanceofyaggai.gif",
     "type": "Yari",
     "name": "Hone Sundan"
   },
@@ -6289,7 +6289,7 @@
       "<font color=4850B8>+3 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thetannrgorerod.gif",
+    "image": "thetannrgorerod.gif",
     "type": "Lance",
     "name": "Spire of Honor"
   },
@@ -6310,7 +6310,7 @@
       "<font color=4850B8>Ignore Target's Defense</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/ariocsneedle.gif",
+    "image": "ariocsneedle.gif",
     "type": "Hyperion Spear",
     "name": "Arioc's Needle"
   },
@@ -6331,7 +6331,7 @@
       "<font color=4850B8>15% Chance To Cast Level 9 Poison Explosion On Striking</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/viperfork.gif",
+    "image": "viperfork.gif",
     "type": "Mancatcher",
     "name": "Viperfork"
   },
@@ -6351,7 +6351,7 @@
       "<font color=4850B8>Indestructible</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/pike.gif",
+    "image": "pike.gif",
     "type": "War Pike",
     "name": "Steel Pillar"
   },
@@ -6372,7 +6372,7 @@
       "<font color=4850B8>+2 To Warmth (Sorceress Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/baneash.gif",
+    "image": "baneash.gif",
     "type": "Short Staff",
     "name": "Bane Ash"
   },
@@ -6393,7 +6393,7 @@
       "<font color=4850B8>-1 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/serpentlord.gif",
+    "image": "serpentlord.gif",
     "type": "Long Staff",
     "name": "Serpent Lord"
   },
@@ -6416,7 +6416,7 @@
       "<font color=4850B8>Lightning Resist +75%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lazarusspire.gif",
+    "image": "lazarusspire.gif",
     "type": "Gnarled Staff",
     "name": "Spire of Lazarus"
   },
@@ -6436,7 +6436,7 @@
       "<font color=4850B8>+1 To Fire Wall (Sorceress Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thesalamander.gif",
+    "image": "thesalamander.gif",
     "type": "Battle Staff",
     "name": "The Salamander"
   },
@@ -6458,7 +6458,7 @@
       "<font color=4850B8>+30 Defense</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/theironlangbong.gif",
+    "image": "theironlangbong.gif",
     "type": "War Staff",
     "name": "The Iron Jang Bong"
   },
@@ -6480,7 +6480,7 @@
       "<font color=4850B8>Attacker Takes Damage Of 15</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/shortstaff.gif",
+    "image": "shortstaff.gif",
     "type": "Jo Staff",
     "name": "Razorswitch"
   },
@@ -6503,7 +6503,7 @@
       "<font color=4850B8>+15 To Dexterity</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ribcracker.gif",
+    "image": "ribcracker.gif",
     "type": "Quarterstaff",
     "name": "Ribcracker"
   },
@@ -6526,7 +6526,7 @@
       "<font color=4850B8>+1 To Fire Mastery (Sorceress Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/lazarusspire.gif",
+    "image": "lazarusspire.gif",
     "type": "Cedar Staff",
     "name": "Chromatic Ire"
   },
@@ -6547,7 +6547,7 @@
       "<font color=4850B8>+3 To Teleport (Sorceress Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/warpspear.gif",
+    "image": "warpspear.gif",
     "type": "Gothic Staff",
     "name": "Warpspear"
   },
@@ -6566,7 +6566,7 @@
       "<font color=4850B8>+2 To All Skills</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/skullcollector.gif",
+    "image": "skullcollector.gif",
     "type": "Rune Staff",
     "name": "Skull Collector"
   },
@@ -6589,7 +6589,7 @@
       "",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/lazarusspire.gif",
+    "image": "lazarusspire.gif",
     "type": "Elder Staff",
     "name": "Ondal's Wisdom"
   },
@@ -6611,7 +6611,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/mangsongslesson.gif",
+    "image": "mangsongslesson.gif",
     "type": "Archon Staff",
     "name": "Mang Song's Lesson"
   },
@@ -6630,7 +6630,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/rixotskeen.gif",
+    "image": "rixotskeen.gif",
     "type": "Short Sword",
     "name": "Rixot's Keen"
   },
@@ -6651,7 +6651,7 @@
       "<font color=4850B8>+4 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bloodcrescent.gif",
+    "image": "bloodcrescent.gif",
     "type": "Scimitar",
     "name": "Blood Crescent"
   },
@@ -6672,7 +6672,7 @@
       "<font color=4850B8>+10 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/angelicsickle.gif",
+    "image": "angelicsickle.gif",
     "type": "Sabre",
     "name": "Skewer of Krintiz"
   },
@@ -6692,7 +6692,7 @@
       "<font color=4850B8>+3 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/gleamscythe.gif",
+    "image": "gleamscythe.gif",
     "type": "Falchion",
     "name": "Gleamscythe"
   },
@@ -6712,7 +6712,7 @@
       "<font color=4850B8>Knockback</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/griswoldsedge.gif",
+    "image": "griswoldsedge.gif",
     "type": "Broad Sword",
     "name": "Griswold's Edge"
   },
@@ -6733,7 +6733,7 @@
       "<font color=4850B8>5% Mana Stolen Per Hit</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/hellplague.gif",
+    "image": "hellplague.gif",
     "type": "Long Sword",
     "name": "Hellplague"
   },
@@ -6754,7 +6754,7 @@
       "<font color=4850B8>+60 to Attack Rating</font>",
       "(Spawns In Any Patch)"
     ],
-    "image": "images/warsword.gif",
+    "image": "warsword.gif",
     "type": "War Sword",
     "name": "Culwen's Point"
   },
@@ -6776,7 +6776,7 @@
       "<font color=4850B8>-2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/shadowfang.gif",
+    "image": "shadowfang.gif",
     "type": "Two-Handed Sword",
     "name": "Shadowfang"
   },
@@ -6796,7 +6796,7 @@
       "<font color=4850B8>All Resistances +5</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/soulflay.gif",
+    "image": "soulflay.gif",
     "type": "Claymore",
     "name": "Soulflay"
   },
@@ -6817,7 +6817,7 @@
       "<font color=4850B8>+6 To Holy Fire (Paladin Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/kinemilsawl.gif",
+    "image": "kinemilsawl.gif",
     "type": "Giant Sword",
     "name": "Kinemil's Awl"
   },
@@ -6837,7 +6837,7 @@
       "<font color=4850B8>Poison Resist +50%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/blacktongue.gif",
+    "image": "blacktongue.gif",
     "type": "Bastard Sword",
     "name": "Blacktongue"
   },
@@ -6857,7 +6857,7 @@
       "<font color=4850B8>6% Mana stolen per hit</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/ripsaw.gif",
+    "image": "ripsaw.gif",
     "type": "Flamberge",
     "name": "Ripsaw"
   },
@@ -6879,7 +6879,7 @@
       "<font color=4850B8>Damage Reduced By 3</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thepatriarch.gif",
+    "image": "thepatriarch.gif",
     "type": "Great Sword",
     "name": "The Patriarch"
   },
@@ -6901,7 +6901,7 @@
       "<font color=4850B8>+2-4 To Sword Mastery (Barbarian Only)</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/rixotskeen.gif",
+    "image": "rixotskeen.gif",
     "type": "Gladius",
     "name": "Bloodletter"
   },
@@ -6922,7 +6922,7 @@
       "<font color=4850B8>Hit Blinds Target</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bloodcrescent.gif",
+    "image": "bloodcrescent.gif",
     "type": "Cutlass",
     "name": "Coldsteel Eye"
   },
@@ -6944,7 +6944,7 @@
       "<font color=4850B8>10% To Maximum Fire Resist</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/krintizskewer.gif",
+    "image": "krintizskewer.gif",
     "type": "Shamshir",
     "name": "Hexfire"
   },
@@ -6965,7 +6965,7 @@
       "<font color=4850B8>Socketed (2)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/bladeofalibaba.gif",
+    "image": "bladeofalibaba.gif",
     "type": "Tulwar",
     "name": "Blade of Ali Baba"
   },
@@ -6985,7 +6985,7 @@
       "<font color=4850B8>Repairs 1 Durability in 5 Seconds</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/riftlash.gif",
+    "image": "riftlash.gif",
     "type": "Dimensional Blade",
     "name": "Ginther's Rift"
   },
@@ -7005,7 +7005,7 @@
       "<font color=4850B8>+15 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/headstriker.gif",
+    "image": "headstriker.gif",
     "type": "Battle Sword",
     "name": "Headstriker"
   },
@@ -7026,7 +7026,7 @@
       "<font color=4850B8>+5 To Rabies (Druid Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/plaguebearer.gif",
+    "image": "plaguebearer.gif",
     "type": "Rune Sword",
     "name": "Plague Bearer"
   },
@@ -7048,7 +7048,7 @@
       "<font color=4850B8>+16 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/atlantean.gif",
+    "image": "atlantean.gif",
     "type": "Ancient Sword",
     "name": "The Atlantean"
   },
@@ -7070,7 +7070,7 @@
       "<font color=4850B8>Damage Reduced By 10%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/shadowfang.gif",
+    "image": "shadowfang.gif",
     "type": "Espandon",
     "name": "Crainte Vomir"
   },
@@ -7092,7 +7092,7 @@
       "<font color=4850B8>+20 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/soulflay.gif",
+    "image": "soulflay.gif",
     "type": "Dacian Falx",
     "name": "Bing Sz Wang"
   },
@@ -7110,7 +7110,7 @@
       "<font color=4850B8>+ (7.5 Per Character Level) 7-742% Damage To Undead (Based On Character Level)</font>",
       "<font color=4850B8>+ (10 Per Character Level) 10-990 To Attack Rating against Undead (Based On Character Level)"
     ],
-    "image": "images/kinemilsawl.gif",
+    "image": "kinemilsawl.gif",
     "type": "Tusk Sword",
     "name": "The Vile Husk"
   },
@@ -7135,7 +7135,7 @@
       "<font color=4850B8>+2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/blacktongue.gif",
+    "image": "blacktongue.gif",
     "type": "Gothic Sword",
     "name": "Cloudcrack"
   },
@@ -7158,7 +7158,7 @@
       "<font color=4850B8>Fire Resist +40%</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/todesfaelleflamme.gif",
+    "image": "todesfaelleflamme.gif",
     "type": "Zweihander",
     "name": "Todesfaelle Flamme"
   },
@@ -7183,7 +7183,7 @@
       "<font color=4850B8>+200 Defense vs. Melee</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/swordguard.gif",
+    "image": "swordguard.gif",
     "type": "Executioner Sword",
     "name": "Swordguard"
   },
@@ -7206,7 +7206,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/bloodcrescent.gif",
+    "image": "bloodcrescent.gif",
     "type": "Ataghan",
     "name": "Djinn Slayer"
   },
@@ -7226,7 +7226,7 @@
       "<font color=4850B8>Level 15 Blood Golem (9 charges)</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/krintizskewer.gif",
+    "image": "krintizskewer.gif",
     "type": "Elegant Blade",
     "name": "Bloodmoon"
   },
@@ -7250,7 +7250,7 @@
       "<font color=4850B8>+7 To Light Radius</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/azurewrath2.gif",
+    "image": "azurewrath2.gif",
     "type": "Phase Blade",
     "name": "Lightsabre"
   },
@@ -7273,7 +7273,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/azurewrath.gif",
+    "image": "azurewrath.gif",
     "type": "Phase Blade",
     "name": "Azurewrath"
   },
@@ -7294,7 +7294,7 @@
       "<font color=4850B8>+25% Increased Attack Speed</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/hellplague.gif",
+    "image": "hellplague.gif",
     "type": "Cryptic Sword",
     "name": "Frostwind"
   },
@@ -7317,7 +7317,7 @@
       "<font color=4850B8>Fire Absorb 20-30%</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/flamebellow.gif",
+    "image": "flamebellow.gif",
     "type": "Balrog Blade",
     "name": "Flamebellow"
   },
@@ -7339,7 +7339,7 @@
       "<font color=4850B8>Indestructible</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/blacktongue.gif",
+    "image": "blacktongue.gif",
     "type": "Champion Sword",
     "name": "Doombringer"
   },
@@ -7360,7 +7360,7 @@
       "<font color=4850B8>Indestructible</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/thepatriarch.gif",
+    "image": "thepatriarch.gif",
     "type": "Colossus Blade",
     "name": "The Grandfather"
   },
@@ -7382,7 +7382,7 @@
       "<font color=4850B8>Replenishes Quantity [1 in 4 sec.]</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/throwingknife.gif",
+    "image": "throwingknife.gif",
     "type": "Battle Dart",
     "name": "Deathbit"
   },
@@ -7405,7 +7405,7 @@
       "<font color=4850B8>Replenishes Quantity [1 in 3 sec.]</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/throwingaxe.gif",
+    "image": "throwingaxe.gif",
     "type": "Francisca",
     "name": "The Scalper"
   },
@@ -7428,7 +7428,7 @@
       "<B>(Ladder Only)</B>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/warshrike.gif",
+    "image": "warshrike.gif",
     "type": "Winged Knife",
     "name": "Warshrike"
   },
@@ -7450,7 +7450,7 @@
       "<font color=4850B8>Increased Stack Size [60]</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/gimmershred.gif",
+    "image": "gimmershred.gif",
     "type": "Flying Axe",
     "name": "Gimmershred"
   },
@@ -7473,7 +7473,7 @@
       "<font color=4850B8>Replenishes Quantity [1 in 4 sec.]</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/balancedaxe.gif",
+    "image": "balancedaxe.gif",
     "type": "Winged Axe",
     "name": "Lacerator"
   },
@@ -7493,7 +7493,7 @@
       "<font color=4850B8>+3 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/irostorch.gif",
+    "image": "irostorch.gif",
     "type": "Wand",
     "name": "Torch of Iro"
   },
@@ -7515,7 +7515,7 @@
       "<font color=4850B8>+1-3 to Corpse Explosion (Necromancer Only)</font> (varies)",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/maelstromwrath.gif",
+    "image": "maelstromwrath.gif",
     "type": "Yew Wand",
     "name": "Maelstrom"
   },
@@ -7535,7 +7535,7 @@
       "<font color=4850B8>+10 To Strength</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/gravenspine.gif",
+    "image": "gravenspine.gif",
     "type": "Bone Wand",
     "name": "Gravenspine"
   },
@@ -7555,7 +7555,7 @@
       "<font color=4850B8>+3 To Terror (Necromancer Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/grimwand.gif",
+    "image": "grimwand.gif",
     "type": "Grim Wand",
     "name": "Ume's Lament"
   },
@@ -7576,7 +7576,7 @@
       "<font color=4850B8>Attacker Takes Damage of 25</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/wand.gif",
+    "image": "wand.gif",
     "type": "Burnt Wand",
     "name": "Suicide Branch"
   },
@@ -7598,7 +7598,7 @@
       "<font color=4850B8>Replenish Life +5</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/maelstromwrath.gif",
+    "image": "maelstromwrath.gif",
     "type": "Petrified Wand",
     "name": "Carin Shard"
   },
@@ -7623,7 +7623,7 @@
       "<font color=4850B8>+2 To Poison And Bone Skills (Necromancer Only)</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/gravenspine.gif",
+    "image": "gravenspine.gif",
     "type": "Tomb Wand",
     "name": "Arm of King Leoric"
   },
@@ -7646,7 +7646,7 @@
       "<font color=4850B8>-2 To Light Radius</font>",
       "(Only Spawns In Patch 1.09 or later)"
     ],
-    "image": "images/blackhandkey.gif",
+    "image": "blackhandkey.gif",
     "type": "Grave Wand",
     "name": "Blackhand Key"
   },
@@ -7668,7 +7668,7 @@
       "<font color=4850B8>+25% Faster Cast Rate</font>",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/gravenspine.gif",
+    "image": "gravenspine.gif",
     "type": "Lich Wand",
     "name": "Boneshade"
   },
@@ -7688,7 +7688,7 @@
       "<font color=4850B8>+1-2 To Poison And Bone Skills (Necromancer Only)</font> (varies)",
       "(Only Spawns In Patch 1.10 or later)"
     ],
-    "image": "images/deathsweb.gif",
+    "image": "deathsweb.gif",
     "type": "Unearthed Wand",
     "name": "Death's Web"
   },
@@ -7708,7 +7708,7 @@
     "name": "Angelic Mantle",
     "setName": "Angelic Raiment",
     "classType": "",
-    "image": "images/angelicmantle.gif",
+    "image": "angelicmantle.gif",
     "type": "Ring Mail"
   },
   {
@@ -7729,7 +7729,7 @@
     "name": "Angelic Sickle",
     "setName": "Angelic Raiment",
     "classType": "",
-    "image": "images/angelicsickle.gif",
+    "image": "angelicsickle.gif",
     "type": "Sabre"
   },
   {
@@ -7744,7 +7744,7 @@
     "name": "Angelic Halo",
     "setName": "Angelic Raiment",
     "classType": "",
-    "image": "images/ring2.gif",
+    "image": "ring2.gif",
     "type": "Ring"
   },
   {
@@ -7759,7 +7759,7 @@
     "name": "Angelic Wings",
     "setName": "Angelic Raiment",
     "classType": "",
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet"
   },
   {
@@ -7778,7 +7778,7 @@
     "name": "Arcanna's Head",
     "setName": "Arcanna's Tricks",
     "classType": "",
-    "image": "images/arcannashead.gif",
+    "image": "arcannashead.gif",
     "type": "Skull Cap"
   },
   {
@@ -7797,7 +7797,7 @@
     "name": "Arcanna's Flesh",
     "setName": "Arcanna's Tricks",
     "classType": "",
-    "image": "images/arcannasflesh.gif",
+    "image": "arcannasflesh.gif",
     "type": "Light Plate"
   },
   {
@@ -7816,7 +7816,7 @@
     "name": "Arcanna's Deathwand",
     "setName": "Arcanna's Tricks",
     "classType": "",
-    "image": "images/arcannasdeathwand.gif",
+    "image": "arcannasdeathwand.gif",
     "type": "War Staff"
   },
   {
@@ -7831,7 +7831,7 @@
     "name": "Arcanna's Sign",
     "setName": "Arcanna's Tricks",
     "classType": "",
-    "image": "images/amu3.gif",
+    "image": "amu3.gif",
     "type": "Amulet"
   },
   {
@@ -7850,7 +7850,7 @@
     "name": "Arctic Furs",
     "setName": "Arctic Gear",
     "classType": "",
-    "image": "images/arcticfurs.gif",
+    "image": "arcticfurs.gif",
     "type": "Quilted Armor"
   },
   {
@@ -7867,7 +7867,7 @@
     "name": "Arctic Binding",
     "setName": "Arctic Gear",
     "classType": "",
-    "image": "images/arcticbinding.gif",
+    "image": "arcticbinding.gif",
     "type": "Light Belt"
   },
   {
@@ -7885,7 +7885,7 @@
     "name": "Arctic Mitts",
     "setName": "Arctic Gear",
     "classType": "",
-    "image": "images/arcticmitts.gif",
+    "image": "arcticmitts.gif",
     "type": "Light Gauntlets"
   },
   {
@@ -7904,7 +7904,7 @@
     "name": "Arctic Horn",
     "setName": "Arctic Gear",
     "classType": "",
-    "image": "images/arctichorn.gif",
+    "image": "arctichorn.gif",
     "type": "Short War Bow"
   },
   {
@@ -7921,7 +7921,7 @@
     "name": "Berserker's Headgear",
     "setName": "Berserker's Arsenal",
     "classType": "",
-    "image": "images/berserkerheadgear.gif",
+    "image": "berserkerheadgear.gif",
     "type": "Helm"
   },
   {
@@ -7939,7 +7939,7 @@
     "name": "Berserker's Hauberk",
     "setName": "Berserker's Arsenal",
     "classType": "",
-    "image": "images/berserkerhauberk.gif",
+    "image": "berserkerhauberk.gif",
     "type": "Splint Mail"
   },
   {
@@ -7958,7 +7958,7 @@
     "name": "Berserker's Hatchet",
     "setName": "Berserker's Arsenal",
     "classType": "",
-    "image": "images/berserkerhatchet.gif",
+    "image": "berserkerhatchet.gif",
     "type": "Double Axe"
   },
   {
@@ -7976,7 +7976,7 @@
     "name": "Cathan's Visage",
     "setName": "Cathan's Traps",
     "classType": "",
-    "image": "images/mask.gif",
+    "image": "mask.gif",
     "type": "Mask"
   },
   {
@@ -7994,7 +7994,7 @@
     "name": "Cathan's Mesh",
     "setName": "Cathan's Traps",
     "classType": "",
-    "image": "images/cathansmesh.gif",
+    "image": "cathansmesh.gif",
     "type": "Chain Mail"
   },
   {
@@ -8013,7 +8013,7 @@
     "name": "Cathan's Rule",
     "setName": "Cathan's Traps",
     "classType": "",
-    "image": "images/cathansrule.gif",
+    "image": "cathansrule.gif",
     "type": "Battle Staff"
   },
   {
@@ -8028,7 +8028,7 @@
     "name": "Cathan's Sigil",
     "setName": "Cathan's Traps",
     "classType": "",
-    "image": "images/amu1.gif",
+    "image": "amu1.gif",
     "type": "Amulet"
   },
   {
@@ -8042,7 +8042,7 @@
     "name": "Cathan's Seal",
     "setName": "Cathan's Traps",
     "classType": "",
-    "image": "images/ring4.gif",
+    "image": "ring4.gif",
     "type": "Ring"
   },
   {
@@ -8061,7 +8061,7 @@
     "name": "Civerb's Cudgel",
     "setName": "Civerb's Vestments",
     "classType": "",
-    "image": "images/grandscepter.gif",
+    "image": "grandscepter.gif",
     "type": "Grand Scepter"
   },
   {
@@ -8076,7 +8076,7 @@
     "name": "Civerb's Icon",
     "setName": "Civerb's Vestments",
     "classType": "",
-    "image": "images/amu1.gif",
+    "image": "amu1.gif",
     "type": "Amulet"
   },
   {
@@ -8096,7 +8096,7 @@
     "name": "Civerb's Ward",
     "setName": "Civerb's Vestments",
     "classType": "",
-    "image": "images/civerbsward.gif",
+    "image": "civerbsward.gif",
     "type": "Large Shield"
   },
   {
@@ -8116,7 +8116,7 @@
     "name": "Cleglaw's Tooth",
     "setName": "Cleglaw's Brace",
     "classType": "",
-    "image": "images/cleglawstooth.gif",
+    "image": "cleglawstooth.gif",
     "type": "Long Sword"
   },
   {
@@ -8133,7 +8133,7 @@
     "name": "Cleglaw's Pincers",
     "setName": "Cleglaw's Brace",
     "classType": "",
-    "image": "images/cleglawspincers.gif",
+    "image": "cleglawspincers.gif",
     "type": "Chain Gloves"
   },
   {
@@ -8152,7 +8152,7 @@
     "name": "Cleglaw's Claw",
     "setName": "Cleglaw's Brace",
     "classType": "",
-    "image": "images/cleglawsclaw.gif",
+    "image": "cleglawsclaw.gif",
     "type": "Small Shield"
   },
   {
@@ -8171,7 +8171,7 @@
     "name": "Death's Touch",
     "setName": "Death's Disguise",
     "classType": "",
-    "image": "images/deathstouch.gif",
+    "image": "deathstouch.gif",
     "type": "War Sword"
   },
   {
@@ -8187,7 +8187,7 @@
     "name": "Death's Hand",
     "setName": "Death's Disguise",
     "classType": "",
-    "image": "images/deathshand.gif",
+    "image": "deathshand.gif",
     "type": "Leather Gloves"
   },
   {
@@ -8204,7 +8204,7 @@
     "name": "Death's Guard",
     "setName": "Death's Disguise",
     "classType": "",
-    "image": "images/deathsguard.gif",
+    "image": "deathsguard.gif",
     "type": "Sash"
   },
   {
@@ -8224,7 +8224,7 @@
     "name": "Hsarus' Iron Fist",
     "setName": "Hsarus' Defense",
     "classType": "",
-    "image": "images/hsarusironfist.gif",
+    "image": "hsarusironfist.gif",
     "type": "Buckler"
   },
   {
@@ -8243,7 +8243,7 @@
     "name": "Hsarus' Iron Stay",
     "setName": "Hsarus' Defense",
     "classType": "",
-    "image": "images/hsarusironstay.gif",
+    "image": "hsarusironstay.gif",
     "type": "Belt"
   },
   {
@@ -8261,7 +8261,7 @@
     "name": "Hsarus' Iron Heel",
     "setName": "Hsarus' Defense",
     "classType": "",
-    "image": "images/hsarusironwheel.gif",
+    "image": "hsarusironwheel.gif",
     "type": ""
   },
   {
@@ -8278,7 +8278,7 @@
     "name": "Infernal Cranium",
     "setName": "Infernal Tools",
     "classType": "",
-    "image": "images/infernalcranium.gif",
+    "image": "infernalcranium.gif",
     "type": "Cap"
   },
   {
@@ -8297,7 +8297,7 @@
     "name": "Infernal Sign",
     "setName": "Infernal Tools",
     "classType": "",
-    "image": "images/infernalbuckle.gif",
+    "image": "infernalbuckle.gif",
     "type": "Heavy Belt"
   },
   {
@@ -8315,7 +8315,7 @@
     "name": "Infernal Torch",
     "setName": "Infernal Tools",
     "classType": "",
-    "image": "images/grimwand.gif",
+    "image": "grimwand.gif",
     "type": "Grim Wand"
   },
   {
@@ -8333,7 +8333,7 @@
     "name": "Iratha's Coil",
     "setName": "Iratha's Finery",
     "classType": "",
-    "image": "images/irathascoil.gif",
+    "image": "irathascoil.gif",
     "type": "Crown"
   },
   {
@@ -8347,7 +8347,7 @@
     "name": "Iratha's Collar",
     "setName": "Iratha's Finery",
     "classType": "",
-    "image": "images/amu1.gif",
+    "image": "amu1.gif",
     "type": "Amulet"
   },
   {
@@ -8365,7 +8365,7 @@
     "name": "Iratha's Cord",
     "setName": "Iratha's Finery",
     "classType": "",
-    "image": "images/irathascord.gif",
+    "image": "irathascord.gif",
     "type": "Heavy Belt"
   },
   {
@@ -8382,7 +8382,7 @@
     "name": "Iratha's Cuff",
     "setName": "Iratha's Finery",
     "classType": "",
-    "image": "images/irathascuff.gif",
+    "image": "irathascuff.gif",
     "type": "Light Gauntlets"
   },
   {
@@ -8400,7 +8400,7 @@
     "name": "Isenhart's Lightbrand",
     "setName": "Isenhart's Armory",
     "classType": "",
-    "image": "images/isenhartslightbrand.gif",
+    "image": "isenhartslightbrand.gif",
     "type": "Broad Sword"
   },
   {
@@ -8417,7 +8417,7 @@
     "name": "Isenhart's Horns",
     "setName": "Isenhart's Armory",
     "classType": "",
-    "image": "images/isenhartshorns.gif",
+    "image": "isenhartshorns.gif",
     "type": "Full Helm"
   },
   {
@@ -8435,7 +8435,7 @@
     "name": "Isenhart's Case",
     "setName": "Isenhart's Armory",
     "classType": "",
-    "image": "images/isenhartscase.gif",
+    "image": "isenhartscase.gif",
     "type": "Breast Plate"
   },
   {
@@ -8454,7 +8454,7 @@
     "name": "Isenhart's Parry",
     "setName": "Isenhart's Armory",
     "classType": "",
-    "image": "images/isenhartsparry.gif",
+    "image": "isenhartsparry.gif",
     "type": "Gothic Shield"
   },
   {
@@ -8471,7 +8471,7 @@
     "name": "Milabrega's Diadem",
     "setName": "Milabrega's Regalia",
     "classType": "",
-    "image": "images/milabregasdiadem.gif",
+    "image": "milabregasdiadem.gif",
     "type": "Crown"
   },
   {
@@ -8489,7 +8489,7 @@
     "name": "Milabrega's Robe",
     "setName": "Milabrega's Regalia",
     "classType": "",
-    "image": "images/milabregasrobe.gif",
+    "image": "milabregasrobe.gif",
     "type": "Ancient Armor"
   },
   {
@@ -8510,7 +8510,7 @@
     "name": "Milabrega's Orb",
     "setName": "Milabrega's Regalia",
     "classType": "",
-    "image": "images/milabregasorb.gif",
+    "image": "milabregasorb.gif",
     "type": "Kite Shield"
   },
   {
@@ -8529,7 +8529,7 @@
     "name": "Milabrega's Rod",
     "setName": "Milabrega's Regalia",
     "classType": "",
-    "image": "images/warscepter.gif",
+    "image": "warscepter.gif",
     "type": "War Scepter"
   },
   {
@@ -8546,7 +8546,7 @@
     "name": "Sigon's Visor",
     "setName": "Sigon's Complete Steel",
     "classType": "",
-    "image": "images/sigonsvisor.gif",
+    "image": "sigonsvisor.gif",
     "type": "Great Helm"
   },
   {
@@ -8563,7 +8563,7 @@
     "name": "Sigon's Shelter",
     "setName": "Sigon's Complete Steel",
     "classType": "",
-    "image": "images/sigonsshelter.gif",
+    "image": "sigonsshelter.gif",
     "type": "Gothic Plate"
   },
   {
@@ -8582,7 +8582,7 @@
     "name": "Sigon's Sabot",
     "setName": "Sigon's Complete Steel",
     "classType": "",
-    "image": "images/sigonsgreaves.gif",
+    "image": "sigonsgreaves.gif",
     "type": "Greaves"
   },
   {
@@ -8600,7 +8600,7 @@
     "name": "Sigon's Guard",
     "setName": "Sigon's Complete Steel",
     "classType": "",
-    "image": "images/sigonsguard.gif",
+    "image": "sigonsguard.gif",
     "type": "Tower Shield"
   },
   {
@@ -8619,7 +8619,7 @@
     "name": "Sigon's Wrap",
     "setName": "Sigon's Complete Steel",
     "classType": "",
-    "image": "images/sigonswrap.gif",
+    "image": "sigonswrap.gif",
     "type": "Plated Belt"
   },
   {
@@ -8636,7 +8636,7 @@
     "name": "Sigon's Gage",
     "setName": "Sigon's Complete Steel",
     "classType": "",
-    "image": "images/sigonsgauntlets.gif",
+    "image": "sigonsgauntlets.gif",
     "type": "Gauntlets"
   },
   {
@@ -8653,7 +8653,7 @@
     "name": "Tancred's Skull",
     "setName": "Tancred's Battlegear",
     "classType": "",
-    "image": "images/tancredsskull.gif",
+    "image": "tancredsskull.gif",
     "type": "Bone Helm"
   },
   {
@@ -8671,7 +8671,7 @@
     "name": "Tancred's Spine",
     "setName": "Tancred's Battlegear",
     "classType": "",
-    "image": "images/tancredsspine.gif",
+    "image": "tancredsspine.gif",
     "type": "Full Plate Mail"
   },
   {
@@ -8689,7 +8689,7 @@
     "name": "Tancred's Hobnails",
     "setName": "Tancred's Battlegear",
     "classType": "",
-    "image": "images/tancredshobnails.gif",
+    "image": "tancredshobnails.gif",
     "type": "Boots"
   },
   {
@@ -8709,7 +8709,7 @@
     "name": "Tancred's Crowbill",
     "setName": "Tancred's Battlegear",
     "classType": "",
-    "image": "images/tancredscrowbill.gif",
+    "image": "tancredscrowbill.gif",
     "type": "Military Pick"
   },
   {
@@ -8724,7 +8724,7 @@
     "name": "Tancred's Weird",
     "setName": "Tancred's Battlegear",
     "classType": "",
-    "image": "images/amu3.gif",
+    "image": "amu3.gif",
     "type": "Amulet"
   },
   {
@@ -8741,7 +8741,7 @@
     "name": "Vidala's Barb",
     "setName": "Vidala's Rig",
     "classType": "",
-    "image": "images/vidalasbarb.gif",
+    "image": "vidalasbarb.gif",
     "type": "Long Battle Bow"
   },
   {
@@ -8760,7 +8760,7 @@
     "name": "Vidala's Ambush",
     "setName": "Vidala's Rig",
     "classType": "",
-    "image": "images/vidalasambush.gif",
+    "image": "vidalasambush.gif",
     "type": "Leather Armor"
   },
   {
@@ -8778,7 +8778,7 @@
     "name": "Vidala's Fetlock",
     "setName": "Vidala's Rig",
     "classType": "",
-    "image": "images/vidalasfetlock.gif",
+    "image": "vidalasfetlock.gif",
     "type": "Light Plated Boots"
   },
   {
@@ -8792,7 +8792,7 @@
     "name": "Vidala's Snare",
     "setName": "Vidala's Rig",
     "classType": "",
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet"
   },
   {
@@ -8816,7 +8816,7 @@
     "name": "Aldur's Stony Gaze",
     "setName": "Aldur's Watchtower",
     "classType": "",
-    "image": "images/aldursstoneygaze.gif",
+    "image": "aldursstoneygaze.gif",
     "type": "Hunter's Guise"
   },
   {
@@ -8840,7 +8840,7 @@
     "name": "Aldur's Advance",
     "setName": "Aldur's Watchtower",
     "classType": "",
-    "image": "images/aldursadvance.gif",
+    "image": "aldursadvance.gif",
     "type": "Battle Boots"
   },
   {
@@ -8864,7 +8864,7 @@
     "name": "Aldur's Deception",
     "setName": "Aldur's Watchtower",
     "classType": "",
-    "image": "images/aldursdeception.gif",
+    "image": "aldursdeception.gif",
     "type": "Shadow Plate"
   },
   {
@@ -8890,7 +8890,7 @@
     "name": "Aldur's Rhythm",
     "setName": "Aldur's Watchtower",
     "classType": "",
-    "image": "images/aldursrythm.gif",
+    "image": "aldursrythm.gif",
     "type": "Jagged Star"
   },
   {
@@ -8912,7 +8912,7 @@
     "name": "Bul-Kathos' Sacred Charge",
     "setName": "Bul-Kathos' Children",
     "classType": "",
-    "image": "images/bulkathossacredcharge.gif",
+    "image": "bulkathossacredcharge.gif",
     "type": "Colossus Blade"
   },
   {
@@ -8933,7 +8933,7 @@
     "name": "Bul-Kathos' Tribal Guardian",
     "setName": "Bul-Kathos' Children",
     "classType": "",
-    "image": "images/bulkathostribalguardian.gif",
+    "image": "bulkathostribalguardian.gif",
     "type": "Mythical Sword"
   },
   {
@@ -8951,7 +8951,7 @@
     "name": "Cow King's Horns",
     "setName": "Cow King's Leathers",
     "classType": "",
-    "image": "images/cap.gif",
+    "image": "cap.gif",
     "type": "War Hat"
   },
   {
@@ -8969,7 +8969,7 @@
     "name": "Cow King's Hide",
     "setName": "Cow King's Leathers",
     "classType": "",
-    "image": "images/studdedleather.gif",
+    "image": "studdedleather.gif",
     "type": "Studded Leather"
   },
   {
@@ -8989,7 +8989,7 @@
     "name": "Cow King's Hooves",
     "setName": "Cow King's Leathers",
     "classType": "",
-    "image": "images/heavyboots.gif",
+    "image": "heavyboots.gif",
     "type": "Heavy Boots"
   },
   {
@@ -9004,7 +9004,7 @@
     "name": "Telling of Beads",
     "setName": "The Disciple",
     "classType": "",
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet"
   },
   {
@@ -9023,7 +9023,7 @@
     "name": "Laying of Hands",
     "setName": "The Disciple",
     "classType": "",
-    "image": "images/layingofhands.gif",
+    "image": "layingofhands.gif",
     "type": "Bramble Mitts"
   },
   {
@@ -9041,7 +9041,7 @@
     "name": "Dark Adherent",
     "setName": "The Disciple",
     "classType": "",
-    "image": "images/darkadherent.gif",
+    "image": "darkadherent.gif",
     "type": "Dusk Shroud"
   },
   {
@@ -9060,7 +9060,7 @@
     "name": "Rite of Passage",
     "setName": "The Disciple",
     "classType": "",
-    "image": "images/riteofpassage.gif",
+    "image": "riteofpassage.gif",
     "type": "Demonhide Boots"
   },
   {
@@ -9079,7 +9079,7 @@
     "name": "Credendum",
     "setName": "The Disciple",
     "classType": "",
-    "image": "images/credendum.gif",
+    "image": "credendum.gif",
     "type": "Mithril Coil"
   },
   {
@@ -9098,7 +9098,7 @@
     "name": "Griswold's Heart",
     "setName": "Griswold's Legacy",
     "classType": "",
-    "image": "images/griswoldsheart.gif",
+    "image": "griswoldsheart.gif",
     "type": "Ornate Plate"
   },
   {
@@ -9119,7 +9119,7 @@
     "name": "Griswold's Valor",
     "setName": "Griswold's Legacy",
     "classType": "",
-    "image": "images/griswoldsvalor.gif",
+    "image": "griswoldsvalor.gif",
     "type": "Corona"
   },
   {
@@ -9145,7 +9145,7 @@
     "name": "Griswold's Redemption",
     "setName": "Griswold's Legacy",
     "classType": "",
-    "image": "images/griswoldsredemption.gif",
+    "image": "griswoldsredemption.gif",
     "type": "Caduceus"
   },
   {
@@ -9167,7 +9167,7 @@
     "name": "Griswold's Honor",
     "setName": "Griswold's Legacy",
     "classType": "",
-    "image": "images/griswoldshonor.gif",
+    "image": "griswoldshonor.gif",
     "type": "Vortex Shield"
   },
   {
@@ -9186,7 +9186,7 @@
     "name": "Haemosu's Adamant",
     "setName": "Heaven's Brethren",
     "classType": "",
-    "image": "images/haemosusadament.gif",
+    "image": "haemosusadament.gif",
     "type": "Cuirass"
   },
   {
@@ -9207,7 +9207,7 @@
     "name": "Dangoon's Teaching",
     "setName": "Heaven's Brethren",
     "classType": "",
-    "image": "images/dangoonsteaching.gif",
+    "image": "dangoonsteaching.gif",
     "type": "Reinforced Mace"
   },
   {
@@ -9229,7 +9229,7 @@
     "name": "Taebaek's Glory",
     "setName": "Heaven's Brethren",
     "classType": "",
-    "image": "images/taebaeksglory.gif",
+    "image": "taebaeksglory.gif",
     "type": "Ward"
   },
   {
@@ -9249,7 +9249,7 @@
     "name": "Ondal's Almighty",
     "setName": "Heaven's Brethren",
     "classType": "",
-    "image": "images/ondalsalmighty.gif",
+    "image": "ondalsalmighty.gif",
     "type": "Spired Helm"
   },
   {
@@ -9267,7 +9267,7 @@
     "name": "Hwanin's Splendor",
     "setName": "Hwanin's Majesty",
     "classType": "",
-    "image": "images/hwaninssplendor.gif",
+    "image": "hwaninssplendor.gif",
     "type": "Grand Crown"
   },
   {
@@ -9287,7 +9287,7 @@
     "name": "Hwanin's Justice",
     "setName": "Hwanin's Majesty",
     "classType": "",
-    "image": "images/voulge.gif",
+    "image": "voulge.gif",
     "type": "Bill"
   },
   {
@@ -9305,7 +9305,7 @@
     "name": "Hwanin's Refuge",
     "setName": "Hwanin's Majesty",
     "classType": "",
-    "image": "images/scalemail.gif",
+    "image": "scalemail.gif",
     "type": "Tigulated Mail"
   },
   {
@@ -9324,7 +9324,7 @@
     "name": "Hwanin's Blessing",
     "setName": "Hwanin's Majesty",
     "classType": "",
-    "image": "images/hwaninsblessing.gif",
+    "image": "hwaninsblessing.gif",
     "type": "Belt"
   },
   {
@@ -9345,7 +9345,7 @@
     "name": "Immortal King's Will",
     "setName": "Immortal King",
     "classType": "",
-    "image": "images/immortalwill.gif",
+    "image": "immortalwill.gif",
     "type": "Avenger Guard"
   },
   {
@@ -9371,7 +9371,7 @@
     "name": "Immortal King's Stone Crusher",
     "setName": "Immortal King",
     "classType": "",
-    "image": "images/maul.gif",
+    "image": "maul.gif",
     "type": "Ogre Maul"
   },
   {
@@ -9395,7 +9395,7 @@
     "name": "Immortal King's Soul Cage",
     "setName": "Immortal King",
     "classType": "",
-    "image": "images/immortalsoulcage.gif",
+    "image": "immortalsoulcage.gif",
     "type": "Sacred Armor"
   },
   {
@@ -9421,7 +9421,7 @@
     "name": "Immortal King's Detail",
     "setName": "Immortal King",
     "classType": "",
-    "image": "images/girdle.gif",
+    "image": "girdle.gif",
     "type": "War Belt"
   },
   {
@@ -9445,7 +9445,7 @@
     "name": "Immortal King's Forge",
     "setName": "Immortal King",
     "classType": "",
-    "image": "images/gauntlets.gif",
+    "image": "gauntlets.gif",
     "type": "War Gauntlets"
   },
   {
@@ -9469,7 +9469,7 @@
     "name": "Immortal King's Pillar",
     "setName": "Immortal King",
     "classType": "",
-    "image": "images/plateboots.gif",
+    "image": "plateboots.gif",
     "type": "War Boots"
   },
   {
@@ -9489,7 +9489,7 @@
     "name": "M'avina's True Sight",
     "setName": "M'avina's Battle Hymn",
     "classType": "",
-    "image": "images/mavinastruesight.gif",
+    "image": "mavinastruesight.gif",
     "type": "Diadem"
   },
   {
@@ -9512,7 +9512,7 @@
     "name": "M'avina's Caster",
     "setName": "M'avina's Battle Hymn",
     "classType": "",
-    "image": "images/mavinascaster.gif",
+    "image": "mavinascaster.gif",
     "type": "Grand Matron Bow"
   },
   {
@@ -9533,7 +9533,7 @@
     "name": "M'avina's Embrace",
     "setName": "M'avina's Battle Hymn",
     "classType": "",
-    "image": "images/mavinasembrace.gif",
+    "image": "mavinasembrace.gif",
     "type": "Kraken Shell"
   },
   {
@@ -9555,7 +9555,7 @@
     "name": "M'avina's Icy Clutch",
     "setName": "M'avina's Battle Hymn",
     "classType": "",
-    "image": "images/mavinasicyclutch.gif",
+    "image": "mavinasicyclutch.gif",
     "type": "Battle Gauntlets"
   },
   {
@@ -9575,7 +9575,7 @@
     "name": "M'avina's Tenet",
     "setName": "M'avina's Battle Hymn",
     "classType": "",
-    "image": "images/mavinastenet.gif",
+    "image": "mavinastenet.gif",
     "type": "Sharkskin Belt"
   },
   {
@@ -9594,7 +9594,7 @@
     "name": "Natalya's Totem",
     "setName": "Natalya's Odium",
     "classType": "",
-    "image": "images/natalyastotem.gif",
+    "image": "natalyastotem.gif",
     "type": "Grim Helm"
   },
   {
@@ -9618,7 +9618,7 @@
     "name": "Natalya's Mark",
     "setName": "Natalya's Odium",
     "classType": "",
-    "image": "images/natalyasmark.gif",
+    "image": "natalyasmark.gif",
     "type": "Scissors Suwayyah"
   },
   {
@@ -9638,7 +9638,7 @@
     "name": "Natalya's Shadow",
     "setName": "Natalya's Odium",
     "classType": "",
-    "image": "images/natalyasshadow.gif",
+    "image": "natalyasshadow.gif",
     "type": "Loricated Mail"
   },
   {
@@ -9658,7 +9658,7 @@
     "name": "Natalya's Soul",
     "setName": "Natalya's Odium",
     "classType": "",
-    "image": "images/natalyassoul.gif",
+    "image": "natalyassoul.gif",
     "type": "Mesh Boots"
   },
   {
@@ -9676,7 +9676,7 @@
     "name": "Naj's Circlet",
     "setName": "Naj's Ancient Vestige",
     "classType": "",
-    "image": "images/najscirclet.gif",
+    "image": "najscirclet.gif",
     "type": "Circlet"
   },
   {
@@ -9696,7 +9696,7 @@
     "name": "Naj's Light Plate",
     "setName": "Naj's Ancient Vestige",
     "classType": "",
-    "image": "images/platemail.gif",
+    "image": "platemail.gif",
     "type": "Hellforge Plate"
   },
   {
@@ -9720,7 +9720,7 @@
     "name": "Naj's Puzzler",
     "setName": "Naj's Ancient Vestige",
     "classType": "",
-    "image": "images/lazarusspire.gif",
+    "image": "lazarusspire.gif",
     "type": "Elder Staff"
   },
   {
@@ -9739,7 +9739,7 @@
     "name": "Guillaume's Face",
     "setName": "Orphan's Call",
     "classType": "",
-    "image": "images/guillaumesface.gif",
+    "image": "guillaumesface.gif",
     "type": "Winged Helm"
   },
   {
@@ -9760,7 +9760,7 @@
     "name": "Whitstan's Guard",
     "setName": "Orphan's Call",
     "classType": "",
-    "image": "images/whitstansguard.gif",
+    "image": "whitstansguard.gif",
     "type": "Round Shield"
   },
   {
@@ -9779,7 +9779,7 @@
     "name": "Magnus' Skin",
     "setName": "Orphan's Call",
     "classType": "",
-    "image": "images/magnusskin.gif",
+    "image": "magnusskin.gif",
     "type": "Sharkskin Gloves"
   },
   {
@@ -9798,7 +9798,7 @@
     "name": "Wilhelm's Pride",
     "setName": "Orphan's Call",
     "classType": "",
-    "image": "images/wilhelmspride.gif",
+    "image": "wilhelmspride.gif",
     "type": "Battle Belt"
   },
   {
@@ -9814,7 +9814,7 @@
     "name": "Sander's Paragon",
     "setName": "Sander's Folly",
     "classType": "",
-    "image": "images/sandersparagon.gif",
+    "image": "sandersparagon.gif",
     "type": "Cap"
   },
   {
@@ -9834,7 +9834,7 @@
     "name": "Sander's Superstition",
     "setName": "Sander's Folly",
     "classType": "",
-    "image": "images/sanderssuperstition.gif",
+    "image": "sanderssuperstition.gif",
     "type": "Bone Wand"
   },
   {
@@ -9851,7 +9851,7 @@
     "name": "Sander's Taboo",
     "setName": "Sander's Folly",
     "classType": "",
-    "image": "images/sanderstaboo.gif",
+    "image": "sanderstaboo.gif",
     "type": "Heavy Gloves"
   },
   {
@@ -9870,7 +9870,7 @@
     "name": "Sander's Riprap",
     "setName": "Sander's Folly",
     "classType": "",
-    "image": "images/sandersriprap.gif",
+    "image": "sandersriprap.gif",
     "type": "Heavy Boots"
   },
   {
@@ -9888,7 +9888,7 @@
     "name": "Sazabi's Mental Sheath",
     "setName": "Sazabi's Grand Tribute",
     "classType": "",
-    "image": "images/sazabismentalsheath.gif",
+    "image": "sazabismentalsheath.gif",
     "type": "Basinet"
   },
   {
@@ -9910,7 +9910,7 @@
     "name": "Sazabi's Cobalt Redeemer",
     "setName": "Sazabi's Grand Tribute",
     "classType": "",
-    "image": "images/sazabiscobaltredeemer.gif",
+    "image": "sazabiscobaltredeemer.gif",
     "type": "Cryptic Sword"
   },
   {
@@ -9929,7 +9929,7 @@
     "name": "Sazabi's Ghost Liberator",
     "setName": "Sazabi's Grand Tribute",
     "classType": "",
-    "image": "images/sazabisghostliberator.gif",
+    "image": "sazabisghostliberator.gif",
     "type": "Balrog Skin"
   },
   {
@@ -9955,7 +9955,7 @@
     "name": "Tal Rasha's Lidless Eye",
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
-    "image": "images/talrashaslidlesseye.gif",
+    "image": "talrashaslidlesseye.gif",
     "type": "Swirling Crystal"
   },
   {
@@ -9975,7 +9975,7 @@
     "name": "Tal Rasha's Horadric Crest",
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
-    "image": "images/mask.gif",
+    "image": "mask.gif",
     "type": "Death Mask"
   },
   {
@@ -9997,7 +9997,7 @@
     "name": "Tal Rasha's Guardianship",
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
-    "image": "images/talrashasguardianship.gif",
+    "image": "talrashasguardianship.gif",
     "type": "Lacquered Plate"
   },
   {
@@ -10020,7 +10020,7 @@
     "name": "Tal Rasha's Fine-Spun Cloth",
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
-    "image": "images/talrashasfine-spuncloth.gif",
+    "image": "talrashasfine-spuncloth.gif",
     "type": "Mesh Belt"
   },
   {
@@ -10037,7 +10037,7 @@
     "name": "Tal Rasha's Adjudication",
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
-    "image": "images/amu2.gif",
+    "image": "amu2.gif",
     "type": "Amulet"
   },
   {
@@ -10056,7 +10056,7 @@
     "name": "Trang-Oul's Guise",
     "setName": "Trang-Oul's Avatar",
     "classType": "",
-    "image": "images/trang-oulsguise.gif",
+    "image": "trang-oulsguise.gif",
     "type": "Bone Visage"
   },
   {
@@ -10078,7 +10078,7 @@
     "name": "Trang-Oul's Scales",
     "setName": "Trang-Oul's Avatar",
     "classType": "",
-    "image": "images/trang-oulsscales.gif",
+    "image": "trang-oulsscales.gif",
     "type": "Chaos Armor"
   },
   {
@@ -10103,7 +10103,7 @@
     "name": "Trang-Oul's Wing",
     "setName": "Trang-Oul's Avatar",
     "classType": "",
-    "image": "images/trang-oulswing.gif",
+    "image": "trang-oulswing.gif",
     "type": "Cantor Trophy"
   },
   {
@@ -10126,7 +10126,7 @@
     "name": "Trang-Oul's Girth",
     "setName": "Trang-Oul's Avatar",
     "classType": "",
-    "image": "images/trang-oulsgirth.gif",
+    "image": "trang-oulsgirth.gif",
     "type": "Troll Belt"
   },
   {
@@ -10145,7 +10145,7 @@
     "name": "Trang-Oul's Claws",
     "setName": "Trang-Oul's Avatar",
     "classType": "",
-    "image": "images/trang-oulsclaws.gif",
+    "image": "trang-oulsclaws.gif",
     "type": "Heavy Bracers"
   }
 ]

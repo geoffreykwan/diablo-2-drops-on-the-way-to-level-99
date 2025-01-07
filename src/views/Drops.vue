@@ -23,7 +23,11 @@
   <div class="items">
     <div v-for="item in filteredItems" :key="item.name"
       :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
-      <div class="align-left">{{ item.name }}</div>
+      <div class="align-left">
+        <img v-if="showStats" :src="'../src/assets/' + item.image" />
+        <li class="stat-line">{{ item.name }}</li>
+        <li v-if="showStats" class="stat-line">{{ item.type }}</li>
+      </div>
       <div v-if="showStats">
         <li v-for="stat in item.stats" v-html="stat" class="stat-line align-left"></li>
       </div>
