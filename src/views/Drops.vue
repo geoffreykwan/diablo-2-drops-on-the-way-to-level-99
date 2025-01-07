@@ -1,7 +1,7 @@
 <template>
   <h1>Drops</h1>
   <input v-model="searchText" v-on:input="filterDrops"
-    placeholder="Search, use the | character (vertical bar) to search for multiple things at once" />
+    placeholder="Search by name or count, use the | character (vertical bar) to search for multiple things at once" />
   <button @click="searchText = ''; filterDrops()">Clear</button>
   <br />
   <button @click="toggleStats">Toggle Stats</button>
