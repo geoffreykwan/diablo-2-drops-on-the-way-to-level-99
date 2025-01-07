@@ -59,7 +59,10 @@ export default {
           if (/\d/.test(searchText)) {
             return (drops[item.name] ?? 0) === parseInt(searchText)
           } else {
-            return item.name.toLowerCase().includes(searchText.toLowerCase())
+            searchText = searchText.toLowerCase()
+            return item.name.toLowerCase().includes(searchText) ||
+              item.category?.toLowerCase().includes(searchText) ||
+              item.type?.toLowerCase().includes(searchText)
           }
         })
       })
