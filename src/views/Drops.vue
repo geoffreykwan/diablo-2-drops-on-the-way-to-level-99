@@ -37,6 +37,8 @@
           <li class="stat-line align-left">Weapon: {{ item.weaponStats }}</li>
           <br />
           <li class="stat-line align-left">Armor/Helms/Shields: {{ item.armorStats }}</li>
+          <br />
+          <li class="stat-line align-left">Required Level: {{ item.levelRequirement }}</li>
         </div>
       </div>
       <div :class="{ 'align-right': !showStats, 'align-center': showStats }">
