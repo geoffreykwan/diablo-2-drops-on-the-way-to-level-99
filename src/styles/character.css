@@ -1,0 +1,7 @@
+.gear-row > div:nth-child(odd) {
+    background-color: #20100a;
+}
+
+.gear-row > div:nth-child(even) {
+    background-color: black;
+}
