@@ -28,16 +28,7 @@
         <Item :item="item" :showStats="showStats" />
       </div>
       <div v-if="showStats">
-        <li v-for="stat in item.stats" v-html="stat" class="stat-line align-left"></li>
-        <div v-if="item.category == 'Runes'">
-          <li class="stat-line align-left">Weapon:
-            <span v-html="item.weaponStats"></span>
-          </li>
-          <li class="stat-line align-left">Armor/Helms/Shields:
-            <span v-html="item.armorStats"></span>
-          </li>
-          <li class="stat-line align-left">Required Level: {{ item.levelRequirement }}</li>
-        </div>
+        <ItemStats :item="item" />
       </div>
       <div :class="{ 'align-right': !showStats, 'align-center': showStats }">
         {{ drops[item.name] ?? 0 }}
@@ -47,8 +38,9 @@
 </template>
 
 <script>
-import Item from '../components/Item.vue'
 import '../styles/drops.css'
+import Item from '../components/Item.vue'
+import ItemStats from '../components/ItemStats.vue'
 import drops from '../data/drops.json'
 import uniques from '../data/uniques.json'
 import runes from '../data/runes.json'
@@ -58,7 +50,8 @@ const filteredItems = items
 export default {
   name: 'Drops',
   components: {
-    Item
+    Item,
+    ItemStats
   },
   data() {
     return {
