@@ -4,7 +4,7 @@
     <div class="grid-container-2">
       <div class="align-center">
         <div>
-          <li class="stat-line"><img :src="'../src/assets/jewel06.gif'" /></li>
+          <li class="stat-line"><img :src="'../src/assets/items/jewel06.gif'" /></li>
           <li class="stat-line">Rainbow Facet</li>
           <li class="stat-line">Jewel</li>
         </div>
