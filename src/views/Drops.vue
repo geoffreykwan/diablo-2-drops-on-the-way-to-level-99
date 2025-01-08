@@ -33,11 +33,9 @@
           <li class="stat-line align-left">Weapon:
             <span v-html="item.weaponStats"></span>
           </li>
-          <br />
           <li class="stat-line align-left">Armor/Helms/Shields:
             <span v-html="item.armorStats"></span>
           </li>
-          <br />
           <li class="stat-line align-left">Required Level: {{ item.levelRequirement }}</li>
         </div>
       </div>
