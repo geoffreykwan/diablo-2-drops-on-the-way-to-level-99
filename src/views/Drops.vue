@@ -25,18 +25,18 @@
     <div v-for="item in filteredItems" :key="item.name"
       :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
       <div :class="{ 'align-left': !showStats, 'align-center': showStats }">
-        <div>
-          <li class="stat-line"><img v-if="showStats" :src="'../src/assets/' + item.image" /></li>
-          <li class="stat-line">{{ item.name }}</li>
-          <li v-if="showStats" class="stat-line">{{ item.type }}</li>
-        </div>
+        <Item :item="item" :showStats="showStats" />
       </div>
       <div v-if="showStats">
         <li v-for="stat in item.stats" v-html="stat" class="stat-line align-left"></li>
         <div v-if="item.category == 'Runes'">
-          <li class="stat-line align-left">Weapon: {{ item.weaponStats }}</li>
+          <li class="stat-line align-left">Weapon:
+            <span v-html="item.weaponStats"></span>
+          </li>
           <br />
-          <li class="stat-line align-left">Armor/Helms/Shields: {{ item.armorStats }}</li>
+          <li class="stat-line align-left">Armor/Helms/Shields:
+            <span v-html="item.armorStats"></span>
+          </li>
           <br />
           <li class="stat-line align-left">Required Level: {{ item.levelRequirement }}</li>
         </div>
@@ -49,6 +49,7 @@
 </template>
 
 <script>
+import Item from '../components/Item.vue'
 import '../styles/drops.css'
 import drops from '../data/drops.json'
 import uniques from '../data/uniques.json'
@@ -58,6 +59,9 @@ const items = [...uniques, ...runes]
 const filteredItems = items
 export default {
   name: 'Drops',
+  components: {
+    Item
+  },
   data() {
     return {
       countSortDirection: '',

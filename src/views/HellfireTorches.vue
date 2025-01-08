@@ -1,5 +1,14 @@
 <template>
   <h1>Hellfire Torches</h1>
+  <div class="align-center">
+    <div>
+      <li class="stat-line">
+        <img :src="'../src/assets/' + hellfireTorchUnique.image" />
+      </li>
+      <li class="stat-line">{{ hellfireTorchUnique.name }}</li>
+      <li class="stat-line">{{ hellfireTorchUnique.type }}</li>
+    </div>
+  </div>
   Sort By
   <button @click="sortByClass">+ 3 Class Skills</button>
   <button @click="sortByAttributes">+ All Attributes</button>
@@ -20,12 +29,14 @@
 
 <script>
 import '../styles/hellfire-torches.css'
+import uniques from '../data/uniques.json'
 import hellfireTorches from '../data/hellfire-torches.json'
 export default {
   name: 'HellfireTorches',
   data() {
     return {
       hellfireTorches: hellfireTorches,
+      hellfireTorchUnique: uniques.find(unique => unique.name === 'Hellfire Torch')
     }
   },
   mounted() {
