@@ -1,5 +1,13 @@
 <template>
   <h1>Annihiluses</h1>
+  <div class="align-center">
+    <div class="grid-container-2">
+      <div class="align-center">
+        <Item :item="annihilusUnique" :showStats="true" />
+      </div>
+      <ItemStats :item="annihilusUnique" />
+    </div>
+  </div>
   Sort By
   <button @click="sortByAttributes">+ All Attributes</button>
   <button @click="sortByResistances">+ All Resistances</button>
@@ -20,12 +28,20 @@
 
 <script>
 import '../styles/annihiluses.css'
+import Item from '../components/Item.vue'
+import ItemStats from '../components/ItemStats.vue'
+import uniques from '../data/uniques.json'
 import annihiluses from '../data/annihiluses.json'
 export default {
   name: 'Annihiluses',
+  components: {
+    Item,
+    ItemStats
+  },
   data() {
     return {
       annihiluses: annihiluses,
+      annihilusUnique: uniques.find(unique => unique.name === 'Annihilus')
     }
   },
   mounted() {

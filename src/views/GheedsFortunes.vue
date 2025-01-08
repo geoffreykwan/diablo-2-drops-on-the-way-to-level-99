@@ -1,5 +1,13 @@
 <template>
   <h1>Gheed's Fortunes</h1>
+  <div class="align-center">
+    <div class="grid-container-2">
+      <div class="align-center">
+        <Item :item="gheedsFortuneUnique" :showStats="true" />
+      </div>
+      <ItemStats :item="gheedsFortuneUnique" />
+    </div>
+  </div>
   Sort By
   <button @click="sortByExtraGold">+% Extra Gold</button>
   <button @click="sortByVendorPrices">+% Reduce Vendor Prices</button>
@@ -20,12 +28,20 @@
 
 <script>
 import '../styles/gheeds-fortunes.css'
+import Item from '../components/Item.vue'
+import ItemStats from '../components/ItemStats.vue'
+import uniques from '../data/uniques.json'
 import gheedsFortunes from '../data/gheeds-fortunes.json'
 export default {
   name: "Gheed's Fortunes",
+  components: {
+    Item,
+    ItemStats
+  },
   data() {
     return {
       gheedsFortunes: gheedsFortunes,
+      gheedsFortuneUnique: uniques.find(unique => unique.name === "Gheed's Fortune")
     }
   },
   mounted() {

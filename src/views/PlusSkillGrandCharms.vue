@@ -1,7 +1,7 @@
 <template>
   <h1>+Skill Grand Charms</h1>
   <div v-for="plusSkillGrandCharm in plusSkillGrandCharms" :key="plusSkillGrandCharm.class"
-    class="plus-skill-grand-charm-row">
+    class="plus-skill-grand-charm-class">
     <div class="class-name">{{ plusSkillGrandCharm.class }}</div>
     <div v-for="skillTab in plusSkillGrandCharm.skillTabs" :key="skillTab.name" class="skill-tab">
       <div>{{ skillTab.name }}</div>

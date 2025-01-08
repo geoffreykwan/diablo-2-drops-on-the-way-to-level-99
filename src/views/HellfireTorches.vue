@@ -1,12 +1,11 @@
 <template>
   <h1>Hellfire Torches</h1>
   <div class="align-center">
-    <div>
-      <li class="stat-line">
-        <img :src="'../src/assets/' + hellfireTorchUnique.image" />
-      </li>
-      <li class="stat-line">{{ hellfireTorchUnique.name }}</li>
-      <li class="stat-line">{{ hellfireTorchUnique.type }}</li>
+    <div class="grid-container-2">
+      <div class="align-center">
+        <Item :item="hellfireTorchUnique" :showStats="true" />
+      </div>
+      <ItemStats :item="hellfireTorchUnique" />
     </div>
   </div>
   Sort By
@@ -29,10 +28,16 @@
 
 <script>
 import '../styles/hellfire-torches.css'
+import Item from '../components/Item.vue'
+import ItemStats from '../components/ItemStats.vue'
 import uniques from '../data/uniques.json'
 import hellfireTorches from '../data/hellfire-torches.json'
 export default {
   name: 'HellfireTorches',
+  components: {
+    Item,
+    ItemStats
+  },
   data() {
     return {
       hellfireTorches: hellfireTorches,

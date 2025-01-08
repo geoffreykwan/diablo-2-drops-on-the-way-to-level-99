@@ -1,7 +1,6 @@
-.plus-skill-grand-charm {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  padding: 10px;
+.plus-skill-grand-charm-class {
+  border: 1px solid #20100a;
+  margin: 10px;
 }
 
 .class-name {

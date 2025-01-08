@@ -1,5 +1,36 @@
 <template>
   <h1>Rainbow Facets</h1>
+  <div class="align-center">
+    <div class="grid-container-2">
+      <div class="align-center">
+        <div>
+          <li class="stat-line"><img :src="'../src/assets/jewel06.gif'" /></li>
+          <li class="stat-line">Rainbow Facet</li>
+          <li class="stat-line">Jewel</li>
+        </div>
+      </div>
+      <div>
+        <li class="stat-line align-left">
+          <span>Required Level: 49</span>
+        </li>
+        <li class="stat-line align-left">
+          <font color="4850B8">100% Chance To Cast Level X When you (Die/Level)</font>
+        </li>
+        <li class="stat-line align-left">
+          <font color="4850B8">Adds X Damage</font>
+        </li>
+        <li class="stat-line align-left">
+          <font color="4850B8">+3-5% To (Element) Skill Damage</font> (varies)
+        </li>
+        <li class="stat-line align-left">
+          <font color="4850B8">-(3-5)% To Enemy (Element) Resistance</font> (varies)
+        </li>
+        <li class="stat-line align-left">
+          <span>(Only Spawns In Patch 1.10 or later)</span>
+        </li>
+      </div>
+    </div>
+  </div>
   Sort By
   <button @click="sortByElement">Element</button>
   <button @click="sortBySkillDamage">+% Skill Damage</button>
