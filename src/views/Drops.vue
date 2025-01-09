@@ -31,7 +31,7 @@
         <ItemStats :item="item" />
       </div>
       <div :class="{ 'align-right': !showStats, 'align-center': showStats }">
-        {{ drops[item.name] ?? 0 }}
+        {{ dropCounts[item.name] ?? 0 }}
       </div>
     </div>
   </div>
@@ -41,7 +41,7 @@
 import '../styles/drops.css'
 import Item from '../components/Item.vue'
 import ItemStats from '../components/ItemStats.vue'
-import drops from '../data/drops.json'
+import dropCounts from '../data/drop-counts.json'
 import uniques from '../data/uniques.json'
 import runes from '../data/runes.json'
 import setBonuses from '../data/set-bonuses.json'
@@ -56,7 +56,7 @@ export default {
   data() {
     return {
       countSortDirection: '',
-      drops: drops,
+      dropCounts: dropCounts,
       filteredItems: filteredItems,
       items: items,
       nameSortDirection: 'asc',
@@ -79,7 +79,7 @@ export default {
       this.filteredItems = this.items.filter((item) => {
         return searchTexts.some((searchText) => {
           if (/\d/.test(searchText)) {
-            return (drops[item.name] ?? 0) === parseInt(searchText)
+            return (dropCounts[item.name] ?? 0) === parseInt(searchText)
           } else {
             searchText = searchText.toLowerCase()
             return item.name.toLowerCase().includes(searchText) ||
@@ -96,13 +96,13 @@ export default {
     },
     sortNumerically() {
       this.sortAlphabetically()
-      this.filteredItems.sort((a, b) => (drops[a.name] ?? 0) - (drops[b.name] ?? 0))
+      this.filteredItems.sort((a, b) => (dropCounts[a.name] ?? 0) - (dropCounts[b.name] ?? 0))
       this.nameSortDirection = '';
       this.countSortDirection = 'asc'
     },
     sortNumericallyReverse() {
       this.sortAlphabetically()
-      this.filteredItems.sort((a, b) => (drops[b.name] ?? 0) - (drops[a.name] ?? 0))
+      this.filteredItems.sort((a, b) => (dropCounts[b.name] ?? 0) - (dropCounts[a.name] ?? 0))
       this.nameSortDirection = '';
       this.countSortDirection = 'desc'
     },
