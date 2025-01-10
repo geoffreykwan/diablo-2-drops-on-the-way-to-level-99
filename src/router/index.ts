@@ -5,6 +5,7 @@ import Annihiluses from '../views/Annihiluses.vue';
 import GheedsFortunes from '../views/GheedsFortunes.vue';
 import RainbowFacets from '../views/RainbowFacets.vue';
 import PlusSkillGrandCharms from '../views/PlusSkillGrandCharms.vue';
+import LowerKurastDrops from '../views/LowerKurastDrops.vue';
 import Character from '../views/Character.vue';
 import About from '../views/About.vue';
 
@@ -20,6 +21,7 @@ const routes = [
     name: '+Skill Grand Charms',
     component: PlusSkillGrandCharms
   },
+  { path: '/lower-kurast-drops', name: 'Lower Kurast Drops', component: LowerKurastDrops },
   { path: '/character', name: 'Character', component: Character },
   { path: '/about', name: 'About', component: About },
   { path: '/:pathMatch(.*)*', redirect: '/drops' }

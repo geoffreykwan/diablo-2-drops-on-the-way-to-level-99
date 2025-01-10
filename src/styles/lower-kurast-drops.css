@@ -1,0 +1,7 @@
+.lower-kurast-row > div:nth-child(odd) {
+    background-color: #20100a;
+}
+
+.lower-kurast-row > div:nth-child(even) {
+    background-color: black;
+}

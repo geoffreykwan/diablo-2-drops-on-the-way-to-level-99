@@ -9,6 +9,7 @@
     <router-link to="/gheeds-fortunes"><button>Gheed's Fortunes</button></router-link>
     <router-link to="/rainbow-facets"><button>Rainbow Facets</button></router-link>
     <router-link to="/plus-skill-grand-charms"><button>+Skill Grand Charms</button></router-link>
+    <router-link to="/lower-kurast-drops"><button>Lower Kurast Drops</button></router-link>
     <router-link to="/character"><button>Character</button></router-link>
     <router-link to="/about"><button>About</button></router-link>
   </div>
