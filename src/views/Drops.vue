@@ -78,13 +78,14 @@ export default {
       const searchTexts = this.searchText.split('|');
       this.filteredItems = this.items.filter((item) => {
         return searchTexts.some((searchText) => {
-          if (/\d/.test(searchText)) {
+          if (/^\d+$/.test(searchText)) {
             return (dropCounts[item.name] ?? 0) === parseInt(searchText)
           } else {
             searchText = searchText.toLowerCase()
             return item.name.toLowerCase().includes(searchText) ||
               item.category?.toLowerCase().includes(searchText) ||
-              item.type?.toLowerCase().includes(searchText)
+              item.type?.toLowerCase().includes(searchText) ||
+              item.treasureClass == searchText
           }
         })
       })

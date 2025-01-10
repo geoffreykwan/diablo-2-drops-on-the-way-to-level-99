@@ -10,6 +10,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ring1.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Nagelring"
   },
@@ -24,6 +25,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ring2.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Manald Heal"
   },
@@ -38,6 +40,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "ring3.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Stone of Jordan"
   },
@@ -54,6 +57,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ring2.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Dwarf Star"
   },
@@ -70,6 +74,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ring3.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Raven Frost"
   },
@@ -84,6 +89,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ring1.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Bul-Kathos' Wedding Band"
   },
@@ -101,6 +107,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "ring3.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Carrion Wind"
   },
@@ -117,6 +124,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "ring2.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Nature's Peace"
   },
@@ -133,6 +141,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "ring1.gif",
+    "treasureClass": "",
     "type": "Ring",
     "name": "Wisp Projector"
   },
@@ -148,6 +157,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "Nokozan Relic"
   },
@@ -164,6 +174,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "The Eye of Etlich"
   },
@@ -179,6 +190,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "amu3.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "The Mahim-Oak Curio"
   },
@@ -192,6 +204,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "amu1.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "Saracen's Chance"
   },
@@ -207,6 +220,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "The Cat's Eye"
   },
@@ -223,6 +237,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "amu3.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "Crescent Moon"
   },
@@ -239,6 +254,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "Atma's Scarab"
   },
@@ -255,6 +271,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "amu3.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "The Rising Sun"
   },
@@ -271,6 +288,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "amu3.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "Highlord's Wrath"
   },
@@ -284,6 +302,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "amu1.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "Mara's Kaleidoscope"
   },
@@ -302,6 +321,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "Seraph's Hymn"
   },
@@ -318,6 +338,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet",
     "name": "Metalgrid"
   },
@@ -333,6 +354,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "bluecharm.gif",
+    "treasureClass": "tc30",
     "type": "Small Charm",
     "name": "Annihilus"
   },
@@ -347,6 +369,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "largecharm01.gif",
+    "treasureClass": "tc3",
     "type": "Grand Charm",
     "name": "Gheed's Fortune"
   },
@@ -363,6 +386,7 @@
       "(Only Spawns In Patch 1.13 or later)"
     ],
     "image": "hellfiretorch.jpg",
+    "treasureClass": "tc15",
     "type": "Large Charm",
     "name": "Hellfire Torch"
   },
@@ -377,6 +401,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jewel05.gif",
+    "treasureClass": "",
     "type": "Jewel",
     "name": "Rainbow Facet (Fire/Level)"
   },
@@ -391,6 +416,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jewel02.gif",
+    "treasureClass": "",
     "type": "Jewel",
     "name": "Rainbow Facet (Cold/Level)"
   },
@@ -405,6 +431,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jewel06.gif",
+    "treasureClass": "",
     "type": "Jewel",
     "name": "Rainbow Facet (Lightning/Level)"
   },
@@ -419,6 +446,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jewel04.gif",
+    "treasureClass": "",
     "type": "Jewel",
     "name": "Rainbow Facet (Poison/Level)"
   },
@@ -433,6 +461,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jewel05.gif",
+    "treasureClass": "",
     "type": "Jewel",
     "name": "Rainbow Facet (Fire/Die)"
   },
@@ -447,6 +476,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jewel02.gif",
+    "treasureClass": "",
     "type": "Jewel",
     "name": "Rainbow Facet (Cold/Die)"
   },
@@ -461,6 +491,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jewel06.gif",
+    "treasureClass": "",
     "type": "Jewel",
     "name": "Rainbow Facet (Lightning/Die)"
   },
@@ -475,6 +506,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jewel04.gif",
+    "treasureClass": "",
     "type": "Jewel",
     "name": "Rainbow Facet (Poison/Die)"
   },
@@ -492,6 +524,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "tiara.gif",
+    "treasureClass": "tc72",
     "type": "Tiara",
     "name": "Kira's Guardian"
   },
@@ -510,6 +543,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "diadem.gif",
+    "treasureClass": "tc87",
     "type": "Diadem",
     "name": "Griffon's Eye"
   },
@@ -532,6 +566,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "stoneraven.gif",
+    "treasureClass": "tc63",
     "type": "Matriarchal Spear",
     "name": "Stoneraven"
   },
@@ -557,6 +592,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "maidenpike.gif",
+    "treasureClass": "tc51",
     "type": "Ceremonial Pike",
     "name": "Lycander's Flank"
   },
@@ -581,6 +617,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "reflexbow.gif",
+    "treasureClass": "tc48",
     "type": "Ceremonial Bow",
     "name": "Lycander's Aim"
   },
@@ -608,6 +645,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "maidenjavelin.gif",
+    "treasureClass": "tc36",
     "type": "Ceremonial Javelin",
     "name": "Titan's Revenge"
   },
@@ -633,6 +671,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "thunderstroke.gif",
+    "treasureClass": "tc66",
     "type": "Matriarchal Javelin",
     "name": "Thunderstroke"
   },
@@ -653,6 +692,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "bloodravenscharge.gif",
+    "treasureClass": "tc54",
     "type": "Matriarchal Bow",
     "name": "Blood Raven's Charge"
   },
@@ -676,6 +716,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "shadowkiller.gif",
+    "treasureClass": "tc75",
     "type": "Battle Cestus",
     "name": "Shadow Killer"
   },
@@ -701,6 +742,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "claws.gif",
+    "treasureClass": "tc51",
     "type": "Greater Talons",
     "name": "Bartuc's Cut-Throat"
   },
@@ -723,6 +765,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "jadetalon.gif",
+    "treasureClass": "tc63",
     "type": "Wrist Sword",
     "name": "Jade Talon"
   },
@@ -746,6 +789,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "claws.gif",
+    "treasureClass": "tc78",
     "type": "Feral Claws",
     "name": "Firelizard's Talons"
   },
@@ -771,6 +815,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "demonhead.gif",
+    "treasureClass": "tc54",
     "type": "Hierophant Trophy",
     "name": "Homunculus"
   },
@@ -793,6 +838,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "demonhead.gif",
+    "treasureClass": "tc87",
     "type": "Bloodlord Skull",
     "name": "Darkforce Spawn"
   },
@@ -813,6 +859,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "gargoylehead.gif",
+    "treasureClass": "tc81",
     "type": "Succubus Skull",
     "name": "Boneflame"
   },
@@ -836,6 +883,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "avengerguard.gif",
+    "treasureClass": "tc54",
     "type": "Slayer Guard",
     "name": "Arreat's Face"
   },
@@ -859,6 +907,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "fangedhelm.gif",
+    "treasureClass": "tc66",
     "type": "Fury Visor",
     "name": "Wolfhowl"
   },
@@ -881,6 +930,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "hornedhelm.gif",
+    "treasureClass": "tc75",
     "type": "Destroyer Helm",
     "name": "Demonhorn's Edge"
   },
@@ -903,6 +953,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "assualthelm.gif",
+    "treasureClass": "tc81",
     "type": "Conqueror Crown",
     "name": "Halaberd's Reign"
   },
@@ -926,6 +977,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "dragonstone.gif",
+    "treasureClass": "tc51",
     "type": "Swirling Crystal",
     "name": "The Oculus"
   },
@@ -945,6 +997,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "sacredglobe.gif",
+    "treasureClass": "tc69",
     "type": "Eldritch Orb",
     "name": "Eschuta's Temper"
   },
@@ -965,6 +1018,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "dragonstone.gif",
+    "treasureClass": "tc87",
     "type": "Dimensional Shard",
     "name": "Death's Fathom"
   },
@@ -988,6 +1042,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "spiritmask.gif",
+    "treasureClass": "tc57",
     "type": "Totemic Mask",
     "name": "Jalal's Mane"
   },
@@ -1009,6 +1064,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "cerebusbite.gif",
+    "treasureClass": "tc63",
     "type": "Blood Spirit",
     "name": "Cerebus' Bite"
   },
@@ -1029,6 +1085,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "hawkhelm.gif",
+    "treasureClass": "tc84",
     "type": "Sky Spirit",
     "name": "Ravenlore"
   },
@@ -1050,6 +1107,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "antlers.gif",
+    "treasureClass": "tc78",
     "type": "Earth Spirit",
     "name": "Spirit Keeper"
   },
@@ -1073,6 +1131,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "rondache.gif",
+    "treasureClass": "tc72",
     "type": "Sacred Rondache",
     "name": "Alma Negra"
   },
@@ -1098,6 +1157,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "aerinshield.gif",
+    "treasureClass": "tc51",
     "type": "Gilded Shield",
     "name": "Herald of Zakarum"
   },
@@ -1121,6 +1181,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "aerinshield.gif",
+    "treasureClass": "tc84",
     "type": "Zakarum Shield",
     "name": "Dragonscale"
   },
@@ -1138,6 +1199,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "warbonet.gif",
+    "treasureClass": "tc3",
     "type": "Cap",
     "name": "Biggin's Bonnet"
   },
@@ -1154,6 +1216,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "tarnhelm.gif",
+    "treasureClass": "tc6",
     "type": "Skull Cap",
     "name": "Tarnhelm"
   },
@@ -1172,6 +1235,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "coifofglory.gif",
+    "treasureClass": "tc12",
     "type": "Helm",
     "name": "Coif of Glory"
   },
@@ -1191,6 +1255,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "duskdeep.gif",
+    "treasureClass": "tc15",
     "type": "Full Helm",
     "name": "Duskdeep"
   },
@@ -1210,6 +1275,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "howltusk.gif",
+    "treasureClass": "tc24",
     "type": "Great Helm",
     "name": "Howltusk"
   },
@@ -1228,6 +1294,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "mask.gif",
+    "treasureClass": "tc21",
     "type": "Mask",
     "name": "The Face of Horror"
   },
@@ -1249,6 +1316,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "undeadcrown.gif",
+    "treasureClass": "tc30",
     "type": "Crown",
     "name": "Undead Crown"
   },
@@ -1267,6 +1335,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "wormskull.gif",
+    "treasureClass": "tc24",
     "type": "Bone Helm",
     "name": "Wormskull"
   },
@@ -1286,6 +1355,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "cap.gif",
+    "treasureClass": "tc36",
     "type": "War Hat",
     "name": "Peasant Crown"
   },
@@ -1306,6 +1376,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "rockstopper.gif",
+    "treasureClass": "tc39",
     "type": "Sallet",
     "name": "Rockstopper"
   },
@@ -1325,6 +1396,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "coifofglory.gif",
+    "treasureClass": "tc42",
     "type": "Casque",
     "name": "Stealskull"
   },
@@ -1345,6 +1417,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "darksighthelm.gif",
+    "treasureClass": "tc45",
     "type": "Basinet",
     "name": "Darksight Helm"
   },
@@ -1363,6 +1436,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "howltusk.gif",
+    "treasureClass": "tc51",
     "type": "Winged Helm",
     "name": "Valkyrie Wing"
   },
@@ -1382,6 +1456,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "mask.gif",
+    "treasureClass": "tc48",
     "type": "Death Mask",
     "name": "Blackhorn's Face"
   },
@@ -1402,6 +1477,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "crownofthieves.gif",
+    "treasureClass": "tc57",
     "type": "Grand Crown",
     "name": "Crown of Thieves"
   },
@@ -1422,6 +1498,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "vampiregaze.gif",
+    "treasureClass": "tc51",
     "type": "Grim Helm",
     "name": "Vampire Gaze"
   },
@@ -1441,6 +1518,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "harlequincrest.gif",
+    "treasureClass": "tc60",
     "type": "Shako",
     "name": "Harlequin Crest"
   },
@@ -1458,6 +1536,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "steelshade.gif",
+    "treasureClass": "tc69",
     "type": "Armet",
     "name": "Steel Shade"
   },
@@ -1477,6 +1556,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "veilofsteel.gif",
+    "treasureClass": "tc81",
     "type": "Spired Helm",
     "name": "Veil of Steel"
   },
@@ -1497,6 +1577,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "nightwingsveil.gif",
+    "treasureClass": "tc81",
     "type": "Spired Helm",
     "name": "Nightwing's Veil"
   },
@@ -1521,6 +1602,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "mask.gif",
+    "treasureClass": "tc75",
     "type": "Demonhead",
     "name": "Andariel's Visage"
   },
@@ -1541,6 +1623,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "crownofages.gif",
+    "treasureClass": "tc87",
     "type": "Corona",
     "name": "Crown of Ages"
   },
@@ -1559,6 +1642,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "giantskull.gif",
+    "treasureClass": "tc84",
     "type": "Bone Visage",
     "name": "Giant Skull"
   },
@@ -1578,6 +1662,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "greyform.gif",
+    "treasureClass": "tc3",
     "type": "Quilted Armor",
     "name": "Greyform"
   },
@@ -1596,6 +1681,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "blinkbatsform.gif",
+    "treasureClass": "tc3",
     "type": "Leather Armor",
     "name": "Blinkbat's Form"
   },
@@ -1617,6 +1703,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thecenturion.gif",
+    "treasureClass": "tc6",
     "type": "Hard Leather Armor",
     "name": "The Centurion"
   },
@@ -1636,6 +1723,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "twitchthroe.gif",
+    "treasureClass": "tc9",
     "type": "Studded Leather",
     "name": "Twitchthroe"
   },
@@ -1658,6 +1746,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "darkglow.gif",
+    "treasureClass": "tc12",
     "type": "Ring Mail",
     "name": "Darkglow"
   },
@@ -1676,6 +1765,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "hawkmail.gif",
+    "treasureClass": "tc15",
     "type": "Scale Mail",
     "name": "Hawkmail"
   },
@@ -1694,6 +1784,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "venomsward.gif",
+    "treasureClass": "tc18",
     "type": "Breast Plate",
     "name": "Venom Ward"
   },
@@ -1711,6 +1802,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "sparklingmail.gif",
+    "treasureClass": "tc15",
     "type": "Chain Mail",
     "name": "Sparking Mail"
   },
@@ -1729,6 +1821,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "iceblink.gif",
+    "treasureClass": "tc21",
     "type": "Splint Mail",
     "name": "Iceblink"
   },
@@ -1748,6 +1841,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "heavenlygarb.gif",
+    "treasureClass": "tc36",
     "type": "Light Plate",
     "name": "Heavenly Garb"
   },
@@ -1766,6 +1860,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "rockfleece.gif",
+    "treasureClass": "tc30",
     "type": "Field Plate",
     "name": "Rockfleece"
   },
@@ -1783,6 +1878,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "boneflesh.gif",
+    "treasureClass": "tc24",
     "type": "Plate Mail",
     "name": "Boneflesh"
   },
@@ -1800,6 +1896,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "rattlecage.gif",
+    "treasureClass": "tc33",
     "type": "Gothic Plate",
     "name": "Rattlecage"
   },
@@ -1818,6 +1915,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "goldskin.gif",
+    "treasureClass": "tc39",
     "type": "Full Plate Mail",
     "name": "Goldskin"
   },
@@ -1835,6 +1933,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "victorssilk.gif",
+    "treasureClass": "tc42",
     "type": "Ancient Armor",
     "name": "Silks of the Victor"
   },
@@ -1853,6 +1952,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "quilted.gif",
+    "treasureClass": "tc36",
     "type": "Ghost Armor",
     "name": "The Spirit Shroud"
   },
@@ -1871,6 +1971,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "vipermagicskin.gif",
+    "treasureClass": "tc36",
     "type": "Serpentskin Armor",
     "name": "Skin of the Vipermagi"
   },
@@ -1889,6 +1990,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "flayedoneskin.gif",
+    "treasureClass": "tc39",
     "type": "Demonhide Armor",
     "name": "Skin of the Flayed One"
   },
@@ -1907,6 +2009,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ironpelt.gif",
+    "treasureClass": "tc42",
     "type": "Trellised Armor",
     "name": "Iron Pelt"
   },
@@ -1925,6 +2028,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "scalemail.gif",
+    "treasureClass": "tc45",
     "type": "Tigulated Mail",
     "name": "Crow Caw"
   },
@@ -1945,6 +2049,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ringmail.gif",
+    "treasureClass": "tc42",
     "type": "Linked Mail",
     "name": "Spirit Forge"
   },
@@ -1967,6 +2072,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "durielsshell.gif",
+    "treasureClass": "tc48",
     "type": "Cuirass",
     "name": "Duriel's Shell"
   },
@@ -1984,6 +2090,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "chainmail.gif",
+    "treasureClass": "tc45",
     "type": "Mesh Armor",
     "name": "Shaftstop"
   },
@@ -2002,6 +2109,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "splintmail.gif",
+    "treasureClass": "tc51",
     "type": "Russet Armor",
     "name": "Skullder's Ire"
   },
@@ -2022,6 +2130,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lightplate.gif",
+    "treasureClass": "tc60",
     "type": "Mage Plate",
     "name": "Que-Hegan's Wisdom"
   },
@@ -2041,6 +2150,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "toothrow.gif",
+    "treasureClass": "tc57",
     "type": "Sharktooth Armor",
     "name": "Toothrow"
   },
@@ -2064,6 +2174,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "guardianangel.gif",
+    "treasureClass": "tc54",
     "type": "Templar Coat",
     "name": "Guardian Angel"
   },
@@ -2084,6 +2195,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "gothicplate.gif",
+    "treasureClass": "tc60",
     "type": "Embossed Plate",
     "name": "Atma's Wail"
   },
@@ -2103,6 +2215,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "fullplate.gif",
+    "treasureClass": "tc63",
     "type": "Chaos Armor",
     "name": "Black Hades"
   },
@@ -2123,6 +2236,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "corpsemourn.gif",
+    "treasureClass": "tc66",
     "type": "Ornate Plate",
     "name": "Corpsemourn"
   },
@@ -2143,6 +2257,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "ormusrobes.gif",
+    "treasureClass": "tc66",
     "type": "Dusk Shroud",
     "name": "Ormus' Robes"
   },
@@ -2164,6 +2279,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "gladiatorsbane.gif",
+    "treasureClass": "tc72",
     "type": "Wire Fleece",
     "name": "The Gladiator's Bane"
   },
@@ -2182,6 +2298,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "balrogskin.gif",
+    "treasureClass": "tc78",
     "type": "Balrog Skin",
     "name": "Arkaine's Valor"
   },
@@ -2200,6 +2317,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "leviathan.gif",
+    "treasureClass": "tc81",
     "type": "Kraken Shell",
     "name": "Leviathan"
   },
@@ -2220,6 +2338,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "steelcarapace.gif",
+    "treasureClass": "tc84",
     "type": "Shadow Plate",
     "name": "Steel Carapace"
   },
@@ -2240,6 +2359,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "templarsmight.gif",
+    "treasureClass": "tc87",
     "type": "Sacred Armor",
     "name": "Templar's Might"
   },
@@ -2262,6 +2382,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "milabregasrobe.gif",
+    "treasureClass": "tc87",
     "type": "Sacred Armor",
     "name": "Tyrael's Might"
   },
@@ -2284,6 +2405,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "peltalunata.gif",
+    "treasureClass": "tc3",
     "type": "Buckler",
     "name": "Pelta Lunata"
   },
@@ -2307,6 +2429,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "umbraldisk.gif",
+    "treasureClass": "tc6",
     "type": "Small Shield",
     "name": "Umbral Disk"
   },
@@ -2329,6 +2452,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "stormguild.gif",
+    "treasureClass": "tc12",
     "type": "Large Shield",
     "name": "Stormguild"
   },
@@ -2352,6 +2476,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "steelclash.gif",
+    "treasureClass": "tc15",
     "type": "Kite Shield",
     "name": "Steelclash"
   },
@@ -2372,6 +2497,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "swordbackhold.gif",
+    "treasureClass": "tc12",
     "type": "Spiked Shield",
     "name": "Swordback Hold"
   },
@@ -2393,6 +2519,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bverritkeep.gif",
+    "treasureClass": "tc24",
     "type": "Tower Shield",
     "name": "Bverrit Keep"
   },
@@ -2414,6 +2541,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "walloftheeyeless.gif",
+    "treasureClass": "tc21",
     "type": "Bone Shield",
     "name": "Wall of the Eyeless"
   },
@@ -2435,6 +2563,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "theward.gif",
+    "treasureClass": "tc30",
     "type": "Gothic Shield",
     "name": "The Ward"
   },
@@ -2455,6 +2584,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "peltalunata.gif",
+    "treasureClass": "tc36",
     "type": "Defender",
     "name": "Visceratuant"
   },
@@ -2475,6 +2605,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "blessedcircle.gif",
+    "treasureClass": "tc39",
     "type": "Round Shield",
     "name": "Moser's Blessed Circle"
   },
@@ -2499,6 +2630,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "stormchaser.gif",
+    "treasureClass": "tc42",
     "type": "Scutum",
     "name": "Stormchaser"
   },
@@ -2522,6 +2654,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "steelclash.gif",
+    "treasureClass": "tc45",
     "type": "Dragon Shield",
     "name": "Tiamat's Rebuke"
   },
@@ -2543,6 +2676,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lanceguard.gif",
+    "treasureClass": "tc42",
     "type": "Barbed Shield",
     "name": "Lance Guard"
   },
@@ -2564,6 +2698,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bverritkeep.gif",
+    "treasureClass": "tc51",
     "type": "Pavise",
     "name": "Gerke's Sanctuary"
   },
@@ -2586,6 +2721,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lidlesswall.gif",
+    "treasureClass": "tc48",
     "type": "Grim Shield",
     "name": "Lidless Wall"
   },
@@ -2608,6 +2744,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "theward.gif",
+    "treasureClass": "tc57",
     "type": "Ancient Shield",
     "name": "Radament's Sphere"
   },
@@ -2630,6 +2767,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "umbraldisk.gif",
+    "treasureClass": "tc63",
     "type": "Luna",
     "name": "Blackoak Shield"
   },
@@ -2653,6 +2791,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "steelclash.gif",
+    "treasureClass": "tc72",
     "type": "Monarch",
     "name": "Stormshield"
   },
@@ -2673,6 +2812,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "swordbackhold.gif",
+    "treasureClass": "tc69",
     "type": "Blade Barrier",
     "name": "Spike Thorn"
   },
@@ -2694,6 +2834,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "bverritkeep.gif",
+    "treasureClass": "tc81",
     "type": "Aegis",
     "name": "Medusa's Gaze"
   },
@@ -2715,6 +2856,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "walloftheeyeless.gif",
+    "treasureClass": "tc78",
     "type": "Troll Nest",
     "name": "Head Hunter's Glory"
   },
@@ -2735,6 +2877,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "theward.gif",
+    "treasureClass": "tc84",
     "type": "Ward",
     "name": "Spirit Ward"
   },
@@ -2753,6 +2896,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thehandofbroc.gif",
+    "treasureClass": "tc3",
     "type": "Leather Gloves",
     "name": "The Hand of Broc"
   },
@@ -2771,6 +2915,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bloodfist.gif",
+    "treasureClass": "tc9",
     "type": "Heavy Gloves",
     "name": "Bloodfist"
   },
@@ -2790,6 +2935,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "chanceguards.gif",
+    "treasureClass": "tc12",
     "type": "Chain Gloves",
     "name": "Chance Guards"
   },
@@ -2809,6 +2955,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "magefist.gif",
+    "treasureClass": "tc21",
     "type": "Light Gauntlets",
     "name": "Magefist"
   },
@@ -2827,6 +2974,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "frostburn.gif",
+    "treasureClass": "tc27",
     "type": "Gauntlets",
     "name": "Frostburn"
   },
@@ -2847,6 +2995,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "leathergloves.gif",
+    "treasureClass": "tc33",
     "type": "Demonhide Gloves",
     "name": "Venom Grip"
   },
@@ -2865,6 +3014,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "heavygloves.gif",
+    "treasureClass": "tc39",
     "type": "Sharkskin Gloves",
     "name": "Gravepalm"
   },
@@ -2883,6 +3033,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "chaingloves.gif",
+    "treasureClass": "tc45",
     "type": "Heavy Bracers",
     "name": "Ghoulhide"
   },
@@ -2902,6 +3053,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lightgauntlets.gif",
+    "treasureClass": "tc51",
     "type": "Battle Gauntlets",
     "name": "Lava Gout"
   },
@@ -2920,6 +3072,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "gauntlets.gif",
+    "treasureClass": "tc54",
     "type": "War Gauntlets",
     "name": "Hellmouth"
   },
@@ -2939,6 +3092,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "draculsgrasp.gif",
+    "treasureClass": "tc63",
     "type": "Vampirebone Gloves",
     "name": "Dracul's Grasp"
   },
@@ -2957,6 +3111,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "souldrainer.gif",
+    "treasureClass": "tc69",
     "type": "Vambraces",
     "name": "Soul Drainer"
   },
@@ -2974,6 +3129,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "steelrend.gif",
+    "treasureClass": "tc87",
     "type": "Ogre Gauntlets",
     "name": "Steelrend"
   },
@@ -2993,6 +3149,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "hotspur.gif",
+    "treasureClass": "tc3",
     "type": "Boots",
     "name": "Hotspur"
   },
@@ -3013,6 +3170,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "gorefoot.gif",
+    "treasureClass": "tc9",
     "type": "Heavy Boots",
     "name": "Gorefoot"
   },
@@ -3033,6 +3191,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "treadsofcthon.gif",
+    "treasureClass": "tc12",
     "type": "Chain Boots",
     "name": "Treads of Cthon"
   },
@@ -3053,6 +3212,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "goblintoe.gif",
+    "treasureClass": "tc21",
     "type": "Light Plated Boots",
     "name": "Goblin Toe"
   },
@@ -3074,6 +3234,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "tearhaunch.gif",
+    "treasureClass": "tc27",
     "type": "Greaves",
     "name": "Tearhaunch"
   },
@@ -3097,6 +3258,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "leatherboots.gif",
+    "treasureClass": "tc36",
     "type": "Demonhide Boots",
     "name": "Infernostride"
   },
@@ -3119,6 +3281,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "heavyboots.gif",
+    "treasureClass": "tc39",
     "type": "Sharkskin Boots",
     "name": "Waterwalk"
   },
@@ -3138,6 +3301,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "chainboots.gif",
+    "treasureClass": "tc45",
     "type": "Mesh Boots",
     "name": "Silkweave"
   },
@@ -3160,6 +3324,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "goblintoe.gif",
+    "treasureClass": "tc51",
     "type": "Battle Boots",
     "name": "War Traveler"
   },
@@ -3181,6 +3346,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "plateboots.gif",
+    "treasureClass": "tc54",
     "type": "War Boots",
     "name": "Gore Rider"
   },
@@ -3204,6 +3370,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "heavyboots.gif",
+    "treasureClass": "tc66",
     "type": "Scarabshell Boots",
     "name": "Sandstorm Trek"
   },
@@ -3228,6 +3395,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "chainboots.gif",
+    "treasureClass": "tc72",
     "type": "Boneweave Boots",
     "name": "Marrowwalk"
   },
@@ -3249,6 +3417,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "shadowdancer.gif",
+    "treasureClass": "tc87",
     "type": "Myrmidon Greaves",
     "name": "Shadow Dancer"
   },
@@ -3266,6 +3435,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "lenymscord.gif",
+    "treasureClass": "tc3",
     "type": "Sash",
     "name": "Lenymo"
   },
@@ -3285,6 +3455,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "snakecord.gif",
+    "treasureClass": "tc9",
     "type": "Light Belt",
     "name": "Snakecord"
   },
@@ -3305,6 +3476,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "nightsmoke.gif",
+    "treasureClass": "tc12",
     "type": "Belt",
     "name": "Nightsmoke"
   },
@@ -3325,6 +3497,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "goldwrap.gif",
+    "treasureClass": "tc21",
     "type": "Heavy Belt",
     "name": "Goldwrap"
   },
@@ -3346,6 +3519,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bladebuckle.gif",
+    "treasureClass": "tc27",
     "type": "Plated Belt",
     "name": "Bladebuckle"
   },
@@ -3365,6 +3539,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "sash.gif",
+    "treasureClass": "tc36",
     "type": "Demonhide Sash",
     "name": "String of Ears"
   },
@@ -3385,6 +3560,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lightbelt.gif",
+    "treasureClass": "tc39",
     "type": "Sharkskin Belt",
     "name": "Razortail"
   },
@@ -3405,6 +3581,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "belt.gif",
+    "treasureClass": "tc45",
     "type": "Mesh Belt",
     "name": "Gloom's Trap"
   },
@@ -3427,6 +3604,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "heavybelt.gif",
+    "treasureClass": "tc51",
     "type": "Battle Belt",
     "name": "Snowclash"
   },
@@ -3450,6 +3628,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "girdle.gif",
+    "treasureClass": "tc54",
     "type": "War Belt",
     "name": "Thundergod's Vigor"
   },
@@ -3470,6 +3649,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "arachnidmesh.gif",
+    "treasureClass": "tc63",
     "type": "Spiderweb Sash",
     "name": "Arachnid Mesh"
   },
@@ -3490,6 +3670,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "nosferatuscoil.gif",
+    "treasureClass": "tc69",
     "type": "Vampirefang Belt",
     "name": "Nosferatu's Coil"
   },
@@ -3510,6 +3691,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "verdungosheartycord.gif",
+    "treasureClass": "tc75",
     "type": "Mithril Coil",
     "name": "Verdungo's Hearty Cord"
   },
@@ -3527,6 +3709,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "thegnasher.gif",
+    "treasureClass": "tc3",
     "type": "Hand Axe",
     "name": "The Gnasher"
   },
@@ -3546,6 +3729,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "deathspade.gif",
+    "treasureClass": "tc9",
     "type": "Axe",
     "name": "Deathspade"
   },
@@ -3566,6 +3750,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "doubleaxe.gif",
+    "treasureClass": "tc15",
     "type": "Double Axe",
     "name": "Bladebone"
   },
@@ -3587,6 +3772,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "mindrend.gif",
+    "treasureClass": "tc21",
     "type": "Military Pick",
     "name": "Skull Splitter"
   },
@@ -3606,6 +3792,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "waraxe.gif",
+    "treasureClass": "tc27",
     "type": "War Axe",
     "name": "Rakescar"
   },
@@ -3624,6 +3811,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "largeaxe.gif",
+    "treasureClass": "tc6",
     "type": "Large Axe",
     "name": "Axe of Fechmar"
   },
@@ -3643,6 +3831,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "broadaxe.gif",
+    "treasureClass": "tc12",
     "type": "Broad Axe",
     "name": "Goreshovel"
   },
@@ -3662,6 +3851,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thechieftan.gif",
+    "treasureClass": "tc18",
     "type": "Battle Axe",
     "name": "The Chieftain"
   },
@@ -3683,6 +3873,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "brainhew.gif",
+    "treasureClass": "tc24",
     "type": "Great Axe",
     "name": "Brainhew"
   },
@@ -3702,6 +3893,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "giantaxe.gif",
+    "treasureClass": "tc27",
     "type": "Giant Axe",
     "name": "Humongous"
   },
@@ -3726,6 +3918,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "coldkill.gif",
+    "treasureClass": "tc33",
     "type": "Hatchet",
     "name": "Coldkill"
   },
@@ -3746,6 +3939,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "butcherspupil.gif",
+    "treasureClass": "tc36",
     "type": "Cleaver",
     "name": "Butcher's Pupil"
   },
@@ -3768,6 +3962,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "doubleaxe.gif",
+    "treasureClass": "tc39",
     "type": "Twin Axe",
     "name": "Islestrike"
   },
@@ -3789,6 +3984,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "mindrend.gif",
+    "treasureClass": "tc45",
     "type": "Crowbill",
     "name": "Pompeii's Wrath"
   },
@@ -3810,6 +4006,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "waraxe.gif",
+    "treasureClass": "tc48",
     "type": "Naga",
     "name": "Guardian Naga"
   },
@@ -3831,6 +4028,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "largeaxe.gif",
+    "treasureClass": "tc36",
     "type": "Military Axe",
     "name": "Warlord's Trust"
   },
@@ -3856,6 +4054,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "broadaxe.gif",
+    "treasureClass": "tc39",
     "type": "Bearded Axe",
     "name": "Spellsteel"
   },
@@ -3878,6 +4077,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "stormrider.gif",
+    "treasureClass": "tc42",
     "type": "Tabar",
     "name": "Stormrider"
   },
@@ -3902,6 +4102,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "brainhew.gif",
+    "treasureClass": "tc48",
     "type": "Gothic Axe",
     "name": "Boneslayer Blade"
   },
@@ -3924,6 +4125,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "minotuar.gif",
+    "treasureClass": "tc51",
     "type": "Ancient Axe",
     "name": "The Minotaur"
   },
@@ -3944,6 +4146,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "thegnasher.gif",
+    "treasureClass": "tc54",
     "type": "Tomahawk",
     "name": "Razor's Edge"
   },
@@ -3964,6 +4167,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "doubleaxe.gif",
+    "treasureClass": "tc72",
     "type": "Ettin Axe",
     "name": "Rune Master"
   },
@@ -3985,6 +4189,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "mindrend.gif",
+    "treasureClass": "tc81",
     "type": "War Spike",
     "name": "Cranebeak"
   },
@@ -4006,6 +4211,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "waraxe.gif",
+    "treasureClass": "tc87",
     "type": "Berserker Axe",
     "name": "Death Cleaver"
   },
@@ -4028,6 +4234,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "etherealedge.gif",
+    "treasureClass": "tc66",
     "type": "Silver-Edged Axe",
     "name": "Ethereal Edge"
   },
@@ -4050,6 +4257,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "thechieftan.gif",
+    "treasureClass": "tc75",
     "type": "Decapitator",
     "name": "Hellslayer"
   },
@@ -4070,6 +4278,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "brainhew.gif",
+    "treasureClass": "tc84",
     "type": "Champion Axe",
     "name": "Messerschmidt's Reaver"
   },
@@ -4091,6 +4300,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "executionersjustice.gif",
+    "treasureClass": "tc87",
     "type": "Glorious Axe",
     "name": "Executioner's Justice"
   },
@@ -4110,6 +4320,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "pluckeye.gif",
+    "treasureClass": "tc3",
     "type": "Short Bow",
     "name": "Pluckeye"
   },
@@ -4128,6 +4339,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "witherstring.gif",
+    "treasureClass": "tc6",
     "type": "Hunter's Bow",
     "name": "Witherstring"
   },
@@ -4147,6 +4359,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "rimeraven.gif",
+    "treasureClass": "tc9",
     "type": "Long Bow",
     "name": "Raven Claw"
   },
@@ -4167,6 +4380,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "piercerib.gif",
+    "treasureClass": "tc12",
     "type": "Composite Bow",
     "name": "Rogue's Bow"
   },
@@ -4187,6 +4401,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "pullspite.gif",
+    "treasureClass": "tc18",
     "type": "Short Battle Bow",
     "name": "Stormstrike"
   },
@@ -4209,6 +4424,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "wizendraw.gif",
+    "treasureClass": "tc24",
     "type": "Long Battle Bow",
     "name": "Wizendraw"
   },
@@ -4230,6 +4446,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "hellclap.gif",
+    "treasureClass": "tc27",
     "type": "Short War Bow",
     "name": "Hellclap"
   },
@@ -4249,6 +4466,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "blastbark.gif",
+    "treasureClass": "tc33",
     "type": "Long War Bow",
     "name": "Blastbark"
   },
@@ -4270,6 +4488,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "shortbow.gif",
+    "treasureClass": "tc30",
     "type": "Edge Bow",
     "name": "Skystrike"
   },
@@ -4290,6 +4509,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "riphook.gif",
+    "treasureClass": "tc33",
     "type": "Razor Bow",
     "name": "Riphook"
   },
@@ -4310,6 +4530,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "kukoshakaku.gif",
+    "treasureClass": "tc36",
     "type": "Cedar Bow",
     "name": "Kuko Shakaku"
   },
@@ -4330,6 +4551,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "piercerib.gif",
+    "treasureClass": "tc39",
     "type": "Double Bow",
     "name": "Endlesshail"
   },
@@ -4350,6 +4572,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "whichwildstring.gif",
+    "treasureClass": "tc45",
     "type": "Short Siege Bow",
     "name": "Witchwild String"
   },
@@ -4370,6 +4593,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "cliffkiller.gif",
+    "treasureClass": "tc48",
     "type": "Large Siege Bow",
     "name": "Cliffkiller"
   },
@@ -4393,6 +4617,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "hellclap.gif",
+    "treasureClass": "tc51",
     "type": "Rune Bow",
     "name": "Magewrath"
   },
@@ -4414,6 +4639,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "goldstrikearch.gif",
+    "treasureClass": "tc54",
     "type": "Gothic Bow",
     "name": "Goldstrike Arch"
   },
@@ -4434,6 +4660,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "longbattlebow.gif",
+    "treasureClass": "tc78",
     "type": "Crusader Bow",
     "name": "Eaglehorn"
   },
@@ -4454,6 +4681,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "widowmaker.gif",
+    "treasureClass": "tc81",
     "type": "Ward Bow",
     "name": "Widowmaker"
   },
@@ -4476,6 +4704,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "windforce.gif",
+    "treasureClass": "tc87",
     "type": "Hydra Bow",
     "name": "Windforce"
   },
@@ -4496,6 +4725,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "leadcrow.gif",
+    "treasureClass": "tc6",
     "type": "Light Crossbow",
     "name": "Leadcrow"
   },
@@ -4516,6 +4746,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ichorsting.gif",
+    "treasureClass": "tc15",
     "type": "Crossbow",
     "name": "Ichorsting"
   },
@@ -4537,6 +4768,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "hellcast.gif",
+    "treasureClass": "tc24",
     "type": "Heavy Crossbow",
     "name": "Hellcast"
   },
@@ -4556,6 +4788,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "doomspittle.gif",
+    "treasureClass": "tc33",
     "type": "Repeating Crossbow",
     "name": "Doomslinger"
   },
@@ -4577,6 +4810,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "langerbriser.gif",
+    "treasureClass": "tc36",
     "type": "Arbalest",
     "name": "Langer Briser"
   },
@@ -4599,6 +4833,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "pusspitter.gif",
+    "treasureClass": "tc42",
     "type": "Siege Crossbow",
     "name": "Pus Spitter"
   },
@@ -4621,6 +4856,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "hellcast.gif",
+    "treasureClass": "tc48",
     "type": "Ballista",
     "name": "Buriza-Do Kyanon"
   },
@@ -4642,6 +4878,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "demonmachine.gif",
+    "treasureClass": "tc54",
     "type": "Chu-Ko-Nu",
     "name": "Demon Machine"
   },
@@ -4664,6 +4901,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "hellrack.gif",
+    "treasureClass": "tc75",
     "type": "Colossus Crossbow",
     "name": "Hellrack"
   },
@@ -4683,6 +4921,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "gutsiphon.gif",
+    "treasureClass": "tc84",
     "type": "Demon Crossbow",
     "name": "Gut Siphon"
   },
@@ -4699,6 +4938,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "dagger.gif",
+    "treasureClass": "tc3",
     "type": "Dagger",
     "name": "Gull"
   },
@@ -4719,6 +4959,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thediggler.gif",
+    "treasureClass": "tc9",
     "type": "Dirk",
     "name": "The Diggler"
   },
@@ -4738,6 +4979,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thejadetando.gif",
+    "treasureClass": "tc18",
     "type": "Kris",
     "name": "The Jade Tan Do"
   },
@@ -4757,6 +4999,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "iricesshard.gif",
+    "treasureClass": "tc24",
     "type": "Blade",
     "name": "Spectral Shard"
   },
@@ -4779,6 +5022,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "dagger.gif",
+    "treasureClass": "tc33",
     "type": "Poignard",
     "name": "Spineripper"
   },
@@ -4801,6 +5045,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thediggler.gif",
+    "treasureClass": "tc36",
     "type": "Rondel",
     "name": "Heart Carver"
   },
@@ -4824,6 +5069,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thejadetando.gif",
+    "treasureClass": "tc42",
     "type": "Cinquedeas",
     "name": "Blackbog's Sharp"
   },
@@ -4844,6 +5090,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "stormspike.gif",
+    "treasureClass": "tc48",
     "type": "Stiletto",
     "name": "Stormspike"
   },
@@ -4864,6 +5111,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "dagger.gif",
+    "treasureClass": "tc60",
     "type": "Bone Knife",
     "name": "Wizardspike"
   },
@@ -4886,6 +5134,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "fleshripper.gif",
+    "treasureClass": "tc84",
     "type": "Fanged Knife",
     "name": "Fleshripper"
   },
@@ -4907,6 +5156,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "ghostflame.gif",
+    "treasureClass": "tc87",
     "type": "Legend Spike",
     "name": "Ghostflame"
   },
@@ -4929,6 +5179,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "demonsarch.gif",
+    "treasureClass": "tc72",
     "type": "Balrog Spear",
     "name": "Demon's Arch"
   },
@@ -4951,6 +5202,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "wraithflight.gif",
+    "treasureClass": "tc81",
     "type": "Ghost Glaive",
     "name": "Wraith Flight"
   },
@@ -4972,6 +5224,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "gargoylesbite.gif",
+    "treasureClass": "tc87",
     "type": "Winged Harpoon",
     "name": "Gargoyle's Bite"
   },
@@ -4991,6 +5244,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "felloak.gif",
+    "treasureClass": "tc3",
     "type": "Club",
     "name": "Felloak"
   },
@@ -5009,6 +5263,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "stoutnail.gif",
+    "treasureClass": "tc6",
     "type": "Spiked Club",
     "name": "Stoutnail"
   },
@@ -5030,6 +5285,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "crushflange.gif",
+    "treasureClass": "tc9",
     "type": "Mace",
     "name": "Crushflange"
   },
@@ -5052,6 +5308,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bloodrise.gif",
+    "treasureClass": "tc15",
     "type": "Morning Star",
     "name": "Bloodrise"
   },
@@ -5074,6 +5331,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thegeneralstandoliga.gif",
+    "treasureClass": "tc21",
     "type": "Flail",
     "name": "The General's Tan Do Li Ga"
   },
@@ -5093,6 +5351,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ironstone.gif",
+    "treasureClass": "tc27",
     "type": "War Hammer",
     "name": "Ironstone"
   },
@@ -5112,6 +5371,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bonesnap.gif",
+    "treasureClass": "tc21",
     "type": "Maul",
     "name": "Bonesnap"
   },
@@ -5131,6 +5391,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "steeldriver.gif",
+    "treasureClass": "tc33",
     "type": "Great Maul",
     "name": "Steeldriver"
   },
@@ -5152,6 +5413,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "felloak.gif",
+    "treasureClass": "tc30",
     "type": "Cudgel",
     "name": "Dark Clan Crusher"
   },
@@ -5175,6 +5437,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "stoutnail.gif",
+    "treasureClass": "tc33",
     "type": "Barbed Club",
     "name": "Fleshrender"
   },
@@ -5196,6 +5459,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "crushflange.gif",
+    "treasureClass": "tc36",
     "type": "Flanged Mace",
     "name": "Sureshrill Frost"
   },
@@ -5218,6 +5482,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bloodrise.gif",
+    "treasureClass": "tc39",
     "type": "Jagged Star",
     "name": "Moonfall"
   },
@@ -5241,6 +5506,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thegeneralstandoliga.gif",
+    "treasureClass": "tc45",
     "type": "Knout",
     "name": "Baezil's Vortex"
   },
@@ -5262,6 +5528,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "warhammer.gif",
+    "treasureClass": "tc48",
     "type": "Battle Hammer",
     "name": "Earthshaker"
   },
@@ -5283,6 +5550,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "maul.gif",
+    "treasureClass": "tc45",
     "type": "War Club",
     "name": "Bloodtree Stump"
   },
@@ -5304,6 +5572,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "gavelofpain.gif",
+    "treasureClass": "tc54",
     "type": "Martel de Fer",
     "name": "The Gavel of Pain"
   },
@@ -5327,6 +5596,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "felloak.gif",
+    "treasureClass": "tc54",
     "type": "Truncheon",
     "name": "Nord's Tenderizer"
   },
@@ -5349,6 +5619,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "stoutnail.gif",
+    "treasureClass": "tc57",
     "type": "Tyrant Club",
     "name": "Demon Limb"
   },
@@ -5373,6 +5644,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bloodrise.gif",
+    "treasureClass": "tc72",
     "type": "Devil Star",
     "name": "Baranar's Star"
   },
@@ -5394,6 +5666,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "horizonstornado.gif",
+    "treasureClass": "tc78",
     "type": "Scourge",
     "name": "Horizon's Tornado"
   },
@@ -5418,6 +5691,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "stormlash.gif",
+    "treasureClass": "tc78",
     "type": "Scourge",
     "name": "Stormlash"
   },
@@ -5439,6 +5713,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "stonecrusher.gif",
+    "treasureClass": "tc84",
     "type": "Legendary Mallet",
     "name": "Stone Crusher"
   },
@@ -5463,6 +5738,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ironstone.gif",
+    "treasureClass": "tc84",
     "type": "Legendary Mallet",
     "name": "Schaefer's Hammer"
   },
@@ -5482,6 +5758,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "windhammer.gif",
+    "treasureClass": "tc69",
     "type": "Ogre Maul",
     "name": "Windhammer"
   },
@@ -5504,6 +5781,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "earthshifter.gif",
+    "treasureClass": "tc87",
     "type": "Thunder Maul",
     "name": "Earth Shifter"
   },
@@ -5527,6 +5805,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "steeldriver.gif",
+    "treasureClass": "tc87",
     "type": "Thunder Maul",
     "name": "The Cranium Basher"
   },
@@ -5545,6 +5824,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "bardiche.gif",
+    "treasureClass": "tc6",
     "type": "Bardiche",
     "name": "Dimoak's Hew"
   },
@@ -5564,6 +5844,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "steelgoad.gif",
+    "treasureClass": "tc12",
     "type": "Voulge",
     "name": "Steelgoad"
   },
@@ -5585,6 +5866,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "soulharvest.gif",
+    "treasureClass": "tc15",
     "type": "Scythe",
     "name": "Soul Harvest"
   },
@@ -5604,6 +5886,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "poleaxe.gif",
+    "treasureClass": "tc21",
     "type": "Poleaxe",
     "name": "The Battlebranch"
   },
@@ -5627,6 +5910,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "halberd.gif",
+    "treasureClass": "tc30",
     "type": "Halberd",
     "name": "Woestave"
   },
@@ -5647,6 +5931,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "warscythe.gif",
+    "treasureClass": "tc36",
     "type": "War Scythe",
     "name": "The Grim Reaper"
   },
@@ -5667,6 +5952,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "meatscraper.gif",
+    "treasureClass": "tc33",
     "type": "Lochaber Axe",
     "name": "The Meat Scraper"
   },
@@ -5687,6 +5973,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "voulge.gif",
+    "treasureClass": "tc39",
     "type": "Bill",
     "name": "Blackleach Blade"
   },
@@ -5708,6 +5995,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "athenaswrath.gif",
+    "treasureClass": "tc42",
     "type": "Battle Scythe",
     "name": "Athena's Wrath"
   },
@@ -5730,6 +6018,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "poleaxe.gif",
+    "treasureClass": "tc36",
     "type": "Partizan",
     "name": "Pierre Tombale Couant"
   },
@@ -5751,6 +6040,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "halberd.gif",
+    "treasureClass": "tc51",
     "type": "Bec-De-Corbin",
     "name": "Husoldal Evo"
   },
@@ -5775,6 +6065,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "warscythe.gif",
+    "treasureClass": "tc57",
     "type": "Grim Scythe",
     "name": "Grim's Burning Dead"
   },
@@ -5796,6 +6087,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "bonehew.gif",
+    "treasureClass": "tc60",
     "type": "Ogre Axe",
     "name": "Bonehew"
   },
@@ -5819,6 +6111,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "scythe.gif",
+    "treasureClass": "tc72",
     "type": "Thresher",
     "name": "The Reaper's Toll"
   },
@@ -5845,6 +6138,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "poleaxe.gif",
+    "treasureClass": "tc81",
     "type": "Cryptic Axe",
     "name": "Tomb Reaver"
   },
@@ -5868,6 +6162,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "warscythe.gif",
+    "treasureClass": "tc87",
     "type": "Giant Thresher",
     "name": "Stormspire"
   },
@@ -5889,6 +6184,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "scepter.gif",
+    "treasureClass": "tc3",
     "type": "Scepter",
     "name": "Knell Striker"
   },
@@ -5911,6 +6207,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "grandscepter.gif",
+    "treasureClass": "tc15",
     "type": "Grand Scepter",
     "name": "Rusthandle"
   },
@@ -5933,6 +6230,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "warscepter.gif",
+    "treasureClass": "tc21",
     "type": "War Scepter",
     "name": "Stormeye"
   },
@@ -5957,6 +6255,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "scepter.gif",
+    "treasureClass": "tc33",
     "type": "Rune Scepter",
     "name": "Zakarum's Hand"
   },
@@ -5979,6 +6278,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "grandscepter.gif",
+    "treasureClass": "tc42",
     "type": "Holy Water Sprinkler",
     "name": "The Fetid Sprinkler"
   },
@@ -6004,6 +6304,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "warscepter.gif",
+    "treasureClass": "tc45",
     "type": "Divine Scepter",
     "name": "Hand of Blessed Light"
   },
@@ -6030,6 +6331,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "scepter.gif",
+    "treasureClass": "tc63",
     "type": "Mighty Scepter",
     "name": "Heaven's Light"
   },
@@ -6056,6 +6358,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "scepter.gif",
+    "treasureClass": "tc63",
     "type": "Mighty Scepter",
     "name": "The Redeemer"
   },
@@ -6081,6 +6384,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "warscepter.gif",
+    "treasureClass": "tc87",
     "type": "Caduceus",
     "name": "Astreon's Iron Ward"
   },
@@ -6100,6 +6404,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thedragonchang.gif",
+    "treasureClass": "tc6",
     "type": "Spear",
     "name": "The Dragon Chang"
   },
@@ -6121,6 +6426,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "razortine.gif",
+    "treasureClass": "tc9",
     "type": "Trident",
     "name": "Razortine"
   },
@@ -6141,6 +6447,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bloodthief.gif",
+    "treasureClass": "tc18",
     "type": "Brandistock",
     "name": "Bloodthief"
   },
@@ -6160,6 +6467,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lanceofyaggai.gif",
+    "treasureClass": "tc21",
     "type": "Spetum",
     "name": "Lance of Yaggai"
   },
@@ -6182,6 +6490,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thetannrgorerod.gif",
+    "treasureClass": "tc24",
     "type": "Pike",
     "name": "The Tannr Gorerod"
   },
@@ -6205,6 +6514,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "impaler.gif",
+    "treasureClass": "tc33",
     "type": "War Spear",
     "name": "The Impaler"
   },
@@ -6226,6 +6536,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "razortine.gif",
+    "treasureClass": "tc36",
     "type": "Fuscina",
     "name": "Kelpie Snare"
   },
@@ -6247,6 +6558,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "soulfeastine.gif",
+    "treasureClass": "tc42",
     "type": "War Fork",
     "name": "Soulfeast Tine"
   },
@@ -6266,6 +6578,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lanceofyaggai.gif",
+    "treasureClass": "tc45",
     "type": "Yari",
     "name": "Hone Sundan"
   },
@@ -6290,6 +6603,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thetannrgorerod.gif",
+    "treasureClass": "tc48",
     "type": "Lance",
     "name": "Spire of Honor"
   },
@@ -6311,6 +6625,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "ariocsneedle.gif",
+    "treasureClass": "tc60",
     "type": "Hyperion Spear",
     "name": "Arioc's Needle"
   },
@@ -6332,6 +6647,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "viperfork.gif",
+    "treasureClass": "tc75",
     "type": "Mancatcher",
     "name": "Viperfork"
   },
@@ -6352,6 +6668,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "pike.gif",
+    "treasureClass": "tc87",
     "type": "War Pike",
     "name": "Steel Pillar"
   },
@@ -6373,6 +6690,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "baneash.gif",
+    "treasureClass": "tc3",
     "type": "Short Staff",
     "name": "Bane Ash"
   },
@@ -6394,6 +6712,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "serpentlord.gif",
+    "treasureClass": "tc9",
     "type": "Long Staff",
     "name": "Serpent Lord"
   },
@@ -6417,6 +6736,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lazarusspire.gif",
+    "treasureClass": "tc12",
     "type": "Gnarled Staff",
     "name": "Spire of Lazarus"
   },
@@ -6437,6 +6757,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thesalamander.gif",
+    "treasureClass": "tc18",
     "type": "Battle Staff",
     "name": "The Salamander"
   },
@@ -6459,6 +6780,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "theironlangbong.gif",
+    "treasureClass": "tc24",
     "type": "War Staff",
     "name": "The Iron Jang Bong"
   },
@@ -6481,6 +6803,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "shortstaff.gif",
+    "treasureClass": "tc30",
     "type": "Jo Staff",
     "name": "Razorswitch"
   },
@@ -6504,6 +6827,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ribcracker.gif",
+    "treasureClass": "tc36",
     "type": "Quarterstaff",
     "name": "Ribcracker"
   },
@@ -6527,6 +6851,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "lazarusspire.gif",
+    "treasureClass": "tc39",
     "type": "Cedar Staff",
     "name": "Chromatic Ire"
   },
@@ -6548,6 +6873,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "warpspear.gif",
+    "treasureClass": "tc42",
     "type": "Gothic Staff",
     "name": "Warpspear"
   },
@@ -6567,6 +6893,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "skullcollector.gif",
+    "treasureClass": "tc48",
     "type": "Rune Staff",
     "name": "Skull Collector"
   },
@@ -6590,6 +6917,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "lazarusspire.gif",
+    "treasureClass": "tc75",
     "type": "Elder Staff",
     "name": "Ondal's Wisdom"
   },
@@ -6612,6 +6940,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "mangsongslesson.gif",
+    "treasureClass": "tc87",
     "type": "Archon Staff",
     "name": "Mang Song's Lesson"
   },
@@ -6631,6 +6960,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "rixotskeen.gif",
+    "treasureClass": "tc3",
     "type": "Short Sword",
     "name": "Rixot's Keen"
   },
@@ -6652,6 +6982,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bloodcrescent.gif",
+    "treasureClass": "tc6",
     "type": "Scimitar",
     "name": "Blood Crescent"
   },
@@ -6673,6 +7004,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "angelicsickle.gif",
+    "treasureClass": "tc9",
     "type": "Sabre",
     "name": "Skewer of Krintiz"
   },
@@ -6693,6 +7025,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "gleamscythe.gif",
+    "treasureClass": "tc12",
     "type": "Falchion",
     "name": "Gleamscythe"
   },
@@ -6713,6 +7046,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "griswoldsedge.gif",
+    "treasureClass": "tc15",
     "type": "Broad Sword",
     "name": "Griswold's Edge"
   },
@@ -6734,6 +7068,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "hellplague.gif",
+    "treasureClass": "tc21",
     "type": "Long Sword",
     "name": "Hellplague"
   },
@@ -6755,6 +7090,7 @@
       "(Spawns In Any Patch)"
     ],
     "image": "warsword.gif",
+    "treasureClass": "tc27",
     "type": "War Sword",
     "name": "Culwen's Point"
   },
@@ -6777,6 +7113,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "shadowfang.gif",
+    "treasureClass": "tc12",
     "type": "Two-Handed Sword",
     "name": "Shadowfang"
   },
@@ -6797,6 +7134,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "soulflay.gif",
+    "treasureClass": "tc18",
     "type": "Claymore",
     "name": "Soulflay"
   },
@@ -6818,6 +7156,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "kinemilsawl.gif",
+    "treasureClass": "tc21",
     "type": "Giant Sword",
     "name": "Kinemil's Awl"
   },
@@ -6838,6 +7177,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "blacktongue.gif",
+    "treasureClass": "tc24",
     "type": "Bastard Sword",
     "name": "Blacktongue"
   },
@@ -6858,6 +7198,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "ripsaw.gif",
+    "treasureClass": "tc26",
     "type": "Flamberge",
     "name": "Ripsaw"
   },
@@ -6880,6 +7221,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thepatriarch.gif",
+    "treasureClass": "tc33",
     "type": "Great Sword",
     "name": "The Patriarch"
   },
@@ -6902,6 +7244,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "rixotskeen.gif",
+    "treasureClass": "tc30",
     "type": "Gladius",
     "name": "Bloodletter"
   },
@@ -6923,6 +7266,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bloodcrescent.gif",
+    "treasureClass": "tc45",
     "type": "Cutlass",
     "name": "Coldsteel Eye"
   },
@@ -6945,6 +7289,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "krintizskewer.gif",
+    "treasureClass": "tc36",
     "type": "Shamshir",
     "name": "Hexfire"
   },
@@ -6966,6 +7311,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "bladeofalibaba.gif",
+    "treasureClass": "tc39",
     "type": "Tulwar",
     "name": "Blade of Ali Baba"
   },
@@ -6986,6 +7332,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "riftlash.gif",
+    "treasureClass": "tc39",
     "type": "Dimensional Blade",
     "name": "Ginther's Rift"
   },
@@ -7006,6 +7353,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "headstriker.gif",
+    "treasureClass": "tc42",
     "type": "Battle Sword",
     "name": "Headstriker"
   },
@@ -7027,6 +7375,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "plaguebearer.gif",
+    "treasureClass": "tc45",
     "type": "Rune Sword",
     "name": "Plague Bearer"
   },
@@ -7049,6 +7398,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "atlantean.gif",
+    "treasureClass": "tc51",
     "type": "Ancient Sword",
     "name": "The Atlantean"
   },
@@ -7071,6 +7421,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "shadowfang.gif",
+    "treasureClass": "tc39",
     "type": "Espandon",
     "name": "Crainte Vomir"
   },
@@ -7093,6 +7444,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "soulflay.gif",
+    "treasureClass": "tc42",
     "type": "Dacian Falx",
     "name": "Bing Sz Wang"
   },
@@ -7111,6 +7463,7 @@
       "<font color='4850B8'>+ (10 Per Character Level) 10-990 To Attack Rating against Undead (Based On Character Level)"
     ],
     "image": "kinemilsawl.gif",
+    "treasureClass": "tc45",
     "type": "Tusk Sword",
     "name": "The Vile Husk"
   },
@@ -7136,6 +7489,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "blacktongue.gif",
+    "treasureClass": "tc48",
     "type": "Gothic Sword",
     "name": "Cloudcrack"
   },
@@ -7159,6 +7513,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "todesfaelleflamme.gif",
+    "treasureClass": "tc51",
     "type": "Zweihander",
     "name": "Todesfaelle Flamme"
   },
@@ -7184,6 +7539,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "swordguard.gif",
+    "treasureClass": "tc54",
     "type": "Executioner Sword",
     "name": "Swordguard"
   },
@@ -7207,6 +7563,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "bloodcrescent.gif",
+    "treasureClass": "tc63",
     "type": "Ataghan",
     "name": "Djinn Slayer"
   },
@@ -7227,6 +7584,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "krintizskewer.gif",
+    "treasureClass": "tc63",
     "type": "Elegant Blade",
     "name": "Bloodmoon"
   },
@@ -7251,6 +7609,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "azurewrath2.gif",
+    "treasureClass": "tc75",
     "type": "Phase Blade",
     "name": "Lightsabre"
   },
@@ -7274,6 +7633,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "azurewrath.gif",
+    "treasureClass": "tc75",
     "type": "Phase Blade",
     "name": "Azurewrath"
   },
@@ -7295,6 +7655,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "hellplague.gif",
+    "treasureClass": "tc84",
     "type": "Cryptic Sword",
     "name": "Frostwind"
   },
@@ -7318,6 +7679,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "flamebellow.gif",
+    "treasureClass": "tc72",
     "type": "Balrog Blade",
     "name": "Flamebellow"
   },
@@ -7340,6 +7702,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "blacktongue.gif",
+    "treasureClass": "tc78",
     "type": "Champion Sword",
     "name": "Doombringer"
   },
@@ -7361,6 +7724,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "thepatriarch.gif",
+    "treasureClass": "tc87",
     "type": "Colossus Blade",
     "name": "The Grandfather"
   },
@@ -7383,6 +7747,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "throwingknife.gif",
+    "treasureClass": "tc33",
     "type": "Battle Dart",
     "name": "Deathbit"
   },
@@ -7406,6 +7771,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "throwingaxe.gif",
+    "treasureClass": "tc36",
     "type": "Francisca",
     "name": "The Scalper"
   },
@@ -7429,6 +7795,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "warshrike.gif",
+    "treasureClass": "tc78",
     "type": "Winged Knife",
     "name": "Warshrike"
   },
@@ -7451,6 +7818,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "gimmershred.gif",
+    "treasureClass": "tc57",
     "type": "Flying Axe",
     "name": "Gimmershred"
   },
@@ -7474,6 +7842,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "balancedaxe.gif",
+    "treasureClass": "tc81",
     "type": "Winged Axe",
     "name": "Lacerator"
   },
@@ -7494,6 +7863,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "irostorch.gif",
+    "treasureClass": "tc3",
     "type": "Wand",
     "name": "Torch of Iro"
   },
@@ -7516,6 +7886,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "maelstromwrath.gif",
+    "treasureClass": "tc12",
     "type": "Yew Wand",
     "name": "Maelstrom"
   },
@@ -7536,6 +7907,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "gravenspine.gif",
+    "treasureClass": "tc18",
     "type": "Bone Wand",
     "name": "Gravenspine"
   },
@@ -7556,6 +7928,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "grimwand.gif",
+    "treasureClass": "tc27",
     "type": "Grim Wand",
     "name": "Ume's Lament"
   },
@@ -7577,6 +7950,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "wand.gif",
+    "treasureClass": "tc33",
     "type": "Burnt Wand",
     "name": "Suicide Branch"
   },
@@ -7599,6 +7973,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "maelstromwrath.gif",
+    "treasureClass": "tc39",
     "type": "Petrified Wand",
     "name": "Carin Shard"
   },
@@ -7624,6 +7999,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "gravenspine.gif",
+    "treasureClass": "tc45",
     "type": "Tomb Wand",
     "name": "Arm of King Leoric"
   },
@@ -7647,6 +8023,7 @@
       "(Only Spawns In Patch 1.09 or later)"
     ],
     "image": "blackhandkey.gif",
+    "treasureClass": "tc51",
     "type": "Grave Wand",
     "name": "Blackhand Key"
   },
@@ -7669,6 +8046,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "gravenspine.gif",
+    "treasureClass": "tc75",
     "type": "Lich Wand",
     "name": "Boneshade"
   },
@@ -7689,6 +8067,7 @@
       "(Only Spawns In Patch 1.10 or later)"
     ],
     "image": "deathsweb.gif",
+    "treasureClass": "tc87",
     "type": "Unearthed Wand",
     "name": "Death's Web"
   },
@@ -7709,6 +8088,7 @@
     "setName": "Angelic Raiment",
     "classType": "",
     "image": "angelicmantle.gif",
+    "treasureClass": "tc12",
     "type": "Ring Mail"
   },
   {
@@ -7730,6 +8110,7 @@
     "setName": "Angelic Raiment",
     "classType": "",
     "image": "angelicsickle.gif",
+    "treasureClass": "tc9",
     "type": "Sabre"
   },
   {
@@ -7745,6 +8126,7 @@
     "setName": "Angelic Raiment",
     "classType": "",
     "image": "ring2.gif",
+    "treasureClass": "",
     "type": "Ring"
   },
   {
@@ -7760,6 +8142,7 @@
     "setName": "Angelic Raiment",
     "classType": "",
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -7779,6 +8162,7 @@
     "setName": "Arcanna's Tricks",
     "classType": "",
     "image": "arcannashead.gif",
+    "treasureClass": "tc6",
     "type": "Skull Cap"
   },
   {
@@ -7798,6 +8182,7 @@
     "setName": "Arcanna's Tricks",
     "classType": "",
     "image": "arcannasflesh.gif",
+    "treasureClass": "tc36",
     "type": "Light Plate"
   },
   {
@@ -7817,6 +8202,7 @@
     "setName": "Arcanna's Tricks",
     "classType": "",
     "image": "arcannasdeathwand.gif",
+    "treasureClass": "tc24",
     "type": "War Staff"
   },
   {
@@ -7832,6 +8218,7 @@
     "setName": "Arcanna's Tricks",
     "classType": "",
     "image": "amu3.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -7851,6 +8238,7 @@
     "setName": "Arctic Gear",
     "classType": "",
     "image": "arcticfurs.gif",
+    "treasureClass": "tc3",
     "type": "Quilted Armor"
   },
   {
@@ -7868,6 +8256,7 @@
     "setName": "Arctic Gear",
     "classType": "",
     "image": "arcticbinding.gif",
+    "treasureClass": "tc9",
     "type": "Light Belt"
   },
   {
@@ -7886,6 +8275,7 @@
     "setName": "Arctic Gear",
     "classType": "",
     "image": "arcticmitts.gif",
+    "treasureClass": "tc21",
     "type": "Light Gauntlets"
   },
   {
@@ -7905,6 +8295,7 @@
     "setName": "Arctic Gear",
     "classType": "",
     "image": "arctichorn.gif",
+    "treasureClass": "tc27",
     "type": "Short War Bow"
   },
   {
@@ -7922,6 +8313,7 @@
     "setName": "Berserker's Arsenal",
     "classType": "",
     "image": "berserkerheadgear.gif",
+    "treasureClass": "tc12",
     "type": "Helm"
   },
   {
@@ -7940,6 +8332,7 @@
     "setName": "Berserker's Arsenal",
     "classType": "",
     "image": "berserkerhauberk.gif",
+    "treasureClass": "tc21",
     "type": "Splint Mail"
   },
   {
@@ -7959,6 +8352,7 @@
     "setName": "Berserker's Arsenal",
     "classType": "",
     "image": "berserkerhatchet.gif",
+    "treasureClass": "tc15",
     "type": "Double Axe"
   },
   {
@@ -7977,6 +8371,7 @@
     "setName": "Cathan's Traps",
     "classType": "",
     "image": "mask.gif",
+    "treasureClass": "tc21",
     "type": "Mask"
   },
   {
@@ -7995,6 +8390,7 @@
     "setName": "Cathan's Traps",
     "classType": "",
     "image": "cathansmesh.gif",
+    "treasureClass": "tc15",
     "type": "Chain Mail"
   },
   {
@@ -8014,6 +8410,7 @@
     "setName": "Cathan's Traps",
     "classType": "",
     "image": "cathansrule.gif",
+    "treasureClass": "tc18",
     "type": "Battle Staff"
   },
   {
@@ -8029,6 +8426,7 @@
     "setName": "Cathan's Traps",
     "classType": "",
     "image": "amu1.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -8043,6 +8441,7 @@
     "setName": "Cathan's Traps",
     "classType": "",
     "image": "ring4.gif",
+    "treasureClass": "",
     "type": "Ring"
   },
   {
@@ -8062,6 +8461,7 @@
     "setName": "Civerb's Vestments",
     "classType": "",
     "image": "grandscepter.gif",
+    "treasureClass": "tc15",
     "type": "Grand Scepter"
   },
   {
@@ -8077,6 +8477,7 @@
     "setName": "Civerb's Vestments",
     "classType": "",
     "image": "amu1.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -8097,6 +8498,7 @@
     "setName": "Civerb's Vestments",
     "classType": "",
     "image": "civerbsward.gif",
+    "treasureClass": "tc12",
     "type": "Large Shield"
   },
   {
@@ -8117,6 +8519,7 @@
     "setName": "Cleglaw's Brace",
     "classType": "",
     "image": "cleglawstooth.gif",
+    "treasureClass": "tc21",
     "type": "Long Sword"
   },
   {
@@ -8134,6 +8537,7 @@
     "setName": "Cleglaw's Brace",
     "classType": "",
     "image": "cleglawspincers.gif",
+    "treasureClass": "tc12",
     "type": "Chain Gloves"
   },
   {
@@ -8153,6 +8557,7 @@
     "setName": "Cleglaw's Brace",
     "classType": "",
     "image": "cleglawsclaw.gif",
+    "treasureClass": "tc6",
     "type": "Small Shield"
   },
   {
@@ -8172,6 +8577,7 @@
     "setName": "Death's Disguise",
     "classType": "",
     "image": "deathstouch.gif",
+    "treasureClass": "tc27",
     "type": "War Sword"
   },
   {
@@ -8188,6 +8594,7 @@
     "setName": "Death's Disguise",
     "classType": "",
     "image": "deathshand.gif",
+    "treasureClass": "tc3",
     "type": "Leather Gloves"
   },
   {
@@ -8205,6 +8612,7 @@
     "setName": "Death's Disguise",
     "classType": "",
     "image": "deathsguard.gif",
+    "treasureClass": "tc3",
     "type": "Sash"
   },
   {
@@ -8225,6 +8633,7 @@
     "setName": "Hsarus' Defense",
     "classType": "",
     "image": "hsarusironfist.gif",
+    "treasureClass": "tc3",
     "type": "Buckler"
   },
   {
@@ -8244,6 +8653,7 @@
     "setName": "Hsarus' Defense",
     "classType": "",
     "image": "hsarusironstay.gif",
+    "treasureClass": "tc12",
     "type": "Belt"
   },
   {
@@ -8262,6 +8672,7 @@
     "setName": "Hsarus' Defense",
     "classType": "",
     "image": "hsarusironwheel.gif",
+    "treasureClass": "tc12",
     "type": ""
   },
   {
@@ -8279,6 +8690,7 @@
     "setName": "Infernal Tools",
     "classType": "",
     "image": "infernalcranium.gif",
+    "treasureClass": "tc3",
     "type": "Cap"
   },
   {
@@ -8298,6 +8710,7 @@
     "setName": "Infernal Tools",
     "classType": "",
     "image": "infernalbuckle.gif",
+    "treasureClass": "tc21",
     "type": "Heavy Belt"
   },
   {
@@ -8316,6 +8729,7 @@
     "setName": "Infernal Tools",
     "classType": "",
     "image": "grimwand.gif",
+    "treasureClass": "tc27",
     "type": "Grim Wand"
   },
   {
@@ -8334,6 +8748,7 @@
     "setName": "Iratha's Finery",
     "classType": "",
     "image": "irathascoil.gif",
+    "treasureClass": "tc30",
     "type": "Crown"
   },
   {
@@ -8348,6 +8763,7 @@
     "setName": "Iratha's Finery",
     "classType": "",
     "image": "amu1.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -8366,6 +8782,7 @@
     "setName": "Iratha's Finery",
     "classType": "",
     "image": "irathascord.gif",
+    "treasureClass": "tc21",
     "type": "Heavy Belt"
   },
   {
@@ -8383,6 +8800,7 @@
     "setName": "Iratha's Finery",
     "classType": "",
     "image": "irathascuff.gif",
+    "treasureClass": "tc21",
     "type": "Light Gauntlets"
   },
   {
@@ -8401,6 +8819,7 @@
     "setName": "Isenhart's Armory",
     "classType": "",
     "image": "isenhartslightbrand.gif",
+    "treasureClass": "tc15",
     "type": "Broad Sword"
   },
   {
@@ -8418,6 +8837,7 @@
     "setName": "Isenhart's Armory",
     "classType": "",
     "image": "isenhartshorns.gif",
+    "treasureClass": "tc15",
     "type": "Full Helm"
   },
   {
@@ -8436,6 +8856,7 @@
     "setName": "Isenhart's Armory",
     "classType": "",
     "image": "isenhartscase.gif",
+    "treasureClass": "tc18",
     "type": "Breast Plate"
   },
   {
@@ -8455,6 +8876,7 @@
     "setName": "Isenhart's Armory",
     "classType": "",
     "image": "isenhartsparry.gif",
+    "treasureClass": "tc30",
     "type": "Gothic Shield"
   },
   {
@@ -8472,6 +8894,7 @@
     "setName": "Milabrega's Regalia",
     "classType": "",
     "image": "milabregasdiadem.gif",
+    "treasureClass": "tc30",
     "type": "Crown"
   },
   {
@@ -8490,6 +8913,7 @@
     "setName": "Milabrega's Regalia",
     "classType": "",
     "image": "milabregasrobe.gif",
+    "treasureClass": "tc42",
     "type": "Ancient Armor"
   },
   {
@@ -8511,6 +8935,7 @@
     "setName": "Milabrega's Regalia",
     "classType": "",
     "image": "milabregasorb.gif",
+    "treasureClass": "tc15",
     "type": "Kite Shield"
   },
   {
@@ -8530,6 +8955,7 @@
     "setName": "Milabrega's Regalia",
     "classType": "",
     "image": "warscepter.gif",
+    "treasureClass": "tc21",
     "type": "War Scepter"
   },
   {
@@ -8547,6 +8973,7 @@
     "setName": "Sigon's Complete Steel",
     "classType": "",
     "image": "sigonsvisor.gif",
+    "treasureClass": "tc24",
     "type": "Great Helm"
   },
   {
@@ -8564,6 +8991,7 @@
     "setName": "Sigon's Complete Steel",
     "classType": "",
     "image": "sigonsshelter.gif",
+    "treasureClass": "tc33",
     "type": "Gothic Plate"
   },
   {
@@ -8583,6 +9011,7 @@
     "setName": "Sigon's Complete Steel",
     "classType": "",
     "image": "sigonsgreaves.gif",
+    "treasureClass": "tc27",
     "type": "Greaves"
   },
   {
@@ -8601,6 +9030,7 @@
     "setName": "Sigon's Complete Steel",
     "classType": "",
     "image": "sigonsguard.gif",
+    "treasureClass": "tc24",
     "type": "Tower Shield"
   },
   {
@@ -8620,6 +9050,7 @@
     "setName": "Sigon's Complete Steel",
     "classType": "",
     "image": "sigonswrap.gif",
+    "treasureClass": "tc27",
     "type": "Plated Belt"
   },
   {
@@ -8637,6 +9068,7 @@
     "setName": "Sigon's Complete Steel",
     "classType": "",
     "image": "sigonsgauntlets.gif",
+    "treasureClass": "tc27",
     "type": "Gauntlets"
   },
   {
@@ -8654,6 +9086,7 @@
     "setName": "Tancred's Battlegear",
     "classType": "",
     "image": "tancredsskull.gif",
+    "treasureClass": "tc24",
     "type": "Bone Helm"
   },
   {
@@ -8672,6 +9105,7 @@
     "setName": "Tancred's Battlegear",
     "classType": "",
     "image": "tancredsspine.gif",
+    "treasureClass": "tc39",
     "type": "Full Plate Mail"
   },
   {
@@ -8690,6 +9124,7 @@
     "setName": "Tancred's Battlegear",
     "classType": "",
     "image": "tancredshobnails.gif",
+    "treasureClass": "tc3",
     "type": "Boots"
   },
   {
@@ -8710,6 +9145,7 @@
     "setName": "Tancred's Battlegear",
     "classType": "",
     "image": "tancredscrowbill.gif",
+    "treasureClass": "tc21",
     "type": "Military Pick"
   },
   {
@@ -8725,6 +9161,7 @@
     "setName": "Tancred's Battlegear",
     "classType": "",
     "image": "amu3.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -8742,6 +9179,7 @@
     "setName": "Vidala's Rig",
     "classType": "",
     "image": "vidalasbarb.gif",
+    "treasureClass": "tc24",
     "type": "Long Battle Bow"
   },
   {
@@ -8761,6 +9199,7 @@
     "setName": "Vidala's Rig",
     "classType": "",
     "image": "vidalasambush.gif",
+    "treasureClass": "tc3",
     "type": "Leather Armor"
   },
   {
@@ -8779,6 +9218,7 @@
     "setName": "Vidala's Rig",
     "classType": "",
     "image": "vidalasfetlock.gif",
+    "treasureClass": "tc21",
     "type": "Light Plated Boots"
   },
   {
@@ -8793,6 +9233,7 @@
     "setName": "Vidala's Rig",
     "classType": "",
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -8817,6 +9258,7 @@
     "setName": "Aldur's Watchtower",
     "classType": "",
     "image": "aldursstoneygaze.gif",
+    "treasureClass": "tc48",
     "type": "Hunter's Guise"
   },
   {
@@ -8841,6 +9283,7 @@
     "setName": "Aldur's Watchtower",
     "classType": "",
     "image": "aldursadvance.gif",
+    "treasureClass": "tc51",
     "type": "Battle Boots"
   },
   {
@@ -8865,6 +9308,7 @@
     "setName": "Aldur's Watchtower",
     "classType": "",
     "image": "aldursdeception.gif",
+    "treasureClass": "tc84",
     "type": "Shadow Plate"
   },
   {
@@ -8891,6 +9335,7 @@
     "setName": "Aldur's Watchtower",
     "classType": "",
     "image": "aldursrythm.gif",
+    "treasureClass": "tc39",
     "type": "Jagged Star"
   },
   {
@@ -8913,6 +9358,7 @@
     "setName": "Bul-Kathos' Children",
     "classType": "",
     "image": "bulkathossacredcharge.gif",
+    "treasureClass": "tc87",
     "type": "Colossus Blade"
   },
   {
@@ -8934,6 +9380,7 @@
     "setName": "Bul-Kathos' Children",
     "classType": "",
     "image": "bulkathostribalguardian.gif",
+    "treasureClass": "tc87",
     "type": "Mythical Sword"
   },
   {
@@ -8952,6 +9399,7 @@
     "setName": "Cow King's Leathers",
     "classType": "",
     "image": "cap.gif",
+    "treasureClass": "tc36",
     "type": "War Hat"
   },
   {
@@ -8970,6 +9418,7 @@
     "setName": "Cow King's Leathers",
     "classType": "",
     "image": "studdedleather.gif",
+    "treasureClass": "tc9",
     "type": "Studded Leather"
   },
   {
@@ -8990,6 +9439,7 @@
     "setName": "Cow King's Leathers",
     "classType": "",
     "image": "heavyboots.gif",
+    "treasureClass": "tc9",
     "type": "Heavy Boots"
   },
   {
@@ -9005,6 +9455,7 @@
     "setName": "The Disciple",
     "classType": "",
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -9024,6 +9475,7 @@
     "setName": "The Disciple",
     "classType": "",
     "image": "layingofhands.gif",
+    "treasureClass": "tc57",
     "type": "Bramble Mitts"
   },
   {
@@ -9042,6 +9494,7 @@
     "setName": "The Disciple",
     "classType": "",
     "image": "darkadherent.gif",
+    "treasureClass": "tc66",
     "type": "Dusk Shroud"
   },
   {
@@ -9061,6 +9514,7 @@
     "setName": "The Disciple",
     "classType": "",
     "image": "riteofpassage.gif",
+    "treasureClass": "tc36",
     "type": "Demonhide Boots"
   },
   {
@@ -9080,6 +9534,7 @@
     "setName": "The Disciple",
     "classType": "",
     "image": "credendum.gif",
+    "treasureClass": "tc75",
     "type": "Mithril Coil"
   },
   {
@@ -9099,6 +9554,7 @@
     "setName": "Griswold's Legacy",
     "classType": "",
     "image": "griswoldsheart.gif",
+    "treasureClass": "tc66",
     "type": "Ornate Plate"
   },
   {
@@ -9120,6 +9576,7 @@
     "setName": "Griswold's Legacy",
     "classType": "",
     "image": "griswoldsvalor.gif",
+    "treasureClass": "tc87",
     "type": "Corona"
   },
   {
@@ -9146,6 +9603,7 @@
     "setName": "Griswold's Legacy",
     "classType": "",
     "image": "griswoldsredemption.gif",
+    "treasureClass": "tc87",
     "type": "Caduceus"
   },
   {
@@ -9168,6 +9626,7 @@
     "setName": "Griswold's Legacy",
     "classType": "",
     "image": "griswoldshonor.gif",
+    "treasureClass": "tc87",
     "type": "Vortex Shield"
   },
   {
@@ -9187,6 +9646,7 @@
     "setName": "Heaven's Brethren",
     "classType": "",
     "image": "haemosusadament.gif",
+    "treasureClass": "tc48",
     "type": "Cuirass"
   },
   {
@@ -9208,6 +9668,7 @@
     "setName": "Heaven's Brethren",
     "classType": "",
     "image": "dangoonsteaching.gif",
+    "treasureClass": "tc63",
     "type": "Reinforced Mace"
   },
   {
@@ -9230,6 +9691,7 @@
     "setName": "Heaven's Brethren",
     "classType": "",
     "image": "taebaeksglory.gif",
+    "treasureClass": "tc84",
     "type": "Ward"
   },
   {
@@ -9250,6 +9712,7 @@
     "setName": "Heaven's Brethren",
     "classType": "",
     "image": "ondalsalmighty.gif",
+    "treasureClass": "tc81",
     "type": "Spired Helm"
   },
   {
@@ -9268,6 +9731,7 @@
     "setName": "Hwanin's Majesty",
     "classType": "",
     "image": "hwaninssplendor.gif",
+    "treasureClass": "tc57",
     "type": "Grand Crown"
   },
   {
@@ -9288,6 +9752,7 @@
     "setName": "Hwanin's Majesty",
     "classType": "",
     "image": "voulge.gif",
+    "treasureClass": "tc39",
     "type": "Bill"
   },
   {
@@ -9306,6 +9771,7 @@
     "setName": "Hwanin's Majesty",
     "classType": "",
     "image": "scalemail.gif",
+    "treasureClass": "tc45",
     "type": "Tigulated Mail"
   },
   {
@@ -9325,6 +9791,7 @@
     "setName": "Hwanin's Majesty",
     "classType": "",
     "image": "hwaninsblessing.gif",
+    "treasureClass": "tc12",
     "type": "Belt"
   },
   {
@@ -9346,6 +9813,7 @@
     "setName": "Immortal King",
     "classType": "",
     "image": "immortalwill.gif",
+    "treasureClass": "tc24",
     "type": "Avenger Guard"
   },
   {
@@ -9372,6 +9840,7 @@
     "setName": "Immortal King",
     "classType": "",
     "image": "maul.gif",
+    "treasureClass": "tc69",
     "type": "Ogre Maul"
   },
   {
@@ -9396,6 +9865,7 @@
     "setName": "Immortal King",
     "classType": "",
     "image": "immortalsoulcage.gif",
+    "treasureClass": "tc87",
     "type": "Sacred Armor"
   },
   {
@@ -9422,6 +9892,7 @@
     "setName": "Immortal King",
     "classType": "",
     "image": "girdle.gif",
+    "treasureClass": "tc54",
     "type": "War Belt"
   },
   {
@@ -9446,6 +9917,7 @@
     "setName": "Immortal King",
     "classType": "",
     "image": "gauntlets.gif",
+    "treasureClass": "tc54",
     "type": "War Gauntlets"
   },
   {
@@ -9470,6 +9942,7 @@
     "setName": "Immortal King",
     "classType": "",
     "image": "plateboots.gif",
+    "treasureClass": "tc54",
     "type": "War Boots"
   },
   {
@@ -9490,6 +9963,7 @@
     "setName": "M'avina's Battle Hymn",
     "classType": "",
     "image": "mavinastruesight.gif",
+    "treasureClass": "tc87",
     "type": "Diadem"
   },
   {
@@ -9513,6 +9987,7 @@
     "setName": "M'avina's Battle Hymn",
     "classType": "",
     "image": "mavinascaster.gif",
+    "treasureClass": "tc78",
     "type": "Grand Matron Bow"
   },
   {
@@ -9534,6 +10009,7 @@
     "setName": "M'avina's Battle Hymn",
     "classType": "",
     "image": "mavinasembrace.gif",
+    "treasureClass": "tc81",
     "type": "Kraken Shell"
   },
   {
@@ -9556,6 +10032,7 @@
     "setName": "M'avina's Battle Hymn",
     "classType": "",
     "image": "mavinasicyclutch.gif",
+    "treasureClass": "tc51",
     "type": "Battle Gauntlets"
   },
   {
@@ -9576,6 +10053,7 @@
     "setName": "M'avina's Battle Hymn",
     "classType": "",
     "image": "mavinastenet.gif",
+    "treasureClass": "tc39",
     "type": "Sharkskin Belt"
   },
   {
@@ -9595,6 +10073,7 @@
     "setName": "Natalya's Odium",
     "classType": "",
     "image": "natalyastotem.gif",
+    "treasureClass": "tc51",
     "type": "Grim Helm"
   },
   {
@@ -9619,6 +10098,7 @@
     "setName": "Natalya's Odium",
     "classType": "",
     "image": "natalyasmark.gif",
+    "treasureClass": "tc87",
     "type": "Scissors Suwayyah"
   },
   {
@@ -9639,6 +10119,7 @@
     "setName": "Natalya's Odium",
     "classType": "",
     "image": "natalyasshadow.gif",
+    "treasureClass": "tc75",
     "type": "Loricated Mail"
   },
   {
@@ -9659,6 +10140,7 @@
     "setName": "Natalya's Odium",
     "classType": "",
     "image": "natalyassoul.gif",
+    "treasureClass": "tc45",
     "type": "Mesh Boots"
   },
   {
@@ -9677,6 +10159,7 @@
     "setName": "Naj's Ancient Vestige",
     "classType": "",
     "image": "najscirclet.gif",
+    "treasureClass": "tc24",
     "type": "Circlet"
   },
   {
@@ -9697,6 +10180,7 @@
     "setName": "Naj's Ancient Vestige",
     "classType": "",
     "image": "platemail.gif",
+    "treasureClass": "tc78",
     "type": "Hellforge Plate"
   },
   {
@@ -9721,6 +10205,7 @@
     "setName": "Naj's Ancient Vestige",
     "classType": "",
     "image": "lazarusspire.gif",
+    "treasureClass": "tc75",
     "type": "Elder Staff"
   },
   {
@@ -9740,6 +10225,7 @@
     "setName": "Orphan's Call",
     "classType": "",
     "image": "guillaumesface.gif",
+    "treasureClass": "tc51",
     "type": "Winged Helm"
   },
   {
@@ -9761,6 +10247,7 @@
     "setName": "Orphan's Call",
     "classType": "",
     "image": "whitstansguard.gif",
+    "treasureClass": "tc39",
     "type": "Round Shield"
   },
   {
@@ -9780,6 +10267,7 @@
     "setName": "Orphan's Call",
     "classType": "",
     "image": "magnusskin.gif",
+    "treasureClass": "tc39",
     "type": "Sharkskin Gloves"
   },
   {
@@ -9799,6 +10287,7 @@
     "setName": "Orphan's Call",
     "classType": "",
     "image": "wilhelmspride.gif",
+    "treasureClass": "tc51",
     "type": "Battle Belt"
   },
   {
@@ -9815,6 +10304,7 @@
     "setName": "Sander's Folly",
     "classType": "",
     "image": "sandersparagon.gif",
+    "treasureClass": "tc3",
     "type": "Cap"
   },
   {
@@ -9835,6 +10325,7 @@
     "setName": "Sander's Folly",
     "classType": "",
     "image": "sanderssuperstition.gif",
+    "treasureClass": "tc18",
     "type": "Bone Wand"
   },
   {
@@ -9852,6 +10343,7 @@
     "setName": "Sander's Folly",
     "classType": "",
     "image": "sanderstaboo.gif",
+    "treasureClass": "tc9",
     "type": "Heavy Gloves"
   },
   {
@@ -9871,6 +10363,7 @@
     "setName": "Sander's Folly",
     "classType": "",
     "image": "sandersriprap.gif",
+    "treasureClass": "tc9",
     "type": "Heavy Boots"
   },
   {
@@ -9889,6 +10382,7 @@
     "setName": "Sazabi's Grand Tribute",
     "classType": "",
     "image": "sazabismentalsheath.gif",
+    "treasureClass": "tc45",
     "type": "Basinet"
   },
   {
@@ -9911,6 +10405,7 @@
     "setName": "Sazabi's Grand Tribute",
     "classType": "",
     "image": "sazabiscobaltredeemer.gif",
+    "treasureClass": "tc84",
     "type": "Cryptic Sword"
   },
   {
@@ -9930,6 +10425,7 @@
     "setName": "Sazabi's Grand Tribute",
     "classType": "",
     "image": "sazabisghostliberator.gif",
+    "treasureClass": "tc78",
     "type": "Balrog Skin"
   },
   {
@@ -9956,6 +10452,7 @@
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
     "image": "talrashaslidlesseye.gif",
+    "treasureClass": "tc51",
     "type": "Swirling Crystal"
   },
   {
@@ -9976,6 +10473,7 @@
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
     "image": "mask.gif",
+    "treasureClass": "tc48",
     "type": "Death Mask"
   },
   {
@@ -9998,6 +10496,7 @@
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
     "image": "talrashasguardianship.gif",
+    "treasureClass": "tc84",
     "type": "Lacquered Plate"
   },
   {
@@ -10021,6 +10520,7 @@
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
     "image": "talrashasfine-spuncloth.gif",
+    "treasureClass": "tc45",
     "type": "Mesh Belt"
   },
   {
@@ -10038,6 +10538,7 @@
     "setName": "Tal Rasha's Wrappings",
     "classType": "",
     "image": "amu2.gif",
+    "treasureClass": "",
     "type": "Amulet"
   },
   {
@@ -10057,6 +10558,7 @@
     "setName": "Trang-Oul's Avatar",
     "classType": "",
     "image": "trang-oulsguise.gif",
+    "treasureClass": "tc84",
     "type": "Bone Visage"
   },
   {
@@ -10079,6 +10581,7 @@
     "setName": "Trang-Oul's Avatar",
     "classType": "",
     "image": "trang-oulsscales.gif",
+    "treasureClass": "tc63",
     "type": "Chaos Armor"
   },
   {
@@ -10104,6 +10607,7 @@
     "setName": "Trang-Oul's Avatar",
     "classType": "",
     "image": "trang-oulswing.gif",
+    "treasureClass": "tc51",
     "type": "Cantor Trophy"
   },
   {
@@ -10127,6 +10631,7 @@
     "setName": "Trang-Oul's Avatar",
     "classType": "",
     "image": "trang-oulsgirth.gif",
+    "treasureClass": "tc84",
     "type": "Troll Belt"
   },
   {
@@ -10146,6 +10651,7 @@
     "setName": "Trang-Oul's Avatar",
     "classType": "",
     "image": "trang-oulsclaws.gif",
+    "treasureClass": "tc45",
     "type": "Heavy Bracers"
   }
 ]
