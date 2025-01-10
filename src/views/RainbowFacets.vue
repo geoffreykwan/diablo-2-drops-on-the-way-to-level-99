@@ -14,7 +14,7 @@
           <span>Required Level: 49</span>
         </li>
         <li class="stat-line align-left">
-          <font color="4850B8">100% Chance To Cast Level X When you (Die/Level)</font>
+          <font color="4850B8">100% Chance To Cast Level X Y When you (Die/Level)</font>
         </li>
         <li class="stat-line align-left">
           <font color="4850B8">Adds X Damage</font>
