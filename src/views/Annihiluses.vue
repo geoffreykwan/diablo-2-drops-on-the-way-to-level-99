@@ -9,9 +9,15 @@
     </div>
   </div>
   Sort By
-  <button @click="sortByAttributes">+ All Attributes</button>
-  <button @click="sortByResistances">+ All Resistances</button>
-  <button @click="sortByExperience">+ Experience Gain</button>
+  <button @click="sortByAttributes" :class="{ 'active-button': sortBy == 'attributes' }">
+    + All Attributes
+  </button>
+  <button @click="sortByResistances" :class="{ 'active-button': sortBy == 'resistances' }">
+    + All Resistances
+  </button>
+  <button @click="sortByExperience" :class="{ 'active-button': sortBy == 'experience' }">
+    + Experience Gain
+  </button>
   <div class="annihilus-row">
     <div>+ All Attributes</div>
     <div>+ All Resistances</div>
@@ -41,7 +47,8 @@ export default {
   data() {
     return {
       annihiluses: annihiluses,
-      annihilusUnique: uniques.find(unique => unique.name === 'Annihilus')
+      annihilusUnique: uniques.find(unique => unique.name === 'Annihilus'),
+      sortBy: ''
     }
   },
   mounted() {
@@ -60,6 +67,7 @@ export default {
           return b.attributes - a.attributes
         }
       })
+      this.sortBy = 'attributes'
     },
     sortByResistances() {
       this.annihiluses.sort((a, b) => {
@@ -73,6 +81,7 @@ export default {
           return b.resistances - a.resistances
         }
       })
+      this.sortBy = 'resistances'
     },
     sortByExperience() {
       this.annihiluses.sort((a, b) => {
@@ -86,6 +95,7 @@ export default {
           return b.experience - a.experience
         }
       })
+      this.sortBy = 'experience'
     },
   }
 }
