@@ -32,9 +32,15 @@
     </div>
   </div>
   Sort By
-  <button @click="sortByElement">Element</button>
-  <button @click="sortBySkillDamage">+% Skill Damage</button>
-  <button @click="sortByEnemyResistance">+% Enemy Resistance</button>
+  <button @click="sortByElement" :class="{ 'active-button': sortBy == 'element' }">
+    Element
+  </button>
+  <button @click="sortBySkillDamage" :class="{ 'active-button': sortBy == 'skillDamage' }">
+    +% Skill Damage
+  </button>
+  <button @click="sortByEnemyResistance" :class="{ 'active-button': sortBy == 'enemyResistance' }">
+    +% Enemy Resistance
+  </button>
   <div class="rainbow-facet-row">
     <div>Element</div>
     <div>+% Skill Damage</div>
@@ -59,6 +65,7 @@ export default {
   data() {
     return {
       rainbowFacets: rainbowFacets,
+      sortBy: ''
     }
   },
   mounted() {
@@ -77,6 +84,7 @@ export default {
           return a.element.localeCompare(b.element)
         }
       })
+      this.sortBy = 'element'
     },
     sortBySkillDamage() {
       this.rainbowFacets.sort((a, b) => {
@@ -90,6 +98,7 @@ export default {
           return b.skillDamage - a.skillDamage
         }
       })
+      this.sortBy = 'skillDamage'
     },
     sortByEnemyResistance() {
       this.rainbowFacets.sort((a, b) => {
@@ -103,6 +112,7 @@ export default {
           return b.enemyResistance - a.enemyResistance
         }
       })
+      this.sortBy = 'enemyResistance'
     },
   }
 }
