@@ -1,13 +1,13 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import Drops from '../views/Drops.vue';
-import HellfireTorches from '../views/HellfireTorches.vue';
-import Annihiluses from '../views/Annihiluses.vue';
-import GheedsFortunes from '../views/GheedsFortunes.vue';
-import RainbowFacets from '../views/RainbowFacets.vue';
-import PlusSkillGrandCharms from '../views/PlusSkillGrandCharms.vue';
-import LowerKurastDrops from '../views/LowerKurastDrops.vue';
-import Character from '../views/Character.vue';
-import About from '../views/About.vue';
+import Drops from '@/views/Drops.vue';
+import HellfireTorches from '@/views/HellfireTorches.vue';
+import Annihiluses from '@/views/Annihiluses.vue';
+import GheedsFortunes from '@/views/GheedsFortunes.vue';
+import RainbowFacets from '@/views/RainbowFacets.vue';
+import PlusSkillGrandCharms from '@/views/PlusSkillGrandCharms.vue';
+import LowerKurastDrops from '@/views/LowerKurastDrops.vue';
+import Character from '@/views/Character.vue';
+import About from '@/views/About.vue';
 
 const routes = [
   { path: '/', redirect: '/drops' },
