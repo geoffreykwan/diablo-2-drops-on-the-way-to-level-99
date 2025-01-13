@@ -3,7 +3,7 @@
   <div class="align-center">
     <div class="grid-container-2">
       <div class="align-center">
-        <Item :item="annihilusUnique" :showStats="true" />
+        <Item :item="annihilusUnique" :showAttributes="true" />
       </div>
       <ItemStats :item="annihilusUnique" />
     </div>

@@ -4,28 +4,28 @@
     <div class="grid-container-2">
       <div class="align-center">
         <div>
-          <li class="stat-line"><img :src="'../src/assets/items/jewel06.gif'" /></li>
-          <li class="stat-line">Rainbow Facet</li>
-          <li class="stat-line">Jewel</li>
+          <li class="attribute-line"><img :src="'../src/assets/items/jewel06.gif'" /></li>
+          <li class="attribute-line">Rainbow Facet</li>
+          <li class="attribute-line">Jewel</li>
         </div>
       </div>
       <div>
-        <li class="stat-line align-left">
+        <li class="attribute-line align-left">
           <span>Required Level: 49</span>
         </li>
-        <li class="stat-line align-left">
-          <font color="4850B8">100% Chance To Cast Level X Y When you (Die/Level)</font>
+        <li class="attribute-line align-left">
+          <font color="#4850B8">100% Chance To Cast Level X Y When you (Die/Level)</font>
         </li>
-        <li class="stat-line align-left">
-          <font color="4850B8">Adds X Damage</font>
+        <li class="attribute-line align-left">
+          <font color="#4850B8">Adds X Damage</font>
         </li>
-        <li class="stat-line align-left">
-          <font color="4850B8">+3-5% To (Element) Skill Damage</font> (varies)
+        <li class="attribute-line align-left">
+          <font color="#4850B8">+3-5% To (Element) Skill Damage</font> (varies)
         </li>
-        <li class="stat-line align-left">
-          <font color="4850B8">-(3-5)% To Enemy (Element) Resistance</font> (varies)
+        <li class="attribute-line align-left">
+          <font color="#4850B8">-(3-5)% To Enemy (Element) Resistance</font> (varies)
         </li>
-        <li class="stat-line align-left">
+        <li class="attribute-line align-left">
           <span>(Only Spawns In Patch 1.10 or later)</span>
         </li>
       </div>

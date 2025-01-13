@@ -4,7 +4,9 @@
     placeholder="Search by name or count, use the | character (vertical bar) to search for multiple things at once" />
   <button @click="searchText = ''; filterDrops()">Clear</button>
   <br />
-  <button @click="toggleStats" :class="{ 'active-button': showStats }">Toggle Stats</button>
+  <button @click="toggleStats" :class="{ 'active-button': showAttributes }">
+    Toggle Item Attributes
+  </button>
   Sort By
   <button @click="sortAlphabetically" :class="{ 'active-button': sortBy == 'alphabetically' }">
     Name
@@ -15,25 +17,27 @@
   <button @click="sortCountDecreasing" :class="{ 'active-button': sortBy == 'countDecreasing' }">
     Count Decreasing
   </button>
-  <div :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
-    <div :class="{ 'align-left': !showStats, 'align-center': showStats }" @click="sortByName">
+  <div :class="{ 'grid-container-2': !showAttributes, 'grid-container-3': showAttributes }">
+    <div :class="{ 'align-left': !showAttributes, 'align-center': showAttributes }"
+      @click="sortByName">
       Name
     </div>
-    <div v-if="showStats" class="align-left">Stats</div>
-    <div :class="{ 'align-right': !showStats, 'align-center': showStats }" @click="sortByCount">
+    <div v-if="showAttributes" class="align-left">Stats</div>
+    <div :class="{ 'align-right': !showAttributes, 'align-center': showAttributes }"
+      @click="sortByCount">
       Count
     </div>
   </div>
-  <div :class="{ 'items': !showStats, 'items-with-stats': showStats }">
+  <div :class="{ 'items': !showAttributes, 'items-with-stats': showAttributes }">
     <div v-for="item in filteredItems" :key="item.name"
-      :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
-      <div :class="{ 'align-left': !showStats, 'align-center': showStats }">
-        <Item :item="item" :showStats="showStats" />
+      :class="{ 'grid-container-2': !showAttributes, 'grid-container-3': showAttributes }">
+      <div :class="{ 'align-left': !showAttributes, 'align-center': showAttributes }">
+        <Item :item="item" :showAttributes="showAttributes" />
       </div>
-      <div v-if="showStats">
+      <div v-if="showAttributes">
         <ItemStats :item="item" />
       </div>
-      <div :class="{ 'align-right': !showStats, 'align-center': showStats }">
+      <div :class="{ 'align-right': !showAttributes, 'align-center': showAttributes }">
         {{ dropCounts[item.name] ?? 0 }}
       </div>
     </div>
@@ -66,7 +70,7 @@ export default {
       runes: runes,
       searchText: '',
       setBonuses: setBonuses,
-      showStats: false,
+      showAttributes: false,
       sortBy: '',
       uniques: uniques,
     }
@@ -76,7 +80,7 @@ export default {
   },
   methods: {
     toggleStats() {
-      this.showStats = !this.showStats
+      this.showAttributes = !this.showAttributes
     },
     filterDrops() {
       const searchTexts = this.searchText.split('|');
