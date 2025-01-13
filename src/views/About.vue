@@ -7,6 +7,9 @@
       {{ answerLine }}
     </div>
     <div v-else class="answer">{{ info.answer }}</div>
+    <div v-if="info.link != undefined">
+      <a :href="info.link" target="_blank">{{ info.link }}</a>
+    </div>
     <br />
   </div>
 </template>

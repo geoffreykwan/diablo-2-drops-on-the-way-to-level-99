@@ -49,5 +49,10 @@
   {
     "question": "What strategy did you use to gain exp?",
     "answer": "I started by making a classic character and beating Hell in order to avoid completing my Ancients Quests. Then I converted my character to an expansion character and ran Chaos Sanctuary many times. At level 98 I completed Ancients Quests in Normal, Nightmare, and Hell."
+  },
+  {
+    "question": "Do you have any other sites?",
+    "answer": "Yes, a long time ago I made this Diablo 2 search site.",
+    "link": "https://www.ocf.berkeley.edu/~gkwan/d2/search.html"
   }
 ]
