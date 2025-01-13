@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What version of the game were you playing?",
+    "answer": [
+      "Diablo II: Lord of Destruction 1.14d",
+      "PlugY 14.03"
+    ]
+  },
+  {
+    "question": "Were you playing single player or multiplayer?",
+    "answer": "Single player."
+  },
+  {
+    "question": "Was this a softcore or hardcore character?",
+    "answer": "Softcore."
+  },
+  {
+    "question": "How long did it take to go from level 1 to level 99?",
+    "answer": "It took 789 Hours over the span of 15 months which averages out to be about 1.75 hours per day. This includes leveling a Smiter to obtain torches."
+  },
+  {
+    "question": "How long did it take to go from level 98 to level 99?",
+    "answer": "It took 175 hours and about 5000 Chaos Sanctuary runs. Note that I saved my Ancients Quests to complete at level 98, so if you don't do that, it will take longer."
+  },
+  {
+    "question": "How did you keep track of all the drops?",
+    "answer": "Each time a unique, set, or rune dropped, I manually entered it into a spreadsheet."
+  },
+  {
+    "question": "Did you obtain all the holy grail items?",
+    "answer": "No, there were 15 holy grail items I did not obtain."
+  },
+  {
+    "question": "Did you obtain all the runes?",
+    "answer": "Yes."
+  },
+  {
+    "question": "When did you start playing Diablo II?",
+    "answer": "I started playing when it first came out in 2000."
+  },
+  {
+    "question": "Is this the first time you reached level 99?",
+    "answer": "Yes."
+  },
+  {
+    "question": "Will you ever get another character to level 99 in the future?",
+    "answer": "No."
+  },
+  {
+    "question": "How did you get the runes for Infinity?",
+    "answer": "I ran Lower Kurast 3000 times."
+  },
+  {
+    "question": "What strategy did you use to gain exp?",
+    "answer": "I started by making a classic character and beating Hell in order to avoid completing my Ancients Quests. Then I converted my character to an expansion character and ran Chaos Sanctuary many times. At level 98 I completed Ancients Quests in Normal, Nightmare, and Hell."
+  }
+]
