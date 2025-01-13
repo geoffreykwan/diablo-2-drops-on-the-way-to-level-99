@@ -4,21 +4,24 @@
     placeholder="Search by name or count, use the | character (vertical bar) to search for multiple things at once" />
   <button @click="searchText = ''; filterDrops()">Clear</button>
   <br />
-  <button @click="toggleStats">Toggle Stats</button>
+  <button @click="toggleStats" :class="{ 'active-button': showStats }">Toggle Stats</button>
   Sort By
-  <button @click="sortAlphabetically">Name</button>
-  <button @click="sortNumerically">Count Increasing</button>
-  <button @click="sortNumericallyReverse">Count Decreasing</button>
+  <button @click="sortAlphabetically" :class="{ 'active-button': sortBy == 'alphabetically' }">
+    Name
+  </button>
+  <button @click="sortCountIncreasing" :class="{ 'active-button': sortBy == 'countIncreasing' }">
+    Count Increasing
+  </button>
+  <button @click="sortCountDecreasing" :class="{ 'active-button': sortBy == 'countDecreasing' }">
+    Count Decreasing
+  </button>
   <div :class="{ 'grid-container-2': !showStats, 'grid-container-3': showStats }">
-    <div :class="{ 'align-left': !showStats, 'align-center': showStats }" @click="sortByName">Name
-      <!-- <span v-if="nameSortDirection === 'asc'">&uarr;</span>
-      <span v-if="nameSortDirection === 'desc'">&darr;</span> -->
+    <div :class="{ 'align-left': !showStats, 'align-center': showStats }" @click="sortByName">
+      Name
     </div>
     <div v-if="showStats" class="align-left">Stats</div>
     <div :class="{ 'align-right': !showStats, 'align-center': showStats }" @click="sortByCount">
       Count
-      <!-- <span v-if="countSortDirection === 'asc'">&uarr;</span>
-      <span v-if="countSortDirection === 'desc'">&darr;</span> -->
     </div>
   </div>
   <div :class="{ 'items': !showStats, 'items-with-stats': showStats }">
@@ -64,6 +67,7 @@ export default {
       searchText: '',
       setBonuses: setBonuses,
       showStats: false,
+      sortBy: '',
       uniques: uniques,
     }
   },
@@ -92,40 +96,17 @@ export default {
     },
     sortAlphabetically() {
       this.filteredItems.sort((a, b) => a.name.localeCompare(b.name))
-      this.nameSortDirection = 'asc'
-      this.countSortDirection = ''
+      this.sortBy = 'alphabetically'
     },
-    sortNumerically() {
+    sortCountIncreasing() {
       this.sortAlphabetically()
       this.filteredItems.sort((a, b) => (dropCounts[a.name] ?? 0) - (dropCounts[b.name] ?? 0))
-      this.nameSortDirection = '';
-      this.countSortDirection = 'asc'
+      this.sortBy = 'countIncreasing'
     },
-    sortNumericallyReverse() {
+    sortCountDecreasing() {
       this.sortAlphabetically()
       this.filteredItems.sort((a, b) => (dropCounts[b.name] ?? 0) - (dropCounts[a.name] ?? 0))
-      this.nameSortDirection = '';
-      this.countSortDirection = 'desc'
-    },
-    sortByName() {
-      this.countSortDirection = '';
-      if (this.nameSortDirection == 'asc') {
-        this.sortAlphabeticallyReverse()
-        this.nameSortDirection = 'desc'
-      } else {
-        this.sortAlphabetically()
-        this.nameSortDirection = 'asc'
-      }
-    },
-    sortByCount() {
-      this.nameSortDirection = '';
-      if (this.countSortDirection == 'desc') {
-        this.sortNumerically()
-        this.countSortDirection = 'asc'
-      } else {
-        this.sortNumericallyReverse()
-        this.countSortDirection = 'desc'
-      }
+      this.sortBy = 'countDecreasing'
     },
   }
 }
