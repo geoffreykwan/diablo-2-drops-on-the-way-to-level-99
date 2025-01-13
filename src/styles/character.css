@@ -1,7 +1,11 @@
 .gear-row > div:nth-child(odd) {
-    background-color: #20100a;
+  background-color: #20100a;
 }
 
 .gear-row > div:nth-child(even) {
-    background-color: black;
+  background-color: black;
+}
+
+.character-image {
+  max-width: 100%;
 }

@@ -1,0 +1,106 @@
+{
+  "character": [
+    {
+      "slot": "Helm",
+      "gear": "Griffon's Eye (-15 Enemy Lightning Resistance/+13 Lightning Damage, Perfect Topaz)"
+    },
+    {
+      "slot": "Armor",
+      "gear": "Skin of the Vipermagi (30 All Resistances, Perfect Topaz)"
+    },
+    {
+      "slot": "Weapon 1",
+      "gear": "Crescent Moon Runeword in Broad Sword"
+    },
+    {
+      "slot": "Shield 1",
+      "gear": "Spirit Runeword in Monarch Shield (35 Faster Cast Rate)"
+    },
+    {
+      "slot": "Weapon 2",
+      "gear": "Call to Arms Runeword in Crystal Sword (5 Battle Orders)"
+    },
+    {
+      "slot": "Shield 2",
+      "gear": "Spirit Runeword in Monarch Shield (35 Faster Cast Rate)"
+    },
+    {
+      "slot": "Amulet",
+      "gear": "Mara's Kaleidoscope (29 All Resistances)"
+    },
+    {
+      "slot": "Ring 1",
+      "gear": "Stone of Jordan"
+    },
+    {
+      "slot": "Ring 2",
+      "gear": "Rare Ring (10 Faster Cast Rate, 26 Cold Resistance, 10 Lightning Resistance, 10 Fire Resistance, 10 Poison Resistance)"
+    },
+    {
+      "slot": "Gloves",
+      "gear": "Chance Guards (39 Magic Find)"
+    },
+    {
+      "slot": "Belt",
+      "gear": "Arachnid Mesh"
+    },
+    {
+      "slot": "Boots",
+      "gear": "War Traveler (49 Magic Find)"
+    },
+    {
+      "slot": "Unique Small Charm",
+      "gear": "Annihilus (15 All Attributes, 17 All Resistances, 10 Experience)"
+    },
+    {
+      "slot": "Unique Large Charm",
+      "gear": "Hellfire Torch (3 Sorceress Skills, 14 All Attributes, 17 All Resistances)"
+    },
+    {
+      "slot": "Unique Grand Charm",
+      "gear": "Gheed's Fortune (114 Gold Find, 40 Magic Find, 15 Vendor Prices)"
+    },
+    {
+      "slot": "Inventory",
+      "gear": "5x Lightning Skill Grand Charms"
+    }
+  ],
+  "mercenary": [
+    {
+      "slot": "Helm",
+      "gear": "Vampire Gaze (6 Mana Leech, 7 Life Leech, 20 Damage Reduction, 10 Magic Reduction, 15 Increased Attack Speed Jewel)"
+    },
+    {
+      "slot": "Armor",
+      "gear": "Fortitude Runeword in Ethereal Dusk Shroud"
+    },
+    {
+      "slot": "Weapon",
+      "gear": "Infinity Runeword in Ethereal Thresher"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
