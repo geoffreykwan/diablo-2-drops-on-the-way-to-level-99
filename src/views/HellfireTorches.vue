@@ -9,9 +9,15 @@
     </div>
   </div>
   Sort By
-  <button @click="sortByClass">+ 3 Class Skills</button>
-  <button @click="sortByAttributes">+ All Attributes</button>
-  <button @click="sortByResistances">+ All Resistances</button>
+  <button @click="sortByClass" :class="{ 'active-button': sortBy == 'class' }">
+    + 3 Class Skills
+  </button>
+  <button @click="sortByAttributes" :class="{ 'active-button': sortBy == 'attributes' }">
+    + All Attributes
+  </button>
+  <button @click="sortByResistances" :class="{ 'active-button': sortBy == 'resistances' }">
+    + All Resistances
+  </button>
   <div class="torch-row">
     <div>+ 3 Class Skills</div>
     <div>+ All Attributes</div>
@@ -41,7 +47,8 @@ export default {
   data() {
     return {
       hellfireTorches: hellfireTorches,
-      hellfireTorchUnique: uniques.find(unique => unique.name === 'Hellfire Torch')
+      hellfireTorchUnique: uniques.find(unique => unique.name === 'Hellfire Torch'),
+      sortBy: ''
     }
   },
   mounted() {
@@ -60,6 +67,7 @@ export default {
           return a.class.localeCompare(b.class)
         }
       })
+      this.sortBy = 'class'
     },
     sortByAttributes() {
       this.hellfireTorches.sort((a, b) => {
@@ -73,6 +81,7 @@ export default {
           return b.attributes - a.attributes
         }
       })
+      this.sortBy = 'attributes'
     },
     sortByResistances() {
       this.hellfireTorches.sort((a, b) => {
@@ -86,6 +95,7 @@ export default {
           return b.resistances - a.resistances
         }
       })
+      this.sortBy = 'resistances'
     },
   }
 }
