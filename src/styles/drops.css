@@ -30,6 +30,21 @@
   margin: 0;
 }
 
+.unique-item {
+  color: #908858;
+  font-weight: bold;
+}
+
+.set-item {
+  color: #00c400;
+  font-weight: bold;
+}
+
+.rune {
+  color: orange;
+  font-weight: bold;
+}
+
 .align-left {
   text-align: left;
 }
