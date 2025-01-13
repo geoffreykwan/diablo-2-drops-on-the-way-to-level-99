@@ -28,8 +28,8 @@
 </template>
 
 <script>
-import '../styles/character.css'
-import character from '../data/character.json'
+import '@/styles/character.css'
+import character from '@/data/character.json'
 export default {
   name: 'Character',
   data() {

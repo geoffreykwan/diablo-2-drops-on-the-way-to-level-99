@@ -33,11 +33,11 @@
 </template>
 
 <script>
-import '../styles/gheeds-fortunes.css'
-import Item from '../components/Item.vue'
-import ItemStats from '../components/ItemStats.vue'
-import uniques from '../data/uniques.json'
-import gheedsFortunes from '../data/gheeds-fortunes.json'
+import '@/styles/gheeds-fortunes.css'
+import Item from '@/components/Item.vue'
+import ItemStats from '@/components/ItemStats.vue'
+import uniques from '@/data/uniques.json'
+import gheedsFortunes from '@/data/gheeds-fortunes.json'
 export default {
   name: "Gheed's Fortunes",
   components: {

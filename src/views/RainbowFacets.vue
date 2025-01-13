@@ -58,8 +58,8 @@
 </template>
 
 <script>
-import '../styles/rainbow-facets.css'
-import rainbowFacets from '../data/rainbow-facets.json'
+import '@/styles/rainbow-facets.css'
+import rainbowFacets from '@/data/rainbow-facets.json'
 export default {
   name: 'RainbowFacets',
   data() {

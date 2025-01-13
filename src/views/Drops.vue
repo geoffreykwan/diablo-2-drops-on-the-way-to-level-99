@@ -45,13 +45,13 @@
 </template>
 
 <script>
-import '../styles/drops.css'
-import Item from '../components/Item.vue'
-import ItemStats from '../components/ItemStats.vue'
-import dropCounts from '../data/drop-counts.json'
-import uniques from '../data/uniques.json'
-import runes from '../data/runes.json'
-import setBonuses from '../data/set-bonuses.json'
+import '@/styles/drops.css'
+import Item from '@/components/Item.vue'
+import ItemStats from '@/components/ItemStats.vue'
+import dropCounts from '@/data/drop-counts.json'
+import uniques from '@/data/uniques.json'
+import runes from '@/data/runes.json'
+import setBonuses from '@/data/set-bonuses.json'
 const items = [...uniques, ...runes]
 const filteredItems = items
 export default {

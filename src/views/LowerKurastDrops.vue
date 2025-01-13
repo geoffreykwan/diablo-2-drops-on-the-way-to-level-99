@@ -27,9 +27,9 @@
 </template>
 
 <script>
-import '../styles/lower-kurast-drops.css'
-import runes from '../data/runes.json'
-import lowerKurastDrops from '../data/lower-kurast-drops.json'
+import '@/styles/lower-kurast-drops.css'
+import runes from '@/data/runes.json'
+import lowerKurastDrops from '@/data/lower-kurast-drops.json'
 export default {
   name: 'Lower Kurast Drops',
   data() {

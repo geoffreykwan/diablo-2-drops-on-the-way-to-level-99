@@ -11,8 +11,8 @@
 </template>
 
 <script>
-import '../styles/plus-skill-grand-charms.css'
-import plusSkillGrandCharms from '../data/plus-skill-grand-charms.json'
+import '@/styles/plus-skill-grand-charms.css'
+import plusSkillGrandCharms from '@/data/plus-skill-grand-charms.json'
 export default {
   name: 'PlusSkillGrandCharms',
   data() {

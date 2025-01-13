@@ -33,11 +33,11 @@
 </template>
 
 <script>
-import '../styles/hellfire-torches.css'
-import Item from '../components/Item.vue'
-import ItemStats from '../components/ItemStats.vue'
-import uniques from '../data/uniques.json'
-import hellfireTorches from '../data/hellfire-torches.json'
+import '@/styles/hellfire-torches.css'
+import Item from '@/components/Item.vue'
+import ItemStats from '@/components/ItemStats.vue'
+import uniques from '@/data/uniques.json'
+import hellfireTorches from '@/data/hellfire-torches.json'
 export default {
   name: 'HellfireTorches',
   components: {

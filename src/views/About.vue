@@ -12,8 +12,8 @@
 </template>
 
 <script>
-import '../styles/about.css'
-import about from '../data/about.json'
+import '@/styles/about.css'
+import about from '@/data/about.json'
 export default {
   name: 'About',
   data() {

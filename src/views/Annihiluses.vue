@@ -33,11 +33,11 @@
 </template>
 
 <script>
-import '../styles/annihiluses.css'
-import Item from '../components/Item.vue'
-import ItemStats from '../components/ItemStats.vue'
-import uniques from '../data/uniques.json'
-import annihiluses from '../data/annihiluses.json'
+import '@/styles/annihiluses.css'
+import Item from '@/components/Item.vue'
+import ItemStats from '@/components/ItemStats.vue'
+import uniques from '@/data/uniques.json'
+import annihiluses from '@/data/annihiluses.json'
 export default {
   name: 'Annihiluses',
   components: {
