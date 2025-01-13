@@ -1,3 +1,8 @@
 .question {
   background-color: #20100a;
+  padding: 10px
+}
+
+.answer {
+  padding: 10px
 }
