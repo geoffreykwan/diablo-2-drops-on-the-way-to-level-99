@@ -9,9 +9,15 @@
     </div>
   </div>
   Sort By
-  <button @click="sortByExtraGold">+% Extra Gold</button>
-  <button @click="sortByVendorPrices">+% Reduce Vendor Prices</button>
-  <button @click="sortByMagicFind">+% Magic Find</button>
+  <button @click="sortByExtraGold" :class="{ 'active-button': sortBy == 'goldFind' }">
+    +% Extra Gold
+  </button>
+  <button @click="sortByVendorPrices" :class="{ 'active-button': sortBy == 'vendorPrices' }">
+    +% Reduce Vendor Prices
+  </button>
+  <button @click="sortByMagicFind" :class="{ 'active-button': sortBy == 'magicFind' }">
+    +% Magic Find
+  </button>
   <div class="annihilus-row">
     <div>+% Extra Gold</div>
     <div>+% Reduce Vendor Prices</div>
@@ -41,7 +47,8 @@ export default {
   data() {
     return {
       gheedsFortunes: gheedsFortunes,
-      gheedsFortuneUnique: uniques.find(unique => unique.name === "Gheed's Fortune")
+      gheedsFortuneUnique: uniques.find(unique => unique.name === "Gheed's Fortune"),
+      sortBy: ''
     }
   },
   mounted() {
@@ -60,6 +67,7 @@ export default {
           return b.extraGold - a.extraGold
         }
       })
+      this.sortBy = 'goldFind'
     },
     sortByVendorPrices() {
       this.gheedsFortunes.sort((a, b) => {
@@ -73,6 +81,7 @@ export default {
           return b.vendorPrices - a.vendorPrices
         }
       })
+      this.sortBy = 'vendorPrices'
     },
     sortByMagicFind() {
       this.gheedsFortunes.sort((a, b) => {
@@ -86,6 +95,7 @@ export default {
           return b.magicFind - a.magicFind
         }
       })
+      this.sortBy = 'magicFind'
     },
   }
 }
