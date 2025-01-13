@@ -1,36 +1,49 @@
-<script setup lang="ts">
-</script>
-
 <template>
   <div>
-    <router-link to="/drops"><button>Drops</button></router-link>
-    <router-link to="/hellfire-torches"><button>Hellfire Torches</button></router-link>
-    <router-link to="/annihiluses"><button>Annihiluses</button></router-link>
-    <router-link to="/gheeds-fortunes"><button>Gheed's Fortunes</button></router-link>
-    <router-link to="/rainbow-facets"><button>Rainbow Facets</button></router-link>
-    <router-link to="/plus-skill-grand-charms"><button>+Skill Grand Charms</button></router-link>
-    <router-link to="/lower-kurast-drops"><button>Lower Kurast Drops</button></router-link>
-    <router-link to="/character"><button>Character</button></router-link>
-    <router-link to="/about"><button>About</button></router-link>
+    <router-link to="/drops">
+      <button :class="{ 'active-button': currentRouteName == 'Drops' }">Drops</button>
+    </router-link>
+    <router-link to="/hellfire-torches">
+      <button :class="{ 'active-button': currentRouteName == 'Hellfire Torches' }">Hellfire
+        Torches</button>
+    </router-link>
+    <router-link to="/annihiluses">
+      <button :class="{ 'active-button': currentRouteName == 'Annihiluses' }">Annihiluses</button>
+    </router-link>
+    <router-link to="/gheeds-fortunes">
+      <button :class="{ 'active-button': currentRouteName == 'Gheed\'s Fortunes' }">Gheed's
+        Fortunes</button>
+    </router-link>
+    <router-link to="/rainbow-facets">
+      <button :class="{ 'active-button': currentRouteName == 'Rainbow Facets' }">
+        Rainbow Facets
+      </button>
+    </router-link>
+    <router-link to="/plus-skill-grand-charms">
+      <button :class="{ 'active-button': currentRouteName == '+Skill Grand Charms' }">
+        +Skill Grand Charms
+      </button>
+    </router-link>
+    <router-link to="/lower-kurast-drops">
+      <button :class="{ 'active-button': currentRouteName == 'Lower Kurast Drops' }">
+        Lower Kurast Drops
+      </button>
+    </router-link>
+    <router-link to="/character">
+      <button :class="{ 'active-button': currentRouteName == 'Character' }">Character</button>
+    </router-link>
+    <router-link to="/about">
+      <button :class="{ 'active-button': currentRouteName == 'About' }">About</button>
+    </router-link>
   </div>
   <div>
     <router-view />
   </div>
 </template>
 
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
-</style>
+<script setup lang="ts">
+import { computed } from 'vue';
+import { useRouter } from 'vue-router'
+const router = useRouter()
+const currentRouteName = computed(() => router.currentRoute.value.name)
+</script>
