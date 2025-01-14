@@ -1,8 +1,21 @@
 <template>
   <h1>Drops</h1>
+  <button @click="showSearchHelp = !showSearchHelp" :class="{ 'active-button': showSearchHelp }">
+    ?
+  </button>
   <input v-model="searchText" v-on:input="filterDrops"
-    placeholder="Search by name or count, use the | character (vertical bar) to search for multiple things at once" />
+    placeholder="Search, click the ? button to the left for instructions on different ways to search" />
   <button @click="searchText = ''; filterDrops()">Clear</button>
+  <div v-if="showSearchHelp">
+    <li class="attribute-line">Search By</li>
+    <li class="attribute-line">- Item Name (jordan, zod, etc.)</li>
+    <li class="attribute-line">- Base Item Name (shako, hydra, etc.)</li>
+    <li class="attribute-line">- Item Category (rings, runes, bow, elite armor, etc.)</li>
+    <li class="attribute-line">- Treasure Class (tc87, tc3, etc.)</li>
+    <li class="attribute-line">- Count (0, 1, etc.)</li>
+    <li class="attribute-line">- Multiple things at once using the | character (vertical bar) which
+      uses "or" logic (arach|shako|jordan)</li>
+  </div>
   <br />
   <button @click="toggleStats" :class="{ 'active-button': showAttributes }">
     Toggle Item Attributes
@@ -71,6 +84,7 @@ export default {
       searchText: '',
       setBonuses: setBonuses,
       showAttributes: false,
+      showSearchHelp: false,
       sortBy: '',
       uniques: uniques,
     }
