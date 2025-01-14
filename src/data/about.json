@@ -23,10 +23,6 @@
     "answer": "It took 175 hours and about 5000 Chaos Sanctuary runs. Note that I saved my Ancients Quests to complete at level 98, so if you don't do that, it will take a little longer."
   },
   {
-    "question": "How did you keep track of all the drops?",
-    "answer": "Each time a unique, set, or rune dropped, I manually entered it into a spreadsheet."
-  },
-  {
     "question": "Did you obtain all the holy grail items?",
     "answer": "No, there were 15 holy grail items I did not obtain."
   },
@@ -51,8 +47,20 @@
     "answer": "I started by making a classic character and beating Hell in order to avoid completing my Ancients Quests. Then I converted my character to an expansion character and ran Chaos Sanctuary many times. At level 98 I completed Ancients Quests in Normal, Nightmare, and Hell."
   },
   {
+    "question": "How did you keep track of all the drops?",
+    "answer": "Each time a unique item, set item, or rune dropped, I manually entered it into a spreadsheet."
+  },
+  {
+    "question": "Can you share the spreadsheet raw data?",
+    "answer": "Yes, you can download the raw data here in csv format.",
+    "linkText": "drops.csv",
+    "linkUrl": "src/data/drops.csv",
+    "download": true
+  },
+  {
     "question": "Do you have any other sites?",
     "answer": "Yes, a long time ago I made this Diablo 2 search site.",
-    "link": "https://www.ocf.berkeley.edu/~gkwan/d2/search.html"
+    "linkText": "https://www.ocf.berkeley.edu/~gkwan/d2/search.html",
+    "linkUrl": "https://www.ocf.berkeley.edu/~gkwan/d2/search.html"
   }
 ]
