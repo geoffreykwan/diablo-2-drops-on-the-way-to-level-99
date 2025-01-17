@@ -8,7 +8,7 @@
       <ItemStats :item="annihilusUnique" />
     </div>
   </div>
-  Sort By
+  <h4 class="sort-by-text">Sort By</h4>
   <button @click="sortByAttributes" :class="{ 'active-button': sortBy == 'attributes' }">
     + All Attributes
   </button>

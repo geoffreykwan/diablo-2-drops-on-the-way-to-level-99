@@ -31,7 +31,7 @@
       </div>
     </div>
   </div>
-  Sort By
+  <h4 class="sort-by-text">Sort By</h4>
   <button @click="sortByElement" :class="{ 'active-button': sortBy == 'element' }">
     Element
   </button>

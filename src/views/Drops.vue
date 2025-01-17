@@ -20,19 +20,30 @@
     </div>
   </div>
   <br />
-  <button @click="toggleStats" :class="{ 'active-button': showAttributes }">
-    Toggle Item Attributes
-  </button>
-  Sort By
-  <button @click="sortAlphabetically" :class="{ 'active-button': sortBy == 'alphabetically' }">
-    Name
-  </button>
-  <button @click="sortCountIncreasing" :class="{ 'active-button': sortBy == 'countIncreasing' }">
-    Count Increasing
-  </button>
-  <button @click="sortCountDecreasing" :class="{ 'active-button': sortBy == 'countDecreasing' }">
-    Count Decreasing
-  </button>
+  <div class="grid-container-3">
+    <div>
+      <button @click="toggleStats" :class="{ 'active-button': showAttributes }">
+        Toggle Item Attributes
+      </button>
+    </div>
+    <div class="grid-span-2-4 align-left">
+      <div>
+        <h4 class="sort-by-text">Sort By</h4>
+        <button @click="sortAlphabetically"
+          :class="{ 'active-button': sortBy == 'alphabetically' }">
+          Name
+        </button>
+        <button @click="sortCountIncreasing"
+          :class="{ 'active-button': sortBy == 'countIncreasing' }">
+          Count Increasing
+        </button>
+        <button @click="sortCountDecreasing"
+          :class="{ 'active-button': sortBy == 'countDecreasing' }">
+          Count Decreasing
+        </button>
+      </div>
+    </div>
+  </div>
   <div :class="{ 'grid-container-2': !showAttributes, 'grid-container-3': showAttributes }">
     <div :class="{ 'align-left': !showAttributes, 'align-center': showAttributes }"
       @click="sortByName">

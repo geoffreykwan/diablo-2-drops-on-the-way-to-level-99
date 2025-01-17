@@ -8,7 +8,7 @@
       <ItemStats :item="hellfireTorchUnique" />
     </div>
   </div>
-  Sort By
+  <h4 class="sort-by-text">Sort By</h4>
   <button @click="sortByClass" :class="{ 'active-button': sortBy == 'class' }">
     + 3 Class Skills
   </button>

@@ -8,7 +8,7 @@
       <ItemStats :item="gheedsFortuneUnique" />
     </div>
   </div>
-  Sort By
+  <h4 class="sort-by-text">Sort By</h4>
   <button @click="sortByExtraGold" :class="{ 'active-button': sortBy == 'goldFind' }">
     +% Extra Gold
   </button>
