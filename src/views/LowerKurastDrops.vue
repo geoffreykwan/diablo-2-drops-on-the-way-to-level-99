@@ -1,7 +1,7 @@
 <template>
   <h1>Lower Kurast Drops</h1>
-  <div>I ran Lower Kurast 3000 times to obtain the runes for Infinity and recorded when I obtained a
-    Lem or higher.</div>
+  <h4>I ran Lower Kurast 3000 times to obtain the runes for Infinity and recorded when I obtained a
+    Lem or higher.</h4>
   <h3>Runs</h3>
   <div class="grid-container-2">
     <div>Run #</div>
