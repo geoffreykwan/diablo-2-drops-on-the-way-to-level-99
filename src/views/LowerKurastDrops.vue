@@ -7,7 +7,7 @@
     <div>Run #</div>
     <div>Rune</div>
   </div>
-  <div class="lower-kurast-row">
+  <div class="alternate-color-rows">
     <div v-for="lowerKurastDrop in lowerKurastDrops" class="grid-container-2">
       <div>{{ lowerKurastDrop.run }}</div>
       <div>{{ lowerKurastDrop.rune }}</div>
@@ -18,7 +18,7 @@
     <div>Rune</div>
     <div>Count</div>
   </div>
-  <div class="lower-kurast-row">
+  <div class="alternate-color-rows">
     <div v-for="rune in significantRunes" class="grid-container-2">
       <div>{{ rune }}</div>
       <div>{{ runeCounts[rune] ?? 0 }}</div>

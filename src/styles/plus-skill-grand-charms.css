@@ -6,9 +6,3 @@
 .class-name {
   background-color: #20100a;
 }
-
-.skill-tab {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  padding: 10px;
-}

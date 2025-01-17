@@ -47,7 +47,7 @@
     <div>-% Enemy Resistance</div>
     <div>When</div>
   </div>
-  <div class="rainbow-facet-rows">
+  <div class="alternate-color-rows">
     <div v-for="rainbowFacet in rainbowFacets" :key="rainbowFacet" class="rainbow-facet-row">
       <div>{{ rainbowFacet.element }}</div>
       <div>{{ rainbowFacet.skillDamage }}</div>

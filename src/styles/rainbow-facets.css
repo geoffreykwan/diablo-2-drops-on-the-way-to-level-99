@@ -3,11 +3,3 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
   padding: 10px;
 }
-
-.rainbow-facet-rows > div:nth-child(odd) {
-    background-color: #20100a;
-}
-
-.rainbow-facet-rows > div:nth-child(even) {
-    background-color: black;
-}

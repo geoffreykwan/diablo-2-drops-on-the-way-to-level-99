@@ -18,13 +18,13 @@
   <button @click="sortByExperience" :class="{ 'active-button': sortBy == 'experience' }">
     + Experience Gain
   </button>
-  <div class="annihilus-row">
+  <div class="grid-container-3">
     <div>+ All Attributes</div>
     <div>+ All Resistances</div>
     <div>+ Experience Gain</div>
   </div>
-  <div class="annihilus-rows">
-    <div v-for="annihilus in annihiluses" :key="annihilus" class="annihilus-row">
+  <div class="alternate-color-rows">
+    <div v-for="annihilus in annihiluses" :key="annihilus" class="grid-container-3">
       <div>{{ annihilus.attributes }}</div>
       <div>{{ annihilus.resistances }}</div>
       <div>{{ annihilus.experience }}</div>
@@ -33,7 +33,6 @@
 </template>
 
 <script>
-import '@/styles/annihiluses.css'
 import Item from '@/components/Item.vue'
 import ItemStats from '@/components/ItemStats.vue'
 import uniques from '@/data/uniques.json'

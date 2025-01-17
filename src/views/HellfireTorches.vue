@@ -18,13 +18,13 @@
   <button @click="sortByResistances" :class="{ 'active-button': sortBy == 'resistances' }">
     + All Resistances
   </button>
-  <div class="torch-row">
+  <div class="grid-container-3">
     <div>+ 3 Class Skills</div>
     <div>+ All Attributes</div>
     <div>+ All Resistances</div>
   </div>
-  <div class="torch-rows">
-    <div v-for="hellfireTorch in hellfireTorches" :key="hellfireTorch" class="torch-row">
+  <div class="alternate-color-rows">
+    <div v-for="hellfireTorch in hellfireTorches" :key="hellfireTorch" class="grid-container-3">
       <div>{{ hellfireTorch.class }}</div>
       <div>{{ hellfireTorch.attributes }}</div>
       <div>{{ hellfireTorch.resistances }}</div>

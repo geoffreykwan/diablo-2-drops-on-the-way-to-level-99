@@ -55,7 +55,7 @@
       Count
     </div>
   </div>
-  <div :class="{ 'items': !showAttributes, 'items-with-stats': showAttributes }">
+  <div :class="{ 'alternate-color-rows': !showAttributes, 'items-with-stats': showAttributes }">
     <div v-for="item in filteredItems" :key="item.name"
       :class="{ 'grid-container-2': !showAttributes, 'grid-container-3': showAttributes }">
       <div :class="{ 'align-left': !showAttributes, 'align-center': showAttributes }">

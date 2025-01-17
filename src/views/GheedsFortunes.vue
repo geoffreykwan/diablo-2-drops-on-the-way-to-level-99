@@ -18,13 +18,13 @@
   <button @click="sortByMagicFind" :class="{ 'active-button': sortBy == 'magicFind' }">
     +% Magic Find
   </button>
-  <div class="annihilus-row">
+  <div class="grid-container-3">
     <div>+% Extra Gold</div>
     <div>+% Reduce Vendor Prices</div>
     <div>+% Magic Find</div>
   </div>
-  <div class="annihilus-rows">
-    <div v-for="gheedsFortune in gheedsFortunes" :key="gheedsFortune" class="gheeds-fortune-row">
+  <div class="alternate-color-rows">
+    <div v-for="gheedsFortune in gheedsFortunes" :key="gheedsFortune" class="grid-container-3">
       <div>{{ gheedsFortune.extraGold }}</div>
       <div>{{ gheedsFortune.vendorPrices }}</div>
       <div>{{ gheedsFortune.magicFind }}</div>
