@@ -1,20 +1,23 @@
 <template>
   <h1>Drops</h1>
+  <h4>Here are all the items I obtained while leveling from level 1 to 99.</h4>
   <button @click="showSearchHelp = !showSearchHelp" :class="{ 'active-button': showSearchHelp }">
     ?
   </button>
   <input v-model="searchText" v-on:input="filterDrops"
     placeholder="Search, click the ? button to the left for instructions on different ways to search" />
   <button @click="searchText = ''; filterDrops()">Clear</button>
-  <div v-if="showSearchHelp">
-    <li class="attribute-line">Search By</li>
-    <li class="attribute-line">- Item Name (jordan, zod, etc.)</li>
-    <li class="attribute-line">- Base Item Name (shako, hydra, etc.)</li>
-    <li class="attribute-line">- Item Category (rings, runes, bow, elite armor, etc.)</li>
-    <li class="attribute-line">- Treasure Class (tc87, tc3, etc.)</li>
-    <li class="attribute-line">- Count (0, 1, etc.)</li>
-    <li class="attribute-line">- Multiple things at once using the | character (vertical bar) which
-      uses "or" logic (arach|shako|jordan)</li>
+  <div v-if="showSearchHelp" class="align-center">
+    <div class="align-left">
+      <p class="search-by-text">Search By</p>
+      <li>Item Name (Examples: jordan, zod)</li>
+      <li>Base Item Name (Examples: shako, hydra)</li>
+      <li>Item Category (Examples: rings, runes, bow, elite bow)</li>
+      <li>Treasure Class (Examples: tc87, tc3)</li>
+      <li>Count (Examples: 0, 1)</li>
+      <li>Multiple things at once using the | character (vertical bar) which
+        uses "or" logic (Example: arach|shako|jordan)</li>
+    </div>
   </div>
   <br />
   <button @click="toggleStats" :class="{ 'active-button': showAttributes }">
