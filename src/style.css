@@ -99,3 +99,7 @@ input {
 .active-button {
   background-color: #4850B8;
 }
+
+button:active {
+  background-color: #4850B8;
+}
