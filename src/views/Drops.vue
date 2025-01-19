@@ -12,7 +12,7 @@
       <p class="search-by-text">Search By</p>
       <li>Item Name (Examples: jordan, zod)</li>
       <li>Base Item Name (Examples: shako, hydra)</li>
-      <li>Item Category (Examples: rings, runes, bow, elite bow)</li>
+      <li>Item Category (Examples: rings, runes, bows, elite bows)</li>
       <li>Treasure Class (Examples: tc87, tc3)</li>
       <li>Count (Examples: 0, 1)</li>
       <li>Multiple things at once using the | character (vertical bar) which

@@ -1647,7 +1647,7 @@
     "name": "Giant Skull"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>28-31</font> (varies) (Base Defense: 8-11)",
       "Required Level: 7",
@@ -1667,7 +1667,7 @@
     "name": "Greyform"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>39-42</font> (varies) (Base Defense: 14-17)",
       "Required Level: 12",
@@ -1686,7 +1686,7 @@
     "name": "Blinkbat's Form"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>51-54</font> (varies) (Base Defense: 21-24)",
       "Required Level: 14",
@@ -1708,7 +1708,7 @@
     "name": "The Centurion"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>57-60</font> (varies) (Base Defense: 32-35)",
       "Required Level: 16",
@@ -1728,7 +1728,7 @@
     "name": "Twitchthroe"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>83-98</font> (varies) (Base Defense: 45-48)",
       "Required Level: 14",
@@ -1751,7 +1751,7 @@
     "name": "Darkglow"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>109-122</font> (varies) (Base Defense: 57-60)",
       "Required Level: 15",
@@ -1770,7 +1770,7 @@
     "name": "Hawkmail"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>110-138</font> (varies) (Base Defense: 65-68)",
       "Required Level: 20",
@@ -1789,7 +1789,7 @@
     "name": "Venom Ward"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>133-140</font> (varies) (Base Defense: 72-75)",
       "Required Level: 17",
@@ -1807,7 +1807,7 @@
     "name": "Sparking Mail"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>163-172</font> (varies) (Base Defense: 90-95)",
       "Required Level: 22",
@@ -1826,7 +1826,7 @@
     "name": "Iceblink"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>216</font> (Base Defense: 90-107)",
       "Required Level: 29",
@@ -1846,7 +1846,7 @@
     "name": "Heavenly Garb"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>212-243</font> (varies) (Base Defense: 101-105)",
       "Required Level: 28",
@@ -1865,7 +1865,7 @@
     "name": "Rockfleece"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>234-257</font> (varies) (Base Defense: 108-116)",
       "Required Level: 26",
@@ -1883,7 +1883,7 @@
     "name": "Boneflesh"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>328-335</font> (varies) (Base Defense: 128-135)",
       "Required Level: 29",
@@ -1901,7 +1901,7 @@
     "name": "Rattlecage"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>356-405</font> (varies) (Base Defense: 150-161)",
       "Required Level: 28",
@@ -1920,7 +1920,7 @@
     "name": "Goldskin"
   },
   {
-    "category": "Normal Armor",
+    "category": "Normal Armors",
     "stats": [
       "Defense: <font color='4850B8'>468-514</font> (varies) (Base Defense: 218-233)",
       "Required Level: 28",
@@ -1938,7 +1938,7 @@
     "name": "Silks of the Victor"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>295</font> (Base Defense: 102-117)",
       "Required Level: 28",
@@ -1957,7 +1957,7 @@
     "name": "The Spirit Shroud"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>279</font> (Base Defense: 111-126)",
       "Required Level: 29",
@@ -1976,7 +1976,7 @@
     "name": "Skin of the Vipermagi"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>342-397</font> (varies) (Base Defense: 122-136)",
       "Required Level: 31",
@@ -1995,7 +1995,7 @@
     "name": "Skin of the Flayed One"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>(234-528) - (311-605)</font> (varies) (Base Defense: 138-153)",
       "Required Level: 33",
@@ -2014,7 +2014,7 @@
     "name": "Iron Pelt"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>477-534</font> (varies) (Base Defense: 176-190)",
       "Required Level: 37",
@@ -2033,7 +2033,7 @@
     "name": "Crow Caw"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>380-449</font> (varies) (Base Defense: 158-172)",
       "Required Level: 35",
@@ -2054,7 +2054,7 @@
     "name": "Spirit Forge"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense:  <font color='4850B8'>(528-650) - (610-732)</font> (varies) (Base Defense: 188-202)",
       "Required Level: 41",
@@ -2077,7 +2077,7 @@
     "name": "Duriel's Shell"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>599-684</font> (varies) (Base Defense: 198-213)",
       "Required Level: 38",
@@ -2095,7 +2095,7 @@
     "name": "Shaftstop"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>634-732</font> (varies) (Base Defense: 225-243)",
       "Required Level: 42",
@@ -2114,7 +2114,7 @@
     "name": "Skullder's Ire"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>628-681</font> (varies) (Base Defense: 225-261)",
       "Required Level: 51",
@@ -2135,7 +2135,7 @@
     "name": "Que-Hegan's Wisdom"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>713-888</font> (varies) (Base Defense: 242-258)",
       "Required Level: 48",
@@ -2155,7 +2155,7 @@
     "name": "Toothrow"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>770-825</font> (varies) (Base Defense: 252-274)",
       "Required Level: 45",
@@ -2179,7 +2179,7 @@
     "name": "Guardian Angel"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>(670-866) - (792-988)</font> (varies) (Base Defense: 282-303)",
       "Required Level: 51",
@@ -2200,7 +2200,7 @@
     "name": "Atma's Wail"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>823-1029</font> (varies) (Base Defense: 315-342)",
       "Required Level: 53",
@@ -2220,7 +2220,7 @@
     "name": "Black Hades"
   },
   {
-    "category": "Exceptional Armor",
+    "category": "Exceptional Armors",
     "stats": [
       "Defense: <font color='4850B8'>1127-1262</font> (varies) (Base Defense: 417-450)",
       "Required Level: 55",
@@ -2241,7 +2241,7 @@
     "name": "Corpsemourn"
   },
   {
-    "category": "Elite Armor",
+    "category": "Elite Armors",
     "stats": [
       "Defense: <font color='4850B8'>371-487</font> (varies) (Base Defense: 361-467)",
       "Required Level: 75",
@@ -2262,7 +2262,7 @@
     "name": "Ormus' Robes"
   },
   {
-    "category": "Elite Armor",
+    "category": "Elite Armors",
     "stats": [
       "Defense: <font color='4850B8'>1255-1496</font> (varies) (Base Defense: 375-481)",
       "Required Level: 85",
@@ -2284,7 +2284,7 @@
     "name": "The Gladiator's Bane"
   },
   {
-    "category": "Elite Armor",
+    "category": "Elite Armors",
     "stats": [
       "Defense: <font color='4850B8'>1295-1450</font> (varies) (Base Defense: 410-517)",
       "Required Level: 85",
@@ -2303,7 +2303,7 @@
     "name": "Arkaine's Valor"
   },
   {
-    "category": "Elite Armor",
+    "category": "Elite Armors",
     "stats": [
       "Defense: <font color='4850B8'>1514-1722</font> (varies) (Base Defense: 417-523)",
       "Required Level: 65",
@@ -2322,7 +2322,7 @@
     "name": "Leviathan"
   },
   {
-    "category": "Elite Armor",
+    "category": "Elite Armors",
     "stats": [
       "Defense: <font color='4850B8'>1618-1785</font> (varies) (Base Defense: 446-557)",
       "Required Level: 66",
@@ -2343,7 +2343,7 @@
     "name": "Steel Carapace"
   },
   {
-    "category": "Elite Armor",
+    "category": "Elite Armors",
     "stats": [
       "Defense: <font color='4850B8'>1622-1923</font> (varies) (Base Defense: 487-600)",
       "Required Level: 74",
@@ -2364,7 +2364,7 @@
     "name": "Templar's Might"
   },
   {
-    "category": "Elite Armor",
+    "category": "Elite Armors",
     "stats": [
       "Defense: <font color='4850B8'>1322-1502</font> (varies) (Base Defense: 487-600)",
       "Required Level: 84",
@@ -8072,6 +8072,7 @@
     "name": "Death's Web"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>68</font> (Base Defense: 45-48)",
@@ -8092,6 +8093,7 @@
     "type": "Ring Mail"
   },
   {
+    "category": "Normal Swords",
     "classSpecificSet": "",
     "stats": [
       "One-Hand Damage: 3 to 8 (5.5 Avg)",
@@ -8114,6 +8116,7 @@
     "type": "Sabre"
   },
   {
+    "category": "Rings",
     "classSpecificSet": "",
     "stats": [
       "Required Level: 12",
@@ -8130,6 +8133,7 @@
     "type": "Ring"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "",
     "stats": [
       "Required Level: 12",
@@ -8146,6 +8150,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: 8-11 (varies)",
@@ -8166,6 +8171,7 @@
     "type": "Skull Cap"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: 90-107 (varies)",
@@ -8186,6 +8192,7 @@
     "type": "Light Plate"
   },
   {
+    "category": "Normal Staves",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Two-Hand Damage: 12-28 (20 Avg)",
@@ -8206,6 +8213,7 @@
     "type": "War Staff"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Required Level: 15",
@@ -8222,6 +8230,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: <font color='#4850b8'>45 - 51</font> (varies) (Base Defense 8-11)",
@@ -8242,6 +8251,7 @@
     "type": "Quilted Armor"
   },
   {
+    "category": "Normal Belts",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: <font color='#4850b8'>33</font> (Base Defense: 3)",
@@ -8260,6 +8270,7 @@
     "type": "Light Belt"
   },
   {
+    "category": "Normal Gloves",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: 9-11 (varies)",
@@ -8279,6 +8290,7 @@
     "type": "Light Gauntlets"
   },
   {
+    "category": "Normal Bows",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Two-Hand Damage: <font color='#4850b8'>9 to 21</font> (15 avg)",
@@ -8299,6 +8311,7 @@
     "type": "Short War Bow"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Defense: <font color='#4850b8'>30-33</font> (varies) (Base Defense: 15-18)",
@@ -8317,6 +8330,7 @@
     "type": "Helm"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Defense: 90-95 (varies)",
@@ -8336,6 +8350,7 @@
     "type": "Splint Mail"
   },
   {
+    "category": "Normal Axes",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "One-Hand Damage: 5 to 13 (9 Avg)",
@@ -8356,6 +8371,7 @@
     "type": "Double Axe"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: 9-27 (varies)",
@@ -8375,6 +8391,7 @@
     "type": "Mask"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: <font color='#4850b8'>87-90</font> (varies) (Base Defense: 72-75)",
@@ -8394,6 +8411,7 @@
     "type": "Chain Mail"
   },
   {
+    "category": "Normal Staves",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Two-Hand Damage: 6 to 13 (9.5 Avg)",
@@ -8414,6 +8432,7 @@
     "type": "Battle Staff"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Required Level: 11",
@@ -8430,6 +8449,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Rings",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Required Level: 11",
@@ -8445,6 +8465,7 @@
     "type": "Ring"
   },
   {
+    "category": "Normal Scepters",
     "classSpecificSet": "",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>8 to (36-140)</font> (22-74 Avg)",
@@ -8465,6 +8486,7 @@
     "type": "Grand Scepter"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "",
     "stats": [
       "Required Level: 9",
@@ -8481,6 +8503,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Normal Shields",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>27-29</font> (varies) (Base Defense: 12-14)",
@@ -8502,6 +8525,7 @@
     "type": "Large Shield"
   },
   {
+    "category": "Normal Swords",
     "classSpecificSet": "",
     "stats": [
       "One-Hand Damage: 3 to 19 (11 Avg)",
@@ -8523,6 +8547,7 @@
     "type": "Long Sword"
   },
   {
+    "category": "Normal Gloves",
     "classSpecificSet": "",
     "stats": [
       "Defense: 8-9 (varies)",
@@ -8541,6 +8566,7 @@
     "type": "Chain Gloves"
   },
   {
+    "category": "Normal Shields",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>25-27</font> (varies) (Base Defense: 8-10)",
@@ -8561,6 +8587,7 @@
     "type": "Small Shield"
   },
   {
+    "category": "Normal Swords",
     "classSpecificSet": "",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>10 to 25</font> (17.5 Avg)",
@@ -8581,6 +8608,7 @@
     "type": "War Sword"
   },
   {
+    "category": "Normal Gloves",
     "classSpecificSet": "",
     "stats": [
       "Defense: 2-3 (varies)",
@@ -8598,6 +8626,7 @@
     "type": "Leather Gloves"
   },
   {
+    "category": "Normal Belts",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>22</font> (Base Defense: 2)",
@@ -8616,6 +8645,7 @@
     "type": "Sash"
   },
   {
+    "category": "Normal Shields",
     "classSpecificSet": "",
     "stats": [
       "Defense: 4-6 (varies)",
@@ -8637,6 +8667,7 @@
     "type": "Buckler"
   },
   {
+    "category": "Normal Belts",
     "classSpecificSet": "",
     "stats": [
       "Defense: 5",
@@ -8657,6 +8688,7 @@
     "type": "Belt"
   },
   {
+    "category": "Normal Boots",
     "classSpecificSet": "",
     "stats": [
       "Defense: 8-9 (varies)",
@@ -8676,6 +8708,7 @@
     "type": ""
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "Defense: 3-5 (varies)",
@@ -8694,6 +8727,7 @@
     "type": "Cap"
   },
   {
+    "category": "Normal Belts",
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "Defense: <font color='#4850b8'>31</font> (Base Defense: 6)",
@@ -8714,6 +8748,7 @@
     "type": "Heavy Belt"
   },
   {
+    "category": "Normal Wands",
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>13 to 14</font> (13.5 Avg)",
@@ -8733,6 +8768,7 @@
     "type": "Grim Wand"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: 25-45 (varies)",
@@ -8752,6 +8788,7 @@
     "type": "Crown"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "",
     "stats": [
       "Required Level: 15",
@@ -8767,6 +8804,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Normal Belts",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>31</font> (Base Defense: 6)",
@@ -8786,6 +8824,7 @@
     "type": "Heavy Belt"
   },
   {
+    "category": "Normal Gloves",
     "classSpecificSet": "",
     "stats": [
       "Defense: 9-11 (varies)",
@@ -8804,6 +8843,7 @@
     "type": "Light Gauntlets"
   },
   {
+    "category": "Normal Swords",
     "classSpecificSet": "",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>17 to 18</font> (17.5 Avg)",
@@ -8823,6 +8863,7 @@
     "type": "Broad Sword"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: 23-26 (varies)",
@@ -8841,6 +8882,7 @@
     "type": "Full Helm"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>105-108</font> (varies) (Base Defense: 65-68)",
@@ -8860,6 +8902,7 @@
     "type": "Breast Plate"
   },
   {
+    "category": "Normal Shields",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>70-75</font> (Base Defense: 30-35)",
@@ -8880,6 +8923,7 @@
     "type": "Gothic Shield"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "Paladin Set",
     "stats": [
       "Defense: 25-45 (varies)",
@@ -8898,6 +8942,7 @@
     "type": "Crown"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "Paladin Set",
     "stats": [
       "Defense: 234 (Base Defense: 218-233)",
@@ -8917,6 +8962,7 @@
     "type": "Ancient Armor"
   },
   {
+    "category": "Normal Shields",
     "classSpecificSet": "Paladin Set",
     "stats": [
       "Defense: <font color='#4850b8'>44</font> (Base Defense: 16-18)",
@@ -8939,6 +8985,7 @@
     "type": "Kite Shield"
   },
   {
+    "category": "Normal Scepters",
     "classSpecificSet": "Paladin Set",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>15 To 25</font> (20 Avg)",
@@ -8959,6 +9006,7 @@
     "type": "War Scepter"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>55-60</font> (varies) (Base Defense: 30-35)",
@@ -8977,6 +9025,7 @@
     "type": "Great Helm"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>170</font> (Base Defense: 128 To 135)",
@@ -8995,6 +9044,7 @@
     "type": "Gothic Plate"
   },
   {
+    "category": "Normal Boots",
     "classSpecificSet": "",
     "stats": [
       "Defense: 12-15 (varies)",
@@ -9015,6 +9065,7 @@
     "type": "Greaves"
   },
   {
+    "category": "Normal Shields",
     "classSpecificSet": "",
     "stats": [
       "Defense: 22-25 (varies)",
@@ -9034,6 +9085,7 @@
     "type": "Tower Shield"
   },
   {
+    "category": "Normal Belts",
     "classSpecificSet": "",
     "stats": [
       "Defense: 8-11 (varies)",
@@ -9054,6 +9106,7 @@
     "type": "Plated Belt"
   },
   {
+    "category": "Normal Gloves",
     "classSpecificSet": "",
     "stats": [
       "Defense: 12-15 (varies)",
@@ -9072,6 +9125,7 @@
     "type": "Gauntlets"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: 33-36 (varies)",
@@ -9090,6 +9144,7 @@
     "type": "Bone Helm"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: 150-161 (varies)",
@@ -9109,6 +9164,7 @@
     "type": "Full Plate Mail"
   },
   {
+    "category": "Normal Boots",
     "classSpecificSet": "",
     "stats": [
       "Defense: 2-3 (varies)",
@@ -9128,6 +9184,7 @@
     "type": "Boots"
   },
   {
+    "category": "Normal Axes",
     "classSpecificSet": "",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>12 to 19</font> (15.5 Avg)",
@@ -9149,6 +9206,7 @@
     "type": "Military Pick"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "",
     "stats": [
       "Required Level: 20",
@@ -9165,6 +9223,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Normal Bows",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Two-Hand Damage: 3 to 18 (10.5 Avg)",
@@ -9183,6 +9242,7 @@
     "type": "Long Battle Bow"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: <font color='#4850b8'>64-67</font> (varies) (Base Defense: 14-17)",
@@ -9203,6 +9263,7 @@
     "type": "Leather Armor"
   },
   {
+    "category": "Normal Boots",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: 9-11 (varies)",
@@ -9222,6 +9283,7 @@
     "type": "Light Plated Boots"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Required Level: 14",
@@ -9237,6 +9299,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Druid Pelts",
     "classSpecificSet": "Druid Set",
     "stats": [
       "Defense: <font color='#4850b8'>157-171</font> (varies) (Base Defense: 67-81)",
@@ -9262,6 +9325,7 @@
     "type": "Hunter's Guise"
   },
   {
+    "category": "Exceptional Boots",
     "classSpecificSet": "Druid Set",
     "stats": [
       "Defense: 39-47 (varies)",
@@ -9287,6 +9351,7 @@
     "type": "Battle Boots"
   },
   {
+    "category": "Elite Armors",
     "classSpecificSet": "Druid Set",
     "stats": [
       "Defense: <font color='#4850b8'>746-857</font> (varies) (Base Defense: 446-557)",
@@ -9312,6 +9377,7 @@
     "type": "Shadow Plate"
   },
   {
+    "category": "Exceptional Mace Classes: Maces and Mauls",
     "classSpecificSet": "Druid Set",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>60 To 93</font> (76.5 Avg)",
@@ -9339,6 +9405,7 @@
     "type": "Jagged Star"
   },
   {
+    "category": "Elite Swords",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "One Handed Damage: <font color='#4850b8'>75 To 195</font> (135 Avg)",
@@ -9362,6 +9429,7 @@
     "type": "Colossus Blade"
   },
   {
+    "category": "Elite Swords",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "One Handed Damage: <font color='#4850b8'>120 To 150</font> (135 Avg)",
@@ -9384,6 +9452,7 @@
     "type": "Mythical Sword"
   },
   {
+    "category": "Exceptional Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense : <font color='#4850b8'>120-128</font> (varies) (Base Defense: 45-53)",
@@ -9403,6 +9472,7 @@
     "type": "War Hat"
   },
   {
+    "category": "Normal Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>57</font> (Base Defense: 32-35)",
@@ -9422,6 +9492,7 @@
     "type": "Studded Leather"
   },
   {
+    "category": "Normal Boots",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>30-41</font> (varies) (Base Defense: 5-6)",
@@ -9443,6 +9514,7 @@
     "type": "Heavy Boots"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "",
     "stats": [
       "Required Level: 30",
@@ -9459,6 +9531,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Elite Gloves",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>79-87</font> (varies) (Base Defense: 54-62)",
@@ -9479,6 +9552,7 @@
     "type": "Bramble Mitts"
   },
   {
+    "category": "Elite Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>666-882</font> (varies) (Base Defense: 361-467)",
@@ -9498,6 +9572,7 @@
     "type": "Dusk Shroud"
   },
   {
+    "category": "Excpetional Boots",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>53-60</font> (varies) (Base Defense: 28-35)",
@@ -9518,6 +9593,7 @@
     "type": "Demonhide Boots"
   },
   {
+    "category": "Elite Belts",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>108-115</font> (varies) (Base Defense: 58-65)",
@@ -9538,6 +9614,7 @@
     "type": "Mithril Coil"
   },
   {
+    "category": "Exceptional Armors",
     "classSpecificSet": "Paladin Set",
     "stats": [
       "Defense: <font color='#4850b8'>917-950</font> (varies) (Base Defense 417-450)",
@@ -9558,6 +9635,7 @@
     "type": "Ornate Plate"
   },
   {
+    "category": "Elite Helms",
     "classSpecificSet": "Paladin Set",
     "stats": [
       "Defense: <font color='#4850b8'>249-290</font> (varies) (Base Defense: 111-165)",
@@ -9580,6 +9658,7 @@
     "type": "Corona"
   },
   {
+    "category": "Elite Scepters",
     "classSpecificSet": "Paladin Set",
     "stats": [
       "Damage: <font color='#4850b8'>(111-125) To (129-146)</font> (120-135.5 Avg)",
@@ -9607,6 +9686,7 @@
     "type": "Caduceus"
   },
   {
+    "category": "Paladin Shields",
     "classSpecificSet": "Paladin Set",
     "stats": [
       "Defense: <font color='#4850b8'>290-333</font> (varies) (Base Defense: 182-225)",
@@ -9630,6 +9710,7 @@
     "type": "Vortex Shield"
   },
   {
+    "category": "Exceptional Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>688-702</font> (varies) (Base Defense: 188-202)",
@@ -9650,6 +9731,7 @@
     "type": "Cuirass"
   },
   {
+    "category": "Elite Maces",
     "classSpecificSet": "",
     "stats": [
       "Damage: <font color='#4850b8'>41 To (50-197)</font> (45.5-119 Avg)",
@@ -9672,6 +9754,7 @@
     "type": "Reinforced Mace"
   },
   {
+    "category": "Elite Shields",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>203-220</font> (varies) (Base Defense: 153-170)",
@@ -9695,6 +9778,7 @@
     "type": "Ward"
   },
   {
+    "category": "Elite Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>164-209</font> (varies) (Base Defense: 114-159)",
@@ -9716,6 +9800,7 @@
     "type": "Spired Helm"
   },
   {
+    "category": "Exceptional Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>228</font> (varies) (Base Defense: 78-113)",
@@ -9735,6 +9820,7 @@
     "type": "Grand Crown"
   },
   {
+    "category": "Exceptional Polearms",
     "classSpecificSet": "",
     "stats": [
       "Damage: <font color='#4850b8'>42 To 159</font> (100.5 Avg)",
@@ -9756,6 +9842,7 @@
     "type": "Bill"
   },
   {
+    "category": "Exceptional Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>376-390</font> (Base Defense: 176-190)",
@@ -9775,6 +9862,7 @@
     "type": "Tigulated Mail"
   },
   {
+    "category": "Normal Belts",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>6-153</font> (varies) (Base Defense: 5)",
@@ -9795,6 +9883,7 @@
     "type": "Belt"
   },
   {
+    "category": "Barbarian Helms",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Defense: <font color='#4850b8'>160-175</font> (varies) (Base Defense: 35-50)",
@@ -9817,6 +9906,7 @@
     "type": "Avenger Guard"
   },
   {
+    "category": "Elite Maces",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Damage: <font color='#4850b8'>231 To 318</font> (274.5 Avg)",
@@ -9844,6 +9934,7 @@
     "type": "Ogre Maul"
   },
   {
+    "category": "Elite Armors",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Defense: <font color='#4850b8'>1001</font> (Base Defense: 487-600)",
@@ -9869,6 +9960,7 @@
     "type": "Sacred Armor"
   },
   {
+    "category": "Elite Belts",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Defense: <font color='#4850b8'>89</font> (Base Defense: 41-52)",
@@ -9896,6 +9988,7 @@
     "type": "War Belt"
   },
   {
+    "category": "Exceptional Gloves",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Defense: <font color='#4850b8'>108-118</font> (varies) (Base Defense: 43-53)",
@@ -9921,6 +10014,7 @@
     "type": "War Gauntlets"
   },
   {
+    "category": "Exceptional Boots",
     "classSpecificSet": "Barbarian Set",
     "stats": [
       "Defense: <font color='#4850b8'>118-128</font> (varies) (Base Defense: 43-53)",
@@ -9946,6 +10040,7 @@
     "type": "War Boots"
   },
   {
+    "category": "Circlets",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: <font color='#4850b8'>200-210</font> (varies) (Base Defense: 50-60)",
@@ -9967,6 +10062,7 @@
     "type": "Diadem"
   },
   {
+    "category": "Amazon Bows",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Damage: <font color='#4850b8'>40 To 207</font> (123.5 Avg)",
@@ -9991,6 +10087,7 @@
     "type": "Grand Matron Bow"
   },
   {
+    "category": "Elite Armors",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: <font color='#4850b8'>(771-1163) - (877-1269)</font> (varies) (Base Defense: 417-523)",
@@ -10013,6 +10110,7 @@
     "type": "Kraken Shell"
   },
   {
+    "category": "Exceptional Gloves",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: <font color='#4850b8'>84-97</font> (varies) (Base Defense: 39-47)",
@@ -10036,6 +10134,7 @@
     "type": "Battle Gauntlets"
   },
   {
+    "category": "Exceptional Belts",
     "classSpecificSet": "Amazon Set",
     "stats": [
       "Defense: <font color='#4850b8'>81-86</font> (varies) (Base Defense: 31-36)",
@@ -10057,6 +10156,7 @@
     "type": "Sharkskin Belt"
   },
   {
+    "category": "Exceptional Helms",
     "classSpecificSet": "Assassin Set",
     "stats": [
       "Defense: <font color='#4850b8'>195-300</font>(varies) (Base Defense: 60-125)",
@@ -10077,6 +10177,7 @@
     "type": "Grim Helm"
   },
   {
+    "category": "Assassin Katars",
     "classSpecificSet": "Assassin Set",
     "stats": [
       "Damage: <font color='#4850b8'>120 To 153</font> (136.5 Avg)",
@@ -10102,6 +10203,7 @@
     "type": "Scissors Suwayyah"
   },
   {
+    "category": "Elite Armors",
     "classSpecificSet": "Assassin Set",
     "stats": [
       "Defense: <font color='#4850b8'>540-721</font> (varies) (Base Defense: 390-496)",
@@ -10123,6 +10225,7 @@
     "type": "Loricated Mail"
   },
   {
+    "category": "Exceptional Boots",
     "classSpecificSet": "Assassin Set",
     "stats": [
       "Defense: <font color='#4850b8'>112-169</font> (varies) (Base Defense: 37-44)",
@@ -10144,6 +10247,7 @@
     "type": "Mesh Boots"
   },
   {
+    "category": "Circlets",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: <font color='#4850b8'>95-105</font>(varies) (Base Defense: 20-30)",
@@ -10163,6 +10267,7 @@
     "type": "Circlet"
   },
   {
+    "category": "Elite Armors",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: <font color='#4850b8'>721-830</font> (varies) (Base Defense: 421-530)",
@@ -10184,6 +10289,7 @@
     "type": "Hellforge Plate"
   },
   {
+    "category": "Elite Staves",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Damage: <font color='#4850b8'>200 To 232</font> (216 Avg)",
@@ -10209,6 +10315,7 @@
     "type": "Elder Staff"
   },
   {
+    "category": "Exceptional Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>217</font> (Base Defense: 85-98)",
@@ -10229,6 +10336,7 @@
     "type": "Winged Helm"
   },
   {
+    "category": "Exceptional Shields",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>154</font> (Base Defense: 47-55)",
@@ -10251,6 +10359,7 @@
     "type": "Round Shield"
   },
   {
+    "category": "Exceptional Gloves",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>60</font> (Base Defense: 33-39)",
@@ -10271,6 +10380,7 @@
     "type": "Sharkskin Gloves"
   },
   {
+    "category": "Exceptional Belts",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>75</font> (Base Defense: 37-42)",
@@ -10291,6 +10401,7 @@
     "type": "Battle Belt"
   },
   {
+    "category": "Normal Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>(4-102) - (6-104)</font>(varies) (Base Defense: 3-5)",
@@ -10308,6 +10419,7 @@
     "type": "Cap"
   },
   {
+    "category": "Normal Wands",
     "classSpecificSet": "",
     "stats": [
       "Damage: <font color='#4850b8'>5 To 12</font> (8.5 Avg)",
@@ -10329,6 +10441,7 @@
     "type": "Bone Wand"
   },
   {
+    "category": "Normal Gloves",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>25-31</font> (varies) (Base Defense: 5-6)",
@@ -10347,6 +10460,7 @@
     "type": "Heavy Gloves"
   },
   {
+    "category": "Normal Boots",
     "classSpecificSet": "",
     "stats": [
       "Defense: 5-6 (varies)",
@@ -10367,6 +10481,7 @@
     "type": "Heavy Boots"
   },
   {
+    "category": "Exceptional Helms",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>175-184</font>(varies) (Base Defense: 75-84)",
@@ -10386,6 +10501,7 @@
     "type": "Basinet"
   },
   {
+    "category": "Elite Swords",
     "classSpecificSet": "",
     "stats": [
       "Damage: <font color='#4850b8'>12 To 192</font> (102 Avg)",
@@ -10409,6 +10525,7 @@
     "type": "Cryptic Sword"
   },
   {
+    "category": "Elite Armors",
     "classSpecificSet": "",
     "stats": [
       "Defense: <font color='#4850b8'>810-917</font> (varies) (Base Defense: 410-517)",
@@ -10429,6 +10546,7 @@
     "type": "Balrog Skin"
   },
   {
+    "category": "Sorceress Orbs",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Damage: 18 To 42 (30 Avg)",
@@ -10456,6 +10574,7 @@
     "type": "Swirling Crystal"
   },
   {
+    "category": "Exceptional Helms",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: <font color='#4850b8'>99-131</font> (varies) (Base Defense: 54-86)",
@@ -10477,6 +10596,7 @@
     "type": "Death Mask"
   },
   {
+    "category": "Elite Armors",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: <font color='#4850b8'>833-941</font> (varies) (Base Defense: 433-541)",
@@ -10500,6 +10620,7 @@
     "type": "Lacquered Plate"
   },
   {
+    "category": "Exceptional Belts",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Defense: 35-40 (varies)",
@@ -10524,6 +10645,7 @@
     "type": "Mesh Belt"
   },
   {
+    "category": "Amulets",
     "classSpecificSet": "Sorceress Set",
     "stats": [
       "Required Level: 67",
@@ -10542,6 +10664,7 @@
     "type": "Amulet"
   },
   {
+    "category": "Elite Helms",
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "Defense: <font color='#4850b8'>180-257</font> (varies) (Base Defense: 100-157)",
@@ -10562,6 +10685,7 @@
     "type": "Bone Visage"
   },
   {
+    "category": "Exceptional Armors",
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "Defense: <font color='#4850b8'>857</font> (Base Defense: 315-343)",
@@ -10585,6 +10709,7 @@
     "type": "Chaos Armor"
   },
   {
+    "category": "Necromancer Shrunken Heads",
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "Defense: <font color='#4850b8'>175-189</font> (varies) (Base Defense: 50-64)",
@@ -10611,6 +10736,7 @@
     "type": "Cantor Trophy"
   },
   {
+    "category": "Elite Belts",
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "Defense: <font color='#4850b8'>134-166</font> (varies) (Base Defense: 59-66)",
@@ -10635,6 +10761,7 @@
     "type": "Troll Belt"
   },
   {
+    "category": "Exceptional Gloves",
     "classSpecificSet": "Necromancer Set",
     "stats": [
       "Defense: <font color='#4850b8'>67-74</font> (varies) (Base Defense: 37-44)",
