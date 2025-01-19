@@ -5229,7 +5229,7 @@
     "name": "Gargoyle's Bite"
   },
   {
-    "category": "Normal Mace Classes: Maces and Mauls",
+    "category": "Normal Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>1 To 10</font> (5.5 Avg)",
       "Required Level: 3",
@@ -5249,7 +5249,7 @@
     "name": "Felloak"
   },
   {
-    "category": "Normal Mace Classes: Maces and Mauls",
+    "category": "Normal Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>10 To 16</font> (13 Avg)",
       "Required Level: 5",
@@ -5268,7 +5268,7 @@
     "name": "Stoutnail"
   },
   {
-    "category": "Normal Mace Classes: Maces and Mauls",
+    "category": "Normal Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>4 To (15-16)</font> (9.5-10 Avg)",
       "Required Level: 9",
@@ -5290,7 +5290,7 @@
     "name": "Crushflange"
   },
   {
-    "category": "Normal Mace Classes: Maces and Mauls",
+    "category": "Normal Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>15 To 35</font> (25 Avg)",
       "Required Level: 15",
@@ -5313,7 +5313,7 @@
     "name": "Bloodrise"
   },
   {
-    "category": "Normal Mace Classes: Maces and Mauls",
+    "category": "Normal Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>2 To (56-58)</font> (29-30 Avg)",
       "Required Level: 21",
@@ -5336,7 +5336,7 @@
     "name": "The General's Tan Do Li Ga"
   },
   {
-    "category": "Normal Mace Classes: Maces and Mauls",
+    "category": "Normal Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>(38-47) To (58-72)</font> (48-59.5 Avg)",
       "Required Level: 27",
@@ -5356,7 +5356,7 @@
     "name": "Ironstone"
   },
   {
-    "category": "Normal Mace Classes: Maces and Mauls",
+    "category": "Normal Maces",
     "stats": [
       "Two-Hand Damage: <font color='#4850b8'>(90-120) To (129-172)</font> (109.5-146 Avg)",
       "Required Level: 24",
@@ -5376,7 +5376,7 @@
     "name": "Bonesnap"
   },
   {
-    "category": "Normal Mace Classes: Maces and Mauls",
+    "category": "Normal Maces",
     "stats": [
       "Two-Hand Damage: <font color='#4850b8'>(95-133) To (145-203)</font> (120-168 Avg)",
       "Required Level: 29",
@@ -5396,7 +5396,7 @@
     "name": "Steeldriver"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>17 To 61</font> (39 Avg)",
       "Required Level: 34",
@@ -5418,7 +5418,7 @@
     "name": "Dark Clan Crusher"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "stats": [
       "One-Hand Damage: <font color='4850B8'>(64-74) To (107-125)</font> (85.5-99.5 Avg)",
       "Required Level: 38",
@@ -5442,7 +5442,7 @@
     "name": "Fleshrender"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>(42-47) To (67-74)</font> (54.5-60.5 Avg)",
       "Required Level: 39",
@@ -5464,7 +5464,7 @@
     "name": "Sureshrill Frost"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>(54-60) To (83-92)</font> (68.5-76 Avg)",
       "Required Level: 42",
@@ -5487,7 +5487,7 @@
     "name": "Moonfall"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>(33-39) To (91-105)</font> (62-72 Avg)",
       "Required Level: 45",
@@ -5511,7 +5511,7 @@
     "name": "Baezil's Vortex"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>98 To 162</font> (130 Avg)",
       "Required Level: 43",
@@ -5533,7 +5533,7 @@
     "name": "Earthshaker"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "stats": [
       "Two-Hand Damage: <font color='#4850b8'>(148-169) To (218-249)</font> (183-209 Avg)",
       "Required Level: 48",
@@ -5555,7 +5555,7 @@
     "name": "Bloodtree Stump"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "stats": [
       "Two-Hand Damage: <font color='4850B8'>(152-170) To (257-287)</font> (204.5-228 Avg)",
       "Required Level: 45",
@@ -9377,7 +9377,7 @@
     "type": "Shadow Plate"
   },
   {
-    "category": "Exceptional Mace Classes: Maces and Mauls",
+    "category": "Exceptional Maces",
     "classSpecificSet": "Druid Set",
     "stats": [
       "One-Hand Damage: <font color='#4850b8'>60 To 93</font> (76.5 Avg)",
