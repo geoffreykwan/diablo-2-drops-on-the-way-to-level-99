@@ -1,3 +1,7 @@
+.rainbow-facet-attribute {
+  color: #4850B8;
+}
+
 .rainbow-facet-row {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;

@@ -14,16 +14,24 @@
           <span>Required Level: 49</span>
         </li>
         <li class="attribute-line align-left">
-          <font color="#4850B8">100% Chance To Cast Level X Y When you (Die/Level)</font>
+          <span class="rainbow-facet-attribute">
+            100% Chance To Cast Level X Y When you (Die/Level)
+          </span>
         </li>
         <li class="attribute-line align-left">
-          <font color="#4850B8">Adds X Damage</font>
+          <span class="rainbow-facet-attribute" color="#4850B8">Adds X Damage</span>
         </li>
         <li class="attribute-line align-left">
-          <font color="#4850B8">+3-5% To (Element) Skill Damage</font> (varies)
+          <span class="rainbow-facet-attribute" color="#4850B8">
+            +3-5% To (Element) Skill Damage
+          </span>
+          <span>(varies)</span>
         </li>
         <li class="attribute-line align-left">
-          <font color="#4850B8">-(3-5)% To Enemy (Element) Resistance</font> (varies)
+          <span class="rainbow-facet-attribute" color="#4850B8">
+            -(3-5)% To Enemy (Element) Resistance
+          </span>
+          <span>(varies)</span>
         </li>
         <li class="attribute-line align-left">
           <span>(Only Spawns In Patch 1.10 or later)</span>
