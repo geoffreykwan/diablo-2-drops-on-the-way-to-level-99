@@ -40,7 +40,11 @@ button {
 }
 
 button:hover {
-  border-color: #646cff;
+  border-color: #4850B8;
+}
+
+button:active {
+  background-color: #4850B8;
 }
 
 #app {
