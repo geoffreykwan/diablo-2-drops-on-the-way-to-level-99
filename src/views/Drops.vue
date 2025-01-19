@@ -26,7 +26,7 @@
         Toggle Item Attributes
       </button>
     </div>
-    <div class="grid-span-2-4 align-left">
+    <div class="grid-span-2-2 align-left">
       <div>
         <h4 class="sort-by-text">Sort By</h4>
         <button @click="sortAlphabetically"
