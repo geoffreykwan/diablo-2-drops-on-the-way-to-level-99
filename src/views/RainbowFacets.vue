@@ -1,7 +1,7 @@
 <template>
   <h1>Rainbow Facets</h1>
   <div class="align-center">
-    <div class="grid-container-2">
+    <div class="grid-container-2 no-padding-top">
       <div class="align-center">
         <div>
           <li class="attribute-line"><img :src="'../src/assets/items/jewel06.gif'" /></li>

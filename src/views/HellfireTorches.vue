@@ -1,7 +1,7 @@
 <template>
   <h1>Hellfire Torches</h1>
   <div class="align-center">
-    <div class="grid-container-2">
+    <div class="grid-container-2 no-padding-top">
       <div class="align-center">
         <Item :item="hellfireTorchUnique" :showAttributes="true" />
       </div>

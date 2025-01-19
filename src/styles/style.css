@@ -83,6 +83,10 @@ input {
   grid-column: 2 / span 2;
 }
 
+.no-padding-top {
+  padding-top: 0px;
+}
+
 .alternate-color-rows > div:nth-child(odd) {
   background-color: #20100a;
 }
