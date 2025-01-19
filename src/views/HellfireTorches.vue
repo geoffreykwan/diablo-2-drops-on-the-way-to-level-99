@@ -10,18 +10,18 @@
   </div>
   <h4 class="sort-by-text">Sort By</h4>
   <button @click="sortByClass" :class="{ 'active-button': sortBy == 'class' }">
-    + 3 Class Skills
+    +3 Class Skills
   </button>
   <button @click="sortByAttributes" :class="{ 'active-button': sortBy == 'attributes' }">
-    + All Attributes
+    +All Attributes
   </button>
   <button @click="sortByResistances" :class="{ 'active-button': sortBy == 'resistances' }">
-    + All Resistances
+    +All Resistances
   </button>
   <div class="grid-container-3">
-    <div>+ 3 Class Skills</div>
-    <div>+ All Attributes</div>
-    <div>+ All Resistances</div>
+    <div>+3 Class Skills</div>
+    <div>+All Attributes</div>
+    <div>+All Resistances</div>
   </div>
   <div class="alternate-color-rows">
     <div v-for="hellfireTorch in hellfireTorches" :key="hellfireTorch" class="grid-container-3">

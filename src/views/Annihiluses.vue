@@ -10,18 +10,18 @@
   </div>
   <h4 class="sort-by-text">Sort By</h4>
   <button @click="sortByAttributes" :class="{ 'active-button': sortBy == 'attributes' }">
-    + All Attributes
+    +All Attributes
   </button>
   <button @click="sortByResistances" :class="{ 'active-button': sortBy == 'resistances' }">
-    + All Resistances
+    +All Resistances
   </button>
   <button @click="sortByExperience" :class="{ 'active-button': sortBy == 'experience' }">
-    + Experience Gain
+    +Experience Gain
   </button>
   <div class="grid-container-3">
-    <div>+ All Attributes</div>
-    <div>+ All Resistances</div>
-    <div>+ Experience Gain</div>
+    <div>+All Attributes</div>
+    <div>+All Resistances</div>
+    <div>+Experience Gain</div>
   </div>
   <div class="alternate-color-rows">
     <div v-for="annihilus in annihiluses" :key="annihilus" class="grid-container-3">
