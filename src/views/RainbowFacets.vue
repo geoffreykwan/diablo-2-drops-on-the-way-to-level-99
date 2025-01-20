@@ -4,7 +4,7 @@
     <div class="grid-container-2 no-padding-top">
       <div class="align-center">
         <div>
-          <li class="attribute-line"><img :src="'../src/assets/items/jewel06.gif'" /></li>
+          <li class="attribute-line"><img :src="'items/jewel06.gif'" /></li>
           <li class="attribute-line">Rainbow Facet</li>
           <li class="attribute-line">Jewel</li>
         </div>

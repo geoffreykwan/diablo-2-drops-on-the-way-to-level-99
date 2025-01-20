@@ -55,7 +55,7 @@
     "answer": "Yes, you can download the raw data here in csv format.",
     "linkText": "drops.csv",
     "linkUrl": "src/data/drops.csv",
-    "download": true
+    "download": "drops.csv"
   },
   {
     "question": "Do you have any other sites?",

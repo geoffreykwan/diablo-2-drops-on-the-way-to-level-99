@@ -20,7 +20,7 @@
   <br />
   <h3>Screenshots</h3>
   <div v-for="index in 41">
-    <img :src="'../src/assets/character/character-' + index.toString().padStart(2, '0') + '.jpg'"
+    <img :src="'character/character-' + index.toString().padStart(2, '0') + '.jpg'"
       class="character-image" />
     <br />
     <br />
