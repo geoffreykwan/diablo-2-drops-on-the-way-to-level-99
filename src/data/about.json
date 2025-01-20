@@ -54,7 +54,7 @@
     "question": "Can you share the spreadsheet raw data?",
     "answer": "Yes, you can download the raw data here in csv format.",
     "linkText": "drops.csv",
-    "linkUrl": "src/data/drops.csv",
+    "linkUrl": "drops.csv",
     "download": "drops.csv"
   },
   {
