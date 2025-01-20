@@ -5,7 +5,7 @@
     ?
   </button>
   <input v-model="searchText" v-on:input="filterDrops"
-    placeholder="Search, click the ? button to the left for instructions on different ways to search" />
+    placeholder="Search, click the ? button on the left for instructions on different ways to search" />
   <button @click="searchText = ''; filterDrops()">Clear</button>
   <div v-if="showSearchHelp" class="align-center">
     <div class="align-left">
