@@ -35,11 +35,11 @@
         </button>
         <button @click="sortCountIncreasing"
           :class="{ 'active-button': sortBy == 'countIncreasing' }">
-          Count Increasing
+          Count Low to High
         </button>
         <button @click="sortCountDecreasing"
           :class="{ 'active-button': sortBy == 'countDecreasing' }">
-          Count Decreasing
+          Count High to Low
         </button>
       </div>
     </div>
